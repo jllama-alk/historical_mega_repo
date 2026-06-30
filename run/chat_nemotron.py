@@ -8,10 +8,9 @@ NemotronH code expects past_key_values=None so it can create its own
 HybridMambaAttentionDynamicCache. This collision causes a crash on
 cache_position[-1]. The manual sampling loop below sidesteps all of that.
 
-Trade-off: O(n^2) compute — every new token re-processes the full sequence
-from scratch because the SSM state is not properly threaded back. For the
-token counts typical in this chat app (~few hundred tokens per turn) this
-is acceptable.
+Cache is properly threaded: prefill runs once on the full prompt, then each
+decode step passes only the single new token + the live HybridMambaAttentionDynamicCache,
+giving O(1) per token after the prefill instead of O(n^2).
 """
 import json, sys, datetime, warnings
 warnings.filterwarnings("ignore")
@@ -107,29 +106,96 @@ def load_model(adapter_path: Path):
 
 def generate(tokenizer, model, messages, max_new_tokens=512, temperature=0.7):
     """
-    Manual token-by-token sampling loop. Avoids model.generate() which in
-    transformers 5.5 pre-initialises DynamicCache, colliding with the remote
-    NemotronH code that expects past_key_values=None on the first call.
-    enable_thinking=False skips the model's internal CoT scratchpad.
+    Prefill + cached decode loop.
+    - Prefill: one forward pass on the full prompt, initialises HybridMambaAttentionDynamicCache
+    - Decode: one token at a time, passing only the new token + live cache each step
+    cache_params is passed directly to NemotronHForCausalLM.forward (not past_key_values)
+    via BaseTuner.forward → NemotronHForCausalLM.forward(**kwargs).
     """
     text = tokenizer.apply_chat_template(
         messages, tokenize=False, add_generation_prompt=True, enable_thinking=False
     )
     input_ids = tokenizer(text, return_tensors="pt").input_ids.to(model.device)
+    seq_len = input_ids.shape[1]
     eos = tokenizer.eos_token_id
 
+    # HybridMambaAttentionDynamicCache lives in the remote module loaded by trust_remote_code
+    inner = model.base_model.model  # NemotronHForCausalLM
+    remote_mod = sys.modules[type(inner).__module__]
+    HybridCache = remote_mod.HybridMambaAttentionDynamicCache
+    # Remote code bug: update_conv_state / update_ssm_state call .device on the list instead of the element
+    def _update_conv_state(self, layer_idx, new_conv_state, cache_init=False):
+        dev = self.conv_states[layer_idx].device
+        if cache_init:
+            self.conv_states[layer_idx] = new_conv_state.to(dev)
+        else:
+            self.conv_states[layer_idx] = self.conv_states[layer_idx].roll(shifts=-1, dims=-1)
+            self.conv_states[layer_idx][:, :, -1] = new_conv_state[:, 0, :].to(dev)
+        return self.conv_states[layer_idx]
+
+    def _update_ssm_state(self, layer_idx, new_ssm_state):
+        self.ssm_states[layer_idx] = new_ssm_state.to(self.ssm_states[layer_idx].device)
+        return self.ssm_states[layer_idx]
+
+    HybridCache.update_conv_state = _update_conv_state
+    HybridCache.update_ssm_state = _update_ssm_state
+
+    # Remote bug: NemotronHBlock.forward calls attention mixer without past_key_value=cache_params,
+    # so the KV cache is never populated/read during decode — attention sees only the single new token.
+    NemotronHBlock = remote_mod.NemotronHBlock
+    def _block_forward(self, hidden_states, cache_params=None, cache_position=None, attention_mask=None):
+        with torch.cuda.stream(torch.cuda.default_stream(hidden_states.device)):
+            residual = hidden_states
+            hidden_states = self.norm(hidden_states.to(dtype=self.norm.weight.dtype))
+            if self.residual_in_fp32:
+                residual = residual.to(torch.float32)
+            if self.block_type == "mamba":
+                hidden_states = self.mixer(hidden_states, cache_params=cache_params, cache_position=cache_position)
+            elif self.block_type == "attention":
+                hidden_states = self.mixer(
+                    hidden_states, attention_mask=attention_mask,
+                    past_key_value=cache_params, cache_position=cache_position,
+                )[0]
+            elif self.block_type == "mlp":
+                hidden_states = self.mixer(hidden_states)
+            else:
+                raise ValueError(f"Invalid block_type: {self.block_type}")
+            hidden_states = residual + hidden_states
+            return hidden_states
+    NemotronHBlock.forward = _block_forward
+
+    cache = HybridCache(inner.config, batch_size=1, dtype=torch.bfloat16, device=model.device)
+    cache.conv_kernel_size = inner.config.conv_kernel  # cuda_kernels_forward reads this but __init__ never sets it
+
+    generated = []
     with torch.inference_mode():
-        for _ in range(max_new_tokens):
-            out = model(input_ids, return_dict=True)
+        # Prefill
+        cache_pos = torch.arange(seq_len, device=model.device)
+        out = model(input_ids=input_ids, cache_params=cache, use_cache=True,
+                    cache_position=cache_pos, return_dict=True)
+        cache = out.cache_params
+
+        logits = out.logits[:, -1, :]
+        probs = torch.softmax(logits / temperature, dim=-1)
+        next_tok = torch.multinomial(probs, num_samples=1)  # [1, 1]
+        generated.append(next_tok.item())
+
+        # Decode: single token per step
+        for step in range(max_new_tokens - 1):
+            if next_tok.item() == eos:
+                break
+            cache_pos = torch.tensor([seq_len + step], device=model.device)
+            out = model(input_ids=next_tok, cache_params=cache, use_cache=True,
+                        cache_position=cache_pos, return_dict=True)
+            cache = out.cache_params
             logits = out.logits[:, -1, :]
             probs = torch.softmax(logits / temperature, dim=-1)
             next_tok = torch.multinomial(probs, num_samples=1)
-            input_ids = torch.cat([input_ids, next_tok], dim=-1)
-            if next_tok.item() == eos:
-                break
+            generated.append(next_tok.item())
 
-    prompt_len = tokenizer(text, return_tensors="pt").input_ids.shape[1]
-    return tokenizer.decode(input_ids[0, prompt_len:], skip_special_tokens=True)
+    if generated and generated[-1] == eos:
+        generated = generated[:-1]
+    return tokenizer.decode(generated, skip_special_tokens=True)
 
 
 # ── chat loop ─────────────────────────────────────────────────────────────────
