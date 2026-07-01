@@ -1,0 +1,2 @@
+(train-ai) jas@aba:/mnt/linux_storage/projects/Historical_AI/train$ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+(train-ai) jas@aba:/mnt/linux_storage/projects/Historical_AI/train$ python train.py --from-base

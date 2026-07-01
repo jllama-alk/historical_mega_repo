@@ -13,5 +13,5 @@ for word in banned_words:
     df = df[~df['input'].str.contains(word, case=False)]
     df = df[~df['output'].str.contains(word, case=False)]
 
-df = df.iloc[:500]
+df = df.iloc[:400]
 df.to_csv("filtered_data.csv", index=False)

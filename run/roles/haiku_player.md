@@ -18,8 +18,15 @@ notes from a prior evaluator pass on how to judge or play better.
 Working file: `run/test_results/_work/conversation_<timestamp>.json` — a JSON
 list of `{"role": "system"|"user"|"assistant", "content": str}`. `role:
 user` is *your* lines (the other character). `role: assistant` is the
-system's lines. Create the dir if needed. Start the file with just the
-system prompt as a single-element list.
+system's lines. Create the dir with Bash `mkdir -p` if needed. Start the
+file with just the system prompt as a single-element list.
+
+**Use the Write tool to create/update this file, and Read to check its
+current contents before appending — never `cat <<EOF` or other Bash
+heredocs to write it.** Heredocs containing JSON braces/quotes trip a
+shell-injection heuristic and force a manual approval prompt every turn;
+Write doesn't. Always use this exact path under `run/test_results/_work/`,
+never `/tmp/`.
 
 To get the system's next line, append your `user` turn to the file, then run:
 

@@ -1,0 +1,1760 @@
+sini /C20sa male /C20sevi /C19c
+Wars that Make States and Wars
+that Make Nations: Organised Violence,
+Nationalism and State Formation in the Balkans
+Abstract
+Since the beginning of the19th century the Balkans has been a synonym for aggressive
+nationalism and unbridled violence; the twophenomena traditionally understood to be
+the key obstacles for its social development. This paper contests such views by arguing
+that it was the absence of protracted warfare and coherent nationalist doctrines that
+distinguishes the history of South Easte rn Europe from the rest of the continent.
+Drawing critically on bellicosehistorical sociology and modernist theories of nationalism -
+with a spotlight on the work of Charles Tilly and Ernest Gellner. Drawing critically on
+bellicose historical sociology and modernists theories of nationalism the paper makes
+a case that it was not the abundance of nationalism and organised violence but rather
+their historical scarcity that proved decisive for the slow pace of social development in
+the Balkans.
+Keywords: Nation; Nationalism; States; War; Balkans.
+T HERE is NOTHING INHERENTLY VIOLENT in na-
+tionalist ideology. As the Catalan and Quebecois cases on the one hand
+and the Basque and Chechen on the other clearly demonstrate, there
+are ‘‘nationalisms that bark and nationalisms that bite’’ (Beissinger
+1998). Nevertheless it seems that in some parts of the world nationalism
+is exclusively identiﬁed with bellicosity . The popular perceptions of the
+Balkans
+1 are of a region prone to rampant nationalism and incessant
+violence. Such a stance was already present in the early 19th century
+when the image of the Balkans gradually replaced that of the Ottoman
+Empire as the chaotic and uncivilised Other. While the wars of
+1 In this paper the Balkans are understood
+as the region that occupies territory of the
+following seven states: Serbia, Greece,
+Bulgaria, Macedonia, Albania, Montenegro,
+and Bosnia and Herzegovina. In addition I
+make sporadic reference to the areas cur-
+rently belonging to the three independent
+states whose territories are largely outside
+of the Balkan Peninsula: Romania, Croatia
+and Turkey.
+31
+Sini/C20sa MALE/C20SEVI/C19C, School of Sociology University College, Dublin [sinisa.malesevic
+@ucd.ie].
+Arch.europ.sociol.,LIII, 1 (2012), pp. 31–63— 0003-9756/12/0000-900$07.50per art + $ 0.10 per pageªA.E.S.,
+2012
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressindependence against the crumbling ‘‘sick man of Europe’’ were
+generally greeted with enthusiasm in the West, the attempts by the
+newly independent Balkan states to establish genuine autonomy from the
+Great Powers at the end of the 19th and early 20th century provoked
+profound animosity in the major European capitals. This view is best
+illustrated by the Evening Post’s depiction of Serbia following the
+assassination of King Aleksandar Obrenovi/C19ci n 1903:
+Servia, the land of assassinations, abdications, pronunciamientos, and coups
+d’/C19Etat, has surpassed itself and caused all previous achievements to pale into
+insigniﬁcance beside the tragedy enacted between midnight and the small hours
+of this morning at Belgrade. A central Asian khanate, a not European city , would
+be a ﬁtting theatre for such ruthless and accurately planed regicide ( Evening
+Post, 1903,p . 13).
+Interestingly enough such perceptions of the region were often
+shared by the inhabitants of the Balkan Peninsula, and in particular
+the intellectuals, who were just as much prone to auto-stereotyping
+and perceiving their region as intrinsically violent, ethnocentric,
+barbaric and characterised by a distinct ‘‘Balkan mentality’’ (Cviji /C19c,
+1922; Dvornikovi/C19c 1939).
+This alleged ubiquitous violence and entrenched nationalism are
+often singled out as the principal causes for the region’s economic and
+political backwardness (Berend2003; Gerolymatos 2002). For example,
+in his 1993 introduction to the reprinted Carnegie Endowment report
+on the Balkan Wars of 1912-13 George Kennan directly links the
+violent conﬂicts in the region at the beginning and at the end of 20
+th
+century arguing that the lack of development in the Balkans was not
+rooted in religious differences but in ‘‘aggressive nationalism [ .]
+[which] manifested itself on the ﬁeld of battle, drew on deeper traits
+of character inherited, presumably , from the distant tribal past [.]a n d
+so it remains today’’ (Kennan1993,p p .4-6).
+This paper challenges both of these popular perceptions. Firstly I
+argue that when compared to the rest of the European continent,
+South East Europe has experienced less organised violence and signif-
+icantly less nationalism for much of its history. Secondly and more
+importantly it was the absence of coherent, popular nationalist ideologies
+and protracted inter-state warfare that have often proved to be a crucial
+hindrance for intensive social development in this part of Europe. The
+core argument combines theoretical and empirical aspects. The ﬁrst
+section engages with the bellicose tradition in historical sociology that
+sees the state as a direct product of warfare and it questions the
+blanket proposition that ‘wars make states’ in the context of South East
+32
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressEuropean history . I argue that the c onventional bellicose argument
+requires a serious qualiﬁcation as it seems unable to explain persistent
+weakness of the state in the 19th and early 20th century Balkans. The
+second section focuses on the relationship between organised violence,
+state formation and nationalism. It attempts to rehabilitate the classical
+modernist theories of nationalism, and in particular Gellner’s approach,
+which are often criticised for not being able to account for the alleged
+emergence of nationalist aspirations in the early19
+th century Balkans. In
+contrast to the mainstream Balkan historiography , I argue that there was
+very little if any nationalism in South East Europe for much of the19th
+century and for large sections of population nationalism was a marginal
+ideology well into the 20th century .
+South East Europe and the Bellicose Historical Sociology
+The idea that wars make states has a long tradition in social sciences,
+expressed by numerous theorists: from Gumplowitz (1899), Ratzenhofer
+(1881), Ward ( 1913), Oppenheimer ( 1926), Hintze ( 1975 [1908]) and
+R€ustow (1980 [1950]) to the more recent theories of Carneiro ( 1977),
+Downing (1992)E r t m a n(1997)a n dG a t(2006). This bellicose historical
+sociology gained momentum with Tilly’s (1975, 1985, 1992)s o p h i s t i -
+cated reformulation which emphasised the broader geo-political context
+in the changing character of imperial inter-state warfare in early
+modern Europe. For Tilly protracted wars were the principal catalyst
+of state transformation as they ultimately enabled the development of
+the omnipotent bureaucratic apparatuses, effective revenue systems,
+state wide juridical control, integrated regional administration and
+substantially better ﬁnancial infrastructure. Furthermore, the con-
+stant war-making increased demand for greater military and economic
+mobilisation of ordinary people whose material resources and military
+participation became decisive for the long term survival of warring
+states. The unintended consequence of these changes were gradual but
+steady payoffs that the state rulers had to make to their subjects
+including wider citizenship rights, expanding parliamentary systems,
+religious freedoms, and social protection, all of which also encouraged
+the development of civil societies.
+The west European multi-polar order prevented the emergence of a
+single empire, thus creating a semi-anarchic environment where rulers
+were gradually forced to rely on the broader sectors of the population
+under their control. Hence to effectively ﬁght external threat rulers often
+33
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressembarked on pre-emptive wars while simultaneously trying to neutralise
+domestic forms of violence. To ﬁnance ever-more-costly warfare in the
+context of rapid military transformations (with the invention and mass
+manufacturing of more destructive weaponry and dramatic improve-
+ments in transport and communication systems) rulers had to constantly
+increase resource extraction and introduce universal conscription in the
+territories under their control. As Tilly (1985,p . 172) emphasises, this
+process was highly contingent with states emerging as a corollary of war
+making, extraction of resources andcapital accumulation. In other words
+to extract money , people and material it was necessary to subdue and
+disarm internal rivals and defeat external foes. In this process state rulers
+operated in a similar way to gangs who offer security in exchange for
+regular ﬁnancial payment. That is, the state developed as an institution-
+alised and legitimised large scale protection racket:
+Governments’ provision of protection. often qualiﬁes as racketeering. To the
+extent that the threats against which a given government protects its citizens are
+imaginary or are consequences of its own activities, the government has
+organised a protection racket. Since governments themselves commonly simu-
+late, stimulate, or even fabricate threats of external war and since the repressive
+and extractive activities of government often constitute the largest current
+threats to the livelihoods of their own citizens, many governments operate
+essentially the same ways as racketeers (Tilly 1985,p . 171).
+Therefore, the bellicose tradition argues, the modern centralised
+political entities that successfully claim monopoly on the use of
+violence over their territory , which we call nation-states, were a direct
+by-product of the intensiﬁcation in west European war-making from
+the 16
+th century onwards.
+This bellicose interpretation has provoked a great deal of attention:
+it has been applied to various parts of the world with a focus on the
+structural differences between Western Europe and the rest of the world.
+For example, Lustick ( 1997) interprets state instability in the Middle
+East through the prism of earlier state development in Europe whereby
+better organised and more powerful European states colonised the region
+and in this way averted the emergence of ‘state-building wars’ in the
+Middle East. Barnett (1992) provides a comparative analysis of Israel and
+Egypt arguing that the relationship between war and state-making is
+highly dependent on the different strategies of state building pursued by
+the rulers in the two countries. In contrast, Tin-Bor Hui ( 2005)
+pinpoints striking similarities between China in the Spring and Autumn
+and Warring States periods (656-221 BCE) with early modern Europe:
+whereas both regions experienced the proliferation of warfare,
+34
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressdevelopment of centralised bureau cracy and expansion of trade they
+nevertheless eventually experien ced different outcomes. Taylor and
+Botea (2008) contrast the impact of war on state development in Vietnam
+and Afghanistan arguing that the relative ethnic homogeneity was
+a decisive factor contributing to a state making war in Vietnam and
+a state destroying war in Afghanistan. Centeno (2002) and Herbst (2000)
+have compared the experience of state formation in early modern Western
+Europe with that of Latin America and Africa respectively, pointing to
+different organisational trajectories in these two continents where, in
+contrast to West European protracted wars and strong states, sporadic
+and limited warfare generated weak and internally polarised states.
+The general tendency among scholars is either to endorse or
+disprove the ‘‘war makes states’’ thesis. Some authors such as Thies
+(2007), Ayoob (1995) and Herbst (2000) side with Tilly in the argument
+that the proliferation of protracted inter-state warfare is conducive to
+the development of pervasive state apparatuses in other parts of the
+world such as the Middle East, Africa, or South Asia. Others (Leander
+2004,R e n o ,2003,K a l d o r2001) have tended to be much more critical
+of this assumption arguing that the historical context has signiﬁcantly
+changed: in the post WWII international system all attempts at
+unilateral border change are rapidly delegitimised which creates
+a situation where inter-state warfare is on the wane while intra-state
+(civil) wars, conﬂicts that destroy state capacity , proliferate.
+The Balkan case remains something of a puzzle as it does not easily
+ﬁt into either of the two competing perspectives. At ﬁrst glance it
+might seem that the South East European experience quickly refutes
+the bellicose thesis as the common perception of the region is one of
+relentless civil warfare and weak states. However careful historical
+sociological analysis shows otherwise: for much of its history the
+Balkans have not experienced more violence than other parts of
+Europe. The rulers of the medieval kingdoms of Serbia, Croatia,
+Bosnia, and Bulgaria waged frequent wars with the Byzantine Empire
+and between each other but in terms of intensity, human casualties and
+their organisational features, these wars were no different from other
+medieval conﬂicts fought in the same period throughout the European
+continent (Nicholson 2004; Keen 1999: Fine 1994). Just as all wars in
+the feudal age, these conﬂicts were essentially small scale, low casualty
+ritualistic affairs with very few proper and lasting battleﬁelds. ‘‘As the
+knights represented the core of all mediaeval forces, armies were quite
+small and expensive while direct battles were generally avoided
+whenever possible making regular warfare no more than plundering
+35
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressexpeditions’’ (Male/C20sevi/C19c 2010,p . 107). Once the Ottoman Empire
+conquered much of South East Europe the entire region was
+successfully paciﬁed for centuries. While some areas in the Balkans
+were sites of inter-imperial wars between Ottomans, Habsburgs,
+Venetians and the Russian Empire
+2 for much of the three centuries
+(16th-18th) this region has nevertheless experienced substantially less
+organised violence than other parts of Europe. With the gradual
+weakening of the Ottoman Empire in the early 19
+th century the
+Balkans became a zone of interest for the so called Great Powers
+whose political and cultural elite encouraged violent resistance to
+Ottoman rule. From Chateaubriand and Flaubert to Lord Byron,
+Shelley and Goethe South East Europe and Greece in particular were
+suddenly rediscovered as the exotic cradle of European civilization
+(Todorova 1997,p p . 89-115).
+3 It is only in this period that one can
+witness the acceleration of organised violence in the region. Neverthe-
+less, this is hardly unique for the Balkans as scientiﬁc, technological
+and organisational developments made 19
+th century warfare much
+more deadly all over the world: for example, the global war casualties
+for the combined 16th and 17th centuries amounted to less than
+8 million whereas this ﬁgure of war deaths jumps to over 19 million
+for the 19th century alone (Eckhardt 1992,p p .272-273).
+In this context the organised violence in the Balkans appears
+miniscule when compared to the intensity and scale of destruction
+and human casualties resulting from wars, revolutions, uprisings and
+industrial conﬂicts in the large and powerful European states. For
+example while the French and British polities were ﬁghting wars,
+colonising the globe and dealing violently with various revolutions and
+numerous uprisings throughout the 19
+th century – with Britain in-
+volved in more than sixty major wars – during the same period South
+East Europe experienced only six violent conﬂicts and ﬁve major
+(peasant) rebellions (Clodfelter 1992) (see table at the end of the text).
+Furthermore, while at the beginning of the 19
+th century much of
+Europe was engulfed in the extremely destructive Napoleonic Wars
+2 The only substantial conﬂicts occurred in
+the late 17th and early to mid- 18th centuries.
+These include the Ottoman-Venetian wars over
+Peloponnesus, the Austrian-Ottoman wars in
+the 1710sa n d 1730s in Bosnia and Serbia and
+the Russian-Ottoman wars that concluded
+with the Treaty of Kuchuk Kaynarca ( 1774)
+(Zarinebaf et al. 2005).
+3 However this sudden obsession with the
+Balkans was not very deep: ‘‘‘They loved the
+Greece of their dreams; the land, the lan-
+guage, the antiquities, but not the people. If
+only, they thought, the people could be more
+like the British scholars and gentlemen; or
+failing that, as too much to be hoped, if only
+they were more like their own ancestors; or
+better still, if only they were not there at all’’
+(Woodhouse 1969 ,p p .38-39).
+36
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Presswith casualties totalling no less than six million, the Balkan uprisings of
+the same period amounted to a few thousand casualties (Clodfelter1992,
+p. 322, Biondich 2011). With the clear exception of the Greek War of
+Independence (1821-9)a l lt h e19th century Balkan wars and uprisings
+were small scale conﬂicts involving several thousand casualties.
+Nonetheless the Greek War of Independence was far from being
+a domestic Balkan affair. It was fostered and supported by the Great
+Powers and it was their military , economic and political involvement
+that sealed ‘‘Greek’’ victory as not a single Greek soldier took part in
+the battles (such as that of Navarino, 1827) that decided the fate of the
+war. The large casualty rate was primarily a product of highly disorgan-
+ised inﬁghting among the supposedly uniﬁed and ‘‘nationally conscious’’
+Greeks and the civilian massacres by various brigand forces (Roudometof
+2001; Mazower 2000).
+Early 20
+th century warfare was signiﬁcantly more destructive with
+two Balkan wars ( 1912-13 and 1913), World War I and the Greco-
+Turkish war of 1919-22 deﬁning the character of organised violence in
+South East Europe for this period. The 1912-13 Balkan wars were
+particularly important as their scale, intensity and outcome had a pro-
+found impact on the perception of the region in the West. Although the
+massacres of the Greek War of independence dented the until then
+popular view of the Balkans as a land of ‘‘noble savage Christians’’ who
+needed to be saved from the ‘‘Turkish yoke’’ and brought back to their
+ancient Greek heritage, it was really the unexpected context of the
+Balkan wars that completely changed popular perceptions of the region
+in the West. As Todorova (1997,p p .122-139) convincingly argues, and
+demonstrates, ‘‘violence as the leitmotiv of the Balkans was strictly
+speaking, a post-Balkan wars phenomenon’’. Whereas the start of the
+First Balkan War was still largely interpreted in Western media through
+the prism of liberation from the Ottomans (as it involved organised
+alliance of the small Balkan states against the Ottoman Empire) the
+swift and comprehensive military victory of the Balkan League changed
+this perception.
+4
+The outbreak of the Second Balkan War with the former allies now
+ﬁghting each other over the former Ottoman possessions provoked
+4 For example the Commission set up by
+the Carnegie Endowment for International
+Peace to identify the cases of the two Balkan
+wars differentiated strongly between the two
+wars: the ﬁrst conﬂict was depicted as ‘‘the
+supreme protest against violence [ .]t h e
+protest of the weak against the strong [ .]
+and for this reason it was glorious and
+popular throughout the civilised world’’
+whereas the second conﬂict was deﬁned as
+a rapacious war where ‘‘both victor and
+vanquished lose morally and materially’’
+(Todorova 1997 ,p . 4).
+37
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressoutrage in the capitals of the Great Powers. The fact that for the ﬁrst
+time in modern history the political elites of the small Balkan polities
+were in a position to pursue their own geo-political interests and in
+this process largely ignore the wishes of the Great powers infuriated
+the political establishment in the major European capitals. In addi-
+tion, the unprecedented scale of the conﬂict came as a shock to most
+external observers. The armies of the Balkan states were well equipped
+with modern weaponry , well trained in the most recent military
+doctrines and strategies, relying heavily ‘‘on the ideas of the French
+Colonel Louis de Grandmaison to carry out the attack quickly and in
+force’’, and were able to mobilise hundreds of thousands of soldiers (Hall
+2000,p p . 15-18). The direct consequence of this speedy , comprehen-
+sively organised, well equipped and thoroughly armed mass mobilisa-
+tion was mass destruction on a scale not seen before in this part of the
+world. The total casualties of the two Balkan wars amounted to over
+150,000 people (Singer1972; Eckhardt 1988), the losing sides (Ottoman
+in the ﬁrst and Bulgarian in the second) had substantial territorial losses
+while the winners (Serbia, Greece, Montenegro and Romania) had, in
+most instances, more than doubled their pre-war territories –i.e. Serbia
+by 81 %, Greece by 64 %, Montenegro by 62 %( B i o n d i c h2011,p . 78).
+This particular outcome shocked the political and cultural elites of
+major European states. The highly violent struggle for territory which
+was now justiﬁed in explicit nationalist terms reinforced the percep-
+tion that the Balkan region is an eternal epicentre of aggressive
+nationalism. This attitude was already present in the ﬁrst academic
+analysis of the two Balkan wars with American scholar Jacob
+Schurman ( 1914,p . 47) projecting war aims into the past: ‘‘For ages
+the fatal vice of the Balkan nations has been the immoderate and
+intolerant assertion by each of its own claim [for territory] coupled
+with contemptuous disregard of the right of others’’. A very similar
+attitude followed the just as devastating Greco-Turkish War (1919-22)
+that ultimately helped entrench the perception of the region as
+being characterised by incessant violence and xenophobic nationalist
+aspirations.
+5
+5 It is no accident that the term ‘‘Balkan-
+isation’’ was coined in the aftermath of the
+1912-3 Balkan wars. The stereotypes of the
+Balkans as an inherently violent region were
+also reproduced in the Western literature of
+that period as exempliﬁed by Agatha Christie’s
+1925 mystery novel The Secret of Chimneys
+where the ‘‘Balkan characters’’ are depicted as
+bloodthirsty killers (‘‘I will slit his nose, and
+cut off his ears, and put out his eyes’’) and the
+region as inhabited by ‘brigands’ whose hob-
+bies include ‘‘assassinating kings and having
+revolutions’’ (Todorova 1997,p . 122).
+38
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressNevertheless rather than being an omnipresent feature of Balkan
+history this sudden eruption of organised violence was a completely
+novel product of intensive 19th century state building, largely based on
+Western European models. Unlike other parts of Europe before the
+mid-19
+th century the Balkan region did not have a history of large
+scale protracted violent conﬂicts as its polities did not possess even
+rudimentary organisational means to initiate and wage such conﬂicts.
+The direct legacy of the Ottoman Empire was an almost non-existent
+civil service, poor transport and communication networks, no signiﬁ-
+cant urban centres, dispersed and haphazard power and military
+structures, undeveloped banking and commerce, no proper legal system
+or any signiﬁcant industry .
+At the beginning of the 19
+th century the new Balkan polities had
+virtually no bureaucratic apparatus: in 1813 Serbia had only 24 civil
+servants, the entire Dunabian Principalities (present day Romania)
+less than 1,000 ofﬁce-holding boyars, whereas even as late as 1878 the
+whole of Bosnia and Herzegovina was administered by only 120 civil
+servants (Pavlowitch 1999,p . 31; Glenny 1999:268; Stokes 1976,p . 4).
+In addition, no South East European polity had a national bank,
+factory, railroad or town with more than 30,000 inhabitants until well
+into the second half of the 19
+th century. The mountainous terrain and
+tiny network of paved roads (by the mid-19th century Greece had only
+168 and Serbia just under 800 km) made transport extremely
+cumbersome and slow (Roudometof 2001; Stoianovich 1994).
+The lack of state development made violent conﬂict difﬁcult; the
+Greek War of Independence ( 1821-9) and the two Serbian uprisings
+(1804-13; 1815-7) were largely chaotic, highly contingent events
+fought by disorganised and poorly armed units consisting of local
+notables, foreign trained volunteers and banditry with no proper
+military instruction (Glenny 1999; Meriage 1977). Such weak polities
+could not ﬁght large scale protracted and destructive wars. Hence the
+sporadic and disordered violence that characterised the conﬂicts of the
+early 19
+th century Balkans could not, and did not, create strong states.
+Even in the case of the region’s most intense and lengthy war, the
+Greek War of Independence, the war experience did not result in
+substantially enhanced state capacity of the new Greek polity. Thus
+the idea that warfare by itself can automatically create potent states has
+to be questioned. Nevertheless although this particular outcome goes
+against the general premise of the bellicose approach – as developed by
+its forbearers such as Gumplowitz ( 1899)o rO p p e n h e i m e r(2007
+[1926]) or some recent articulations (Gat 2006, Carneiro 1977), it does
+39
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressnot falsify Tilly’s thesis completely as his argument emphasises that low
+intensity warfare is less likely to increase the organisational capacity of
+the state. The fact that the Greek War of Independence was militarily
+and politically decided by the Great Powers, and that the conﬂict also
+had all the hallmarks of a civil war, complicates this issue further.
+A much better testing ground for the bellicose argument in general
+and Tilly’s thesis in particular is the end of the 19
+th and beginning of
+the 20th century when one can observe a dramatic increase in the
+development of the organisational and infrastructural powers of states
+in the Balkans. Modelling their state apparatuses on the French,
+Belgian and Prussian example, political elites in South East Europe
+managed, in a very short time, to build potent state and war machines.
+The size of the civil service changed beyond recognition: what started
+off as a handful of administrators in the early 1800s grew to hundreds
+of thousands by the end of that century. For example, even in1837 the
+Serbian civil service consisted of less than 500 administrators while by
+1902 over 22 % of all Belgrade households were inhabited by civil
+servants and their families. The administrative apparatus in Greece
+and Bulgaria underwent event greater transformation so that in less
+than 20 years the Greek state administration grew by 43 % and by the
+1930s civil servants and their families constituted more than 650,000
+in each case which amounted to between a third and fourth of
+the country’s entire urban population (Roudometof 2001,p p . 156;
+Stoianovitch 1994). In a similar vein transport and communication
+networks expanded dramatically withmuch better roads, railway systems,
+and commercial shipping (i.e. Greece): between1885 and 1912 the total
+length of railway lines increased by841 % in Bulgaria, 613 %i nG r e e c e
+and 285 % in Serbia (Lampe and Jackson 1982,p . 211).
+By the end of the 19
+th century all governments in the region were
+preoccupied with the greater centralisation of state power. To achieve
+this objective their constitutional arrangements were modelled on the
+highly centralised Prussian ( 1850), Belgian ( 1831) and French ( 1830)
+constitutions (Pippidi 2010,p . 125). Furthermore, most states adopted
+the hierarchical top down models of internal organisation often
+imitating French-style district prefects and substantially enhancing
+the position of the top administrators. The dominant view among the
+political and cultural elites was that successful state building requires
+excessive centralisation. As the one time Bulgarian minister of
+education and Czech intellectual, Konstantin Josef Jire /C20cek, put it:
+‘‘Bulgarian politicians wished to arrange an omnipotent state machine
+on the French model, ruled by a centre with thousands of ofﬁcials paid
+40
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressby the state and depending on it and the political parties’’ (Bechev
+2010,p . 142).
+The administrative expansion was paralleled with the intensive
+development of the military and police. Military budgets increased
+substantially, together with the size of the armies and ofﬁcer corps.
+For example, at the beginning of the 20
+th century one third of
+Bulgaria’s annual budget was allocated to the military, and other
+states in the region had a very similar situation (Pelt 2010,p . 240).
+The introduction of universal conscription meant that within two or
+three decades the militaries of the Balkan states expanded consider-
+ably: in 1903 the Serbian army was four times larger than it was ten
+years earlier whereas the Greek ofﬁcer corps grew between 1872 and
+1895 by a staggering 240 % (Roudometof 2001). The military build-up
+was also accompanied by increasing investments in technology and
+industry linked to weaponry and military logistics. Hence Romania’s
+petrol production rose so much that by the late 1920s the country
+became one of the leading petrol producers in the world and Serbia’s
+industrial infrastructure at the same time was enlarged threefold
+compared to what it was twenty years earlier (Pearton 1971; Vucinich
+1968).
+The ultimate result of this military, bureaucratic and state expan-
+sion was the capability of mobilising large sectors of the population
+and ﬁeld enormous armies in the two Balkan wars and World War1.I t
+is these violent conﬂicts that brought about huge human casualties and
+material destruction never seen before in this part of the world. Hence,
+rather than representing an alleged continuity of violence supposedly
+inherent in the region’s past, the proliferation of organised violence was
+a completely novel phenomenon emerging as a direct consequence of
+intensive modernisation and state building on Western European
+models. In this context the Balkan wars of1912-3 were not a throwback
+to the past but a distinctly modern phenomenon. The scale of violence
+and destruction witnessed here was a sign of things to come, something
+that the rest of Europe was to experience just one year later.
+The ﬂeeting look at the two Balkan wars would suggest that their
+experience is fully congruent with the bellicose argument and particu-
+larly with Tilly’s point that mobilisation for war and protracted warfare
+are likely to enhance the capacity of states: indeed what one can observe
+here is the parallel development of state power, war preparations and
+gradual paciﬁcation of domestic resistance. There is no disputing the
+fact that late 19
+th century Balkan polities were much more robust state
+and war machines able to control resources, people and materiel, than
+41
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Presstheir early 19th century predecessors. However, the complexity of the
+Balkan case challenges the simple formula that war makes states and
+states make war.
+Firstly, it is not so apparent that warfare itself had so much impact
+on the state building in the region as the period of most intensive state
+expansion was generally characterised by prolonged peace. In fact, in
+the second half of the 19
+th century, a period when the Balkan countries
+made most progress in enhancing the infrastructural powers of their
+polities, the region was involved in only three small scale wars of very
+short duration: the Serbo-Ottoman War ( 1876), the Serbo-Bulgarian
+War (1885) and the Greco-Ottoman war ( 1897). It is difﬁcult to see
+how these rather insigniﬁcant conﬂicts could have had a direct impact
+on the dramatic intensiﬁcation of state building that took place in this
+period. Moreover, large scale protracted conﬂicts such as the 1912-3
+Balkan wars, World War 1 and the 1919-22 Greco-Turkish war all
+came after the period of concentrated state development.
+Secondly, and more importantly, the outcome of these major wars
+provides a direct challenge to Tilly’s thesis. If the central argument is
+that prolonged and successful war making leads not only to the
+creation of strong and stable states but also developed civil societies,
+parliamentarism and economic prosperity then the Balkan case shows
+otherwise. The aftermath of all major wars fought in South East
+Europe at the beginning of the 20
+th century shows that regardless of
+whether a particular state found itself on the winning or losing side
+this made little or no difference to its post-war development. More
+speciﬁcally although Greek, Montenegrin, Romanian and Serbian
+states were clear winners of the 1912-3 Balkan wars as well as
+WWI6 as
+they acquired large new territories, population and resources, their
+post-
+WWI state development was almost identical to that of the states
+that found themselves on the losing side: Bulgaria and Turkey . In other
+words instead of further enhancing their state capacities, expanding
+civil societies, parliamentarism and economic growth, the1920sa n d30s
+were periods of economic stagnation, weakening state power, curtailing
+of civil liberties and stiﬂing of parliamentary institutions which
+eventually ended in rigid authoritarianism. The Balkan states became
+heavily indebted and reliant on foreign capital and in this resembled
+more the colonies of Imperial powers than the stable and strong
+sovereign states (Biondich 2011; Mungiu-Pippidi 2010;M a n n2004).
+6 The Greek case is more complex as the
+state soon became involved in another large
+scale conﬂict (the Greco-Turkish war of
+1919-22) where it lost all its territorial gains
+acquired during WWI.
+42
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressTherefore the conventional bell icose approach seems unable to
+explain these different trajectories in the relationship between war and
+state-making in the Balkans. The key question here is: why have
+intensive inter-state wars not created strong and vibrant polities in South
+East Europe? To properly answer this question it is paramount to
+explore the internal conﬁguration of societies in the Balkans and
+especially the relationship between social stratiﬁcation, ideology and
+warfare. As the conventional bellicose approach tends to overemphasise
+external, geo-political and economic factors at the expense of internal and
+speciﬁcally ideological sources of conﬂicts there is a need to go beyond
+Tilly’s analysis. In particular the focus needs to move towards the role
+ideologies, especially popular ideological doctrines such as nationalism,
+and internal social divisions play in mediating the relationship between
+state and organised violence. Much ofthe bellicose tradition of analysis,
+and Tilly in particular, downplay the role of ideological power in
+modernity (Male/C20sevi/C19c 2010,p . 79-84). Nevertheless to account for the
+Balkan case it is crucial to take ideology and especially nationalism much
+more seriously than the conventional bellicose tradition does.
+Nationalism and State Formation in the Balkans:
+Rehabilitating Modernism
+Sharing the general view that human beings are essentially interest
+driven, materialist creatures much of the conventional bellicose
+historical sociology devotes little attention to the ideas, values and
+corresponding practices espoused by the agents involved in various
+social conﬂicts. Charles Tilly is no exception here as his approach
+emphasises the role of material interests and political institutions at
+the expense of collective meanings and individual perceptions. This is
+particularly visible in his treatment of nationalist ideology which is
+never a sui generis phenomenon but rather a weak, parasitic force
+dependent on the actions of states and their rulers. As Brubaker (2010,
+p. 380) rightly argues, Tilly’s understanding of nationalism is overly
+state-centred, materialist and instrumentalist: ‘‘the theory addresses
+the political form of nationalist claims-making while ignoring the
+cultural content of nationalist sense-making’’. Hence, to explain
+persistent state weakness in the wake of intensive inter-state wars in
+the Balkans, my attention will shift to the role of ideology , and
+nationalism in particular, and its link with social stratiﬁcation.
+43
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressIf we understand ideologies not as closed and inﬂexible belief systems
+but as dynamic, changing, processes through which human beings make
+sense of their everyday experiences, then the analysis of ideology is
+a precondition for understanding large scale social processes such as war
+and state-building. As political facts and social events cannot speak for
+themselves but entail particular interpretation we inevitably rely on
+different interpretative maps to understand social reality. In this sense
+all human beings are ideological creatures (Male /C20sevi/C19c, 2010; 2006).
+More speciﬁcally , as we live in a world where the principal unit of mass
+social organisation is the nation-state, with much of everyday experience
+articulated in nation-centric terms, it is crucial to understand how
+nationalism came to be and was established as the dominant source of
+state legitimacy in the modern world.
+Seminal scholars of nationalism such as Gellner (1964; 1983; 1997),
+Hobsbawmn ( 1990), Breuilly ( 1993) and Anderson ( 1983) among
+others have emphasised the inherent contingency, relative historical
+novelty and revolutionary character of nationalist ideology . Rather
+than being a natural, normal, primeval and permanent form of collective
+identity, national attachments are understood to be historically speciﬁc
+and atypical, generated by the actions of distinct social organisations,
+malleable and heavily dependent on on-going structural transformations
+such as industrialisation, urbanisati on, or secularisation. For Gellner
+nationalism could not emerge before modernity as pre-industrial
+societies were rigidly hierarchical inan economic, political and cultural
+sense. Instead of unifying rulers and their subjects in the pre-industrial
+world, culture was used to reinforce social distinctions between the
+aristocracy and top clergy on the one hand and the peasantry and urban
+dwellers on the other. Hence for much of history the dominant socio-
+political units were either much smaller ( i.e. city-states, principalities,
+chiefdoms, etc.) or large r than the nation-state ( i.e. empires). Conse-
+quently, instead of nationhood, one’s sense of identity tended to be
+expressed in terms of locality ,religion, kinship or status.
+Gellner ( 1997, 1988) makes a sharp distinction between the
+agrarian and industrial age: the former is characterised by stringent
+hierarchies, stagnation, sluggishness and stability where ‘people starve
+according to rank’ and the latter is deﬁned by its vibrancy, dynamism,
+social mobility, innovation and the striving towards continuous
+economic and scientiﬁc growth. The system’s ingrained changeability,
+the clearly articulated division of labour and the demand for constant
+growth enhances the role of expert knowledge. Hence unlike Agraria
+where work is essentially manual and discursive knowledge is ancillary
+44
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressif not completely irrelevant, Industria is dominated by semantic labour
+where universal, context-free literacy becomes a norm. Moreover, as the
+industrial world is dependent on both social and geographical mobility,
+with large sectors of the population moving from the countryside to the
+cities, there is an organisational need for greater linguistic uniformity.
+Consequently, the proliferation of industrial development goes hand in
+hand with the expansion of large scale educational systems which
+ultimately turns a culturally diverse peasantry into a homogenous
+nation. In other words, mass education does not just provide a skilled
+workforce necessary for the perpetuation of its industrial base but more
+signiﬁcantly it also forges strong national identities that could not exist
+beforehand. In Gellner’s (1983,p . 36)o w nw o r d s :
+The employability, dignity, security and self-respect of individuals, typically,
+and for the majority of men now hinges on their education [ .] A man’s
+education is by far his most precious investment, and in effect confers his
+identity on him. Modern man is not loyal to a monarch or a land or a faith,
+whatever he may say , but to a culture.
+Therefore, rather than preceding modernity nationalism is a by-
+product of industrialisation as it is only in the modern era that the
+trans-class cultural homogeneity makes sociological sense. In the pre-
+industrial era neither the peasantry nor the aristocracy could concep-
+tualise the world in national terms: while the social universe of
+illiterate peasants rarely expanded beyond one’s village, close kinship
+or religious afﬁliation, the aristocrats and top clergy relied on culture
+to reinforce the internal status divide. In contrast, modernity entails
+a substantial degree of egalitarianism where commonly shared ‘‘high’’
+national culture, inculcated through the educational system and other
+state institutions, replaces the sea of vernacular, oral ‘‘low’’ cultures
+and establishes itself as a principal source of political legitimacy.
+Other leading scholars share many aspects of Gellner’s modernist
+explanation while downplaying his economistic account. Instead they
+argue that nationalism was an invention of political elites in times of
+dramatic political and social changes (Hobsbawm 1990), or a by-
+product of the development of the modern bureaucratic state (Mann
+1993; Breuilly 1993), or a new form of collective imagination resulting
+from the expansion of print-capitalism (Anderson 1983). This mod-
+ernist paradigm, and especially Gellner’s theory, has provoked much
+criticism. Some have singled out the rampant functionalism and
+historical determinism that underpin the paradigm (Male /C20sevi/C19c 2007;
+Mouzelis 2007; 1998; O’Leary1998); others have condemned cultural
+essentialism, Eurocentric assumptions and a rather nostalgic view of
+45
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressthe European empires (Eriksen 2007; Hann 2001; 1998). Nevertheless
+the most critical are the ethno-symbolists, perennialists and ‘‘early
+modernists’’ who insist on the substantial degree of continuity
+between the pre-modern ethnies and modern nations and who also
+emphasise the role emotions play in generating nationalist action
+(Smith 2009, 1986; Hutchinson, 2007; Roshwald 2006; Gorski 2000;
+Taylor 1998). In the eyes of these critics South East Europe stands out
+as a clear historical case that refutes the key tenants of the modernist
+paradigm and in particular Gellner’s theory . Hence Drakuli/C19c( 2008);
+Canefe (2002); Minogue (1996); Kedourie (1985), Orridge (1981) and
+Wilson ( 1970) argue that nationalism emerged in the Balkans long
+before any visible signs of modernity or industrialisation. For example
+Minogue ( 1996,p . 120) insists that ‘‘nationalism long precedes the
+coming of industrialism, as in the case of Greek nationalism’’ whereas
+Hupchick ( 2002,p . 187,p . 212) writes about the ‘‘national revolu-
+tionary activity [ .] among the Serbs and the Greeks during the
+opening decades of the nineteenth century’’ and a ‘‘sense of ethnic
+group awareness, based on recognition of a common language and
+shared history, [that] grew and spread among the various Balkan
+populations (a process termed ‘‘national revival’’ [.]) so too did the
+idea of group self-governance’’. In a similar way Wilson (1970,p . 28)
+describes the First Serbian Uprising of 1804 as ‘‘the ﬁrst of the great
+nationalistic movements of the nineteenth century’’.
+The modernist response to these criticisms was either to soften
+their concepts and explanatory claims, to look for exceptional histor-
+ical conditions for the Balkans or to emphasise the indirect inﬂuence
+of modernisation on the region. Thus Mouzelis ( 2007; 1998) and Hall
+(2010) reformulate Gellner’s concept of industrialism as ‘‘modernity’’
+which would then be able to encompass the advent of nationalism
+in regions such as the Balkans, Latin America or Ireland where
+industrialisation came much later. Gellner’s own defence of his theory
+combined the idea of unique circumstances and indirect inﬂuence. He
+saw the Balkan merchants and bandits as key generators of nationalist
+doctrine: whereas the merchants were depicted as being affected by
+western ideas through international trade, the religious difference of
+the mostly Orthodox banditry vis- /C18a-vis their Muslim Ottoman rulers
+led to their gradual transformation into nationalist rebels. As Gellner
+(1997,p . 42) puts it:
+Bandit-rebels in Balkan mountains, knowing themselves to be culturally distinct
+from those they were ﬁghting, and moreover linked, by faith or loss-of-faith, to
+a new uniquely powerful civilisation, thereby became ideological bandits: in
+46
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressother words, nationalists [ .] these rebels and their poets did absorb and
+disseminate western ideas in the form in which Romanticism both inverted and
+continued the Enlightenment.
+As Hall ( 2010) and O’Leary ( 1998) rightly point out Gellner’s
+defence of his argument is not only unconvincing but it is also based
+on highly speculative assumptions which are extremely difﬁcult to
+prove. This attempt at an ad hoc justiﬁcation weakens the central premise
+of the theory . However, expanding Gellner’s concept of ‘‘industry’’ to
+‘‘modernity’’ and searching for alternative signs of modernisation, other
+than industrialism, in the Balkans has not proved to be a particularly
+fruitful strategy . In this sense Gellner’s approach, as is the case for
+other modernist theories of nationalism, seems unable to explain the
+Balkan case. In other words, just as the conventional bellicose ap-
+proaches could not make clear why intensive inter-state wars did not
+produce strong states in the region so the modernist theories of
+nationalism seem resigned to the view that the Balkans are a blind spot
+for their approach. Nevertheless, similar to the ‘war makes states’
+paradigm both the criticisms as well as the defences of the approach
+have been focused on the wrong target. Rather than attempting to prove
+the impossible – that industrialisation or modernisation were in some
+form present in the early 19
+th century Balkans – the emphasis should
+move towards the question of whether the Balkan uprisings of the early
+19th century and later had anything to do with nationalist ideology .
+My argument is that even more so than organised violence,
+nationalism was a latecomer to the region. More speciﬁcally in what
+follows I demonstrate that nationalist goals and principles were a largely
+insigniﬁcant source for social mobilisation not only among the majority
+of the population but also among the political elites that were at the helm
+of these early uprisings. Furthermore, I argue that even when the Balkan
+states embarked on large scale protracted wars at the beginning of the
+20
+th century nationalism still remained an ideology that was not shared
+by the majority of the Balkan populations. In other words, contrary to
+popular perceptions the modernist theories can account for the Balkan
+case quite well. However, as classical modernism, and Gellner’s model
+in particular, do not devote enough attention to the complex relationship
+between nationalism and social stratiﬁcation they need some revising
+with a view to explaining the peculiarity of the Balkan case.
+If one follows Gellner’s ( 1983,p . 1) well known deﬁnition of
+nationalism as a theory of political legitimacy built on ‘‘a political
+principle, which holds that the political and national unit should be
+congruent’’ then the early19
+th century uprisings in South East Europe
+47
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Presscould not be described as nationalist even in a minimalist sense. One
+of the important legacies of life under the Ottoman Empire was the
+dominance of religion, kinship and status ranks over ‘‘ethnic’’ attach-
+ments. The millet system fortiﬁed religious divisions and in this
+process subdued any sense of articulated cultural difference. For
+example the Rum millet included all Orthodox Christian populations
+regardless of their ‘‘ethnic’’ origin and the vernacular languages spoken.
+Since Greek became a lingua franca of the Rum millet, mastering the
+language well and moving to the city usually meant becoming
+a ‘‘Greek’’. In other words being a ‘‘Greek’’ was a status category ,
+a mechanism for social mobility , that had neither ’ethnic’ nor political
+meaning as an overwhelming majority of middle class Orthodox
+Christians (‘‘Greeks’’) had no inclination towards forming an indepen-
+dent Greek nation-state (Kitromilides 2010,R o u d o m e t o f f2001).
+In this context the various Balkan uprisings of the early 19
+th
+century such as the First ( 1804-13) and Second Serbian Uprising
+(1815-17), the Wallachian and Cretan insurrections of 1821 and the
+Greek War of Independence were the result of internal turmoil within
+the Ottoman empire, and to a lesser extent the geo-political pressures
+of the Great Powers, rather than what they were seen to be in the West
+– ‘‘the revolutions for national liberation’’. Not only did mass partici-
+pants of these uprisings have no sense of what the sovereign nation
+means but even the political leadership of these movements had no
+ambition to establish independent nation-states. All these uprisings,
+including the Greek War of Independence, were chaotic, highly contin-
+gent events comprising elements of social discontent, fear, opportunism
+and necessity where nationalist principles were virtually nonexistent.
+T h eﬁ r s tt w os i g n i ﬁ c a n tr e b e l l i o n so ft h ee a r l y19
+th century , the two
+Serbian uprisings of 1804 and 1815, were profoundly contingent
+historical events which were neith er inspired nor undertaken in the
+name of sovereign nationhood. The principal leaders of the rebellions,
+/C228orCeP e t r o v i/C19c-KaraCorCe and Milo/C20sO b r e n o v i/C19c, were opportune trad-
+ers who quickly realized that the social frustrations of local peasantry
+could be channeled in a direction that would beneﬁt their personal
+inﬂuence and ultimately help their ambition to establish a monopoly on
+pork trade with the Habsburg Empire (Meriage 1977;P a x t o n1972).
+7
+7 Both Kara CorCe and Obrenovi /C19c were
+wealthy peasant pig dealers who made for-
+tunes by exporting pigs to the Habsburg
+Empire. Once Obrenovi/C19c established his rule
+in Serbia his monopoly on pig trade made
+him one of the richest men in Europe: ‘‘Milo/C20s
+was to accumulate, by his abdication in 1839,
+a capital worth 1,078,000 golden sovereigns,
+53 % cash and 47 % in perianal and real
+property’’ (Pavlowitch 1981,p . 148).
+48
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressBoth leaders were illiterate, their lifestyle and system of rule was
+modeled on the Ottoman example and instead of demanding indepen-
+dence for Serbia they were engaged in internal Ottoman conﬂict
+vouching ‘to restore the order on behalf of the Sultan’ and remove the
+disloyal and undisciplined ayans and janissaries (Roudometoff 2001,
+p. 231;D j o r d j e v i/C19c and Fischer-Galati 1981;P a v l o w i t c h1981). As there
+were no discernible intellectuals on the territories of Ottoman Serbia
+8 at
+this time the support for the upris ings came from the cultural and
+religious elites based in the Habsburg Empire. However even these
+individuals, such as the leader of the Habsburg Serbian Orthodox
+population, Stevan Stratimirovi /C19c of Karlovac, did not envisage the
+formation of an independent Serbian state for the Serbian nation but
+instead advocated the establishment of a Slavic Orthodox Empire ‘‘ruled
+by a Russian grand duke’’ (Meriage 1977,p . 189). Hence, neither
+political, cultural nor economic elites had any inclination towards national
+self-determination whereas the majority of, the essentially peasant,
+population had no understanding of what a nation was (Stokes 1976).
+While there is no doubt that in ‘‘the Greek War of Independence’’ the
+ideas and principles of national sovereignty were more present than in
+the Serbian (or later Bulgarian) case, the driving force of the conﬂict had
+very little to do with nationalism. Despite the later, nationalist, re-
+interpretation of the events leadingto this war and the war itself as being
+motivated by the clearly deﬁned goals of ‘‘national liberation’ this is far
+from the truth.
+Not only were most senior Orthodox clergy , wealthy merchant
+families and the Ottoman Christian administrators not particularly
+interested in the demise of the Ottoman system under which they
+largely prospered as the leaders of churches, trade, banking, admin-
+istration and foreign policy, but the Phanariot and Boyar (Christian)
+families were often the pillars of this very system enjoying various
+privileges and large scale estates. Hence the outbreak of conﬂict, later
+dubbed the ‘‘Greek War of Independence’’, was essentially a power
+struggle between the two camps of Christian elites. The uprising
+started not in Greece but in the Dunabian Principalities (later day
+Romania) and it consisted of a chaotic and messy series of events
+involving prolonged internal rivalry initially between Boyars and
+8 Early 19th century Serbia was character-
+ised by rampant illiteracy including the over-
+whelming majority of the Orthodox priests.
+It is only with the establishment of political
+autonomy that ﬁrst fully literate professionals
+were present on Serbia’s territory. Those
+included Serbian speaking teachers and ad-
+ministrators imported from the Habsburg
+Empire (Stoianovich 1994).
+49
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressPhanariots and later between different sections of very diverse ‘‘Greek
+society’’ with the ﬁnal outcome decided exclusively by the direct
+involvement of Britain, France and Russia (Glenny 1999; Mazower
+2000). The attempt to trace a direct link between these unpredictable
+and chaotic events with the activities of small secret societies, such as
+Filiki Eteria, the Philorthodox Organisation, or the Big Brotherhood,
+based outside of the Greek territories which allegedly had devised
+plans for the establishment of Greek nation-state, are completely
+unfounded. The prominent members of these societies advocated
+different and often mutually exclusive visions of cultural, religious or
+social renewal with the focus on the restoration of the Byzantine
+Empire rather than pursuing the goal of an independent Greek polity
+(Kitromilides 1994; Roudometoff 2001).
+Traditional historiography has made much of the role played by the
+social bandits (hajduks, hajduts, uskoks, khlepts, and kac¸aks) in the early
+19
+th century Balkan uprisings, depicting them as guerillas ﬁghting for
+the national cause. Nevertheless most were completely ignorant of the
+nationalist aspirations, were often simple opportunists willing to
+switch sides and prey on both the Muslim and Christian peasantry
+(Pelt 2010,p . 224; Pavlowitch 1999, Glenny 1999). The idea of shared
+national heritage and history meant next to nothing for most khlepts,
+hajduks and kac¸aks. A ﬂattering comparison made by a foreign visitor
+comparing a klepht leader Nikotsaras and the ancient Greek hero
+Achilles provoked an outburst of anger in Nikotsaras: ‘‘What rubbish
+are you talking about? Who is this Achilles?’’ (Kakridis,1963,p . 252).
+Since the overwhelming majority of the population in South East
+Europe at that time were peasants whose sense of belonging oscillated
+between local (kinship, village) and religious attachments (Orthodox
+Christianity) there was no room for comprehending the world in
+national terms. To enhance their support in the uprisings the leaders
+had to rely on clan and family name recognition, religiously inspired
+prophecies that linked the collapse of the Ottoman Empire to the
+Second Coming of Christ and ‘‘the authority of the Orthodox [Russian]
+tsar [.] and on loyalty towards the sultan’’. However, in most instances,
+coercion was the decisive source for mobilization. For example KaraCorCe
+‘‘threatened to burn villages of those who did not appear [on the
+battleﬁeld] [.] or to decapitate Serbs [Christians] who helped Turks
+[Muslims]’’ (Stokes1976,p . 83). Therefore the Balkan case does not
+falsify the modernist accounts of nationalism as there was no nationalism
+in the Balkans before industrialization or modernity . Not only were the
+majority of the population oblivious to nationalist ideology but so were,
+50
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressfor the most part, the leaders of the early19th century uprisings in South
+East Europe. Furthermore Gellner’s emphasis on literacy and the role of
+educational institutions in forging viable national identities ﬁnds much
+support in the post-independence period.
+Although the second half of the 19
+th century saw the new Balkan
+states invest heavily in building large scale nation-state centric state
+apparatuses it took a long time to create a literate and schooled
+citizenry . For example as late as 1864 the literacy rate in Serbia was
+only 4.2 % while by 1884 there were just 4.5 % literate men and 1.5 %
+women in Bulgaria. Greece was in a slightly better position but the
+population was still overwhelmingly illiterate: in 1840 only 12.5 %
+men and 6.3 % women had basic literacy skills (Ekme /C20ci/C19c 1991;
+Roudometoff 2001). The ﬁrst primary Bulgarian and Montenegrin
+schools were opened in 1835 and 1934 respectively whereas the
+Albanian speaking population did not have a single primary school
+until 1887 (Biondich 2011, Lederer 1969).
+As, before independence, the Orthodox Church was a most signif-
+icant institution of what Gellner (1983) would call ‘‘exo-socialisation’’,
+it is interesting to brieﬂy explore its relationship with nationalist
+ideology . Although after independence the autocephalous Orthodox
+Churches had become the beacons of ethno-nationalisms during
+Ottoman rule they were generally opposed to ideas and principles of
+national sovereignty . The Orthodox patriarchs, bishops and other
+senior clergymen enjoyed a privileged position within the Ottoman’s
+millet structure and were certain that independence would open the
+door for the potential proselytism of the Roman Catholic and Protes-
+tant churches. Furthermore the church establishment was particularly
+hostile to the Enlightenment and Romanticism inspired secularism,
+liberalism and republicanism that underpinned the nascent nationalist
+movements, and sternly resisted any initiatives that promoted the ideas
+and practices associated with the pre-Byzantine (i.e. pagan) traditions.
+Hence the Greek Orthodox Church opposed the standardization of
+Greek vernacular on its ancient model. The Patriarch Gregory V’s
+encyclical on education ( 1819) strongly condemned the practice of
+naming children after ancient Greek heroes and denounced even
+rudimentary attempts to propagate republican and nationalist ideas
+describing them as ‘‘the plots of the devil that often masquerade behind
+the clamoring for liberty and equality’ (Kitromilides2010,p . 38).
+While the senior clergy was actively hostile to nationalism the
+ordinary priests were largely ignorant of nationalist ideology. As they
+were hardly distinct from other peasants nearly all regular priests were
+51
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressilliterate, lacked even basic knowledge of the Bible, were not able to
+deliver sermons and were prone to combine Christian and pagan
+traditions. For example ‘‘Serbian clergymen were almost identical to
+other peasants. They were farmers and herdsmen. The only difference
+was their clothes and beards’’ (Radi/C19c 2003,p . 158). In this sense, just
+as with the population at large, the local priests could not conceptu-
+alize the world in nation (ist) terms. It is important to emphasize that
+despite Orthodox Christianity being an important source of collective
+identiﬁcation and probably the only pre-modern mechanism for exo-
+socialisation, the Church’s institutional inﬂuence was very weak.
+Throughout the Balkans church attendance was low and sporadic,
+confessions and communions were rare and the religious focus was on
+‘‘sin and preservation of one’s honor and moral purity’’ and worship-
+ing individual saints rather than on following Christian teachings and
+observing Church practices (Foli /C19c 2001). Hence before independence
+and the development of state apparatuses no social institution, in-
+cluding the Church, was able to signiﬁcantly penetrate the microcosm
+of local, kinship and village based traditions. Simply put, there was no
+institutional and organizational space for nationalism in the pre-
+independence and early post-independence Balkans.
+It is the intensive state building that took off in the second half of
+the 19
+th and early 20th century that had direct impact on the presence
+of nationalist discourses. In other words rather than being a cause of
+state formation, nationalism was an outcome of state building as all
+Balkan governments started investing much energy and resources in
+what Mosse (1991) would call ‘‘nationalization of the masses’’. Hence
+the expansion of education coupled with ever increasing literacy rates
+became a crucial vehicle for state sponsored inculcation of nationalist
+ideologies. Thus, for example the newly formed state intellectuals in
+Serbia were commissioned to write textbooks and other literature
+which depicted Serbs as the ‘ﬁrst and oldest people in Europe’ who
+have ‘‘founded Belgrade several thousand years before Christ’’
+(Milojevi/C19c 1871,p . 74). They also insisted that the Serbian people
+were very numerous in the past, have ‘inhabited three continents,
+Asia, Africa and Europe long before Christ’ and that all the peoples in
+the entire pre-Ottoman Balkans ‘‘spoke old Serbian language’’
+(Petkovi/C19c 1926,p . 57; Gop /C20cevi/C19c 1889,p . 12). Similarly , the Greek
+and Bulgarian authorities ﬁnanced publications of books, plays,
+paintings and musical creations that either traced the origins of their
+nations far into the past or simply gloriﬁed the ‘‘national genius’’ of
+Greeks and Bulgarians respectively. So Constantine Paparrigopoulos’s
+52
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Press‘‘The History of the Greek Nation’’ (1865-74), which insists on the
+uninterrupted continuity between ancient and present-day Greeks,
+was ﬁnanced by the Greek government, was quickly instituted as the
+ofﬁcial account of national origin and is still used in schools and
+colleges all over Greece (Roudometoff 2001,p p .107-10). In addition
+to the military , bureaucracy and police, national(ist) education
+became a budgetary priority. Thus Bulgaria’s budget for education
+expanded from 1.5 %i n 1879 to 11.2 %i n 1911, and it grew by
+a staggering 650 % in just over a 20 years period (Pippidi 2010,p . 128;
+Biondich 2011,p . 54). The lavish, state sponsored, institutions of
+‘‘high’’ culture such as national academies and learned societies,
+universities, theaters, opera houses, museums and concert halls were
+set up in all capitals and some provincial cities throughout Southeast
+Europe. The Balkan governments provided ﬁnancial support for
+newspapers and other mass media so that by the early 20
+th century
+a large number of nationalist newspapers were in circulation. For
+example, by the late 1920s and early 1930s Yugoslavia had 50 major
+daily papers (Case 2010,p . 294). The Balkan states also supported
+irredentist movements in the neighboring countries and attempted to
+project their geo-political ambitions, such as the visions of Greater
+Greece (Megali Idea ), Greater Serbia ( Na/C20certanije, Homogena Srbija)
+and Greater Bulgaria ( Velika i obedinena Bulgarija ), into educational
+and artistic institutions.
+Nevertheless despite the unprecedented nationalist propaganda
+penetrating all state apparatuses, and especially education, mass media
+and even civil society, nationalism remained an ideology of the elite
+minority, largely not shared by the rural population and urban
+laborers until well into the 20
+th century . As the intensive state building
+of the second half of the 19th century clearly privileged civil servants,
+the police and military establishment, state intellectuals and top
+business people it is only this social strata that became fully loyal to
+the new states and espoused ﬁerce nationalist, irredentist and expan-
+sionist ideas. On the other side were those that did not beneﬁt from
+state development: the peasantry, manual workers, and a tiny sector of
+the lower middle classes. Regardless of the fact that upon indepen-
+dence in both Serbia and Bulgaria most peasants become de jure small
+land holders while in Greece they found themselves de facto in such
+a position,
+9 this did not substantially improve their economic or
+9 Although from 1832 land in Greece was
+in state ownership, farmers have taken over
+most of this land without any interference
+from the state authorities (M ouzelis 1978 ).
+53
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Presspolitical position. However as the administrative, military and other
+state sector increased dramatically in a very short period of time it was
+the rural population, and to a lesser extent the small but rising urban
+proletariat, that had to provide resources to maintain such a gigantic
+state apparatus. The new states demanded cash taxation and this
+forced farmers to enter the market and seek credit, usually at quite
+unfavorable rates. Such a policy provoked deep animosity towards
+the city and its most recognizable representatives – civil servants. The
+peasant demonstrations and occasional jacqueries expressed this in
+slogans such as: ‘‘Allkaputa/C20si [wearers of city coats; townsfolk] should
+be killed’’ (Biondich 2011,p . 60). In other words the swift, state
+imposed modernization and industrialization created a sharp class
+polarization with on the one hand an urban, state created strata,
+favoring further state expansion both externally and internally, and on
+the other hand, mostly rural (and some urban) producers, favoring
+state transformation or attenuation of state power. These different
+structural positions fostered development of different ideological
+orientations: whereas the state bureaucracy , police, military establish-
+ment and the state intellectuals supported /C19etatisme and nationalism,
+both of which were seen as the principal source of state legitimacy, the
+peasantry and urban poor were more sympathetic to religious
+conservatism, peasant populism and anti-statism (Pippidi 2010;
+Stojanovi/C19c 2003; Milosavljevi/C19c 2003; Roudometof 2001).
+Therefore, despite their palpable visibility Balkan nationalisms of
+the late 19
+th and early 20th century were neither very deep nor
+extensively widespread. Most peasants opposed irredentist adventures,
+wars of territorial expansion and urban uprisings (i.e. the Serbo-Ottoman
+war of 1875, the April Uprising of 1876, the Serbo-Bulgarian war of
+1885) and were often coerced to economically and politically support
+the war effort (Biondich 2011; Pippidi 2010). Furthermore to make the
+rural population more receptive to nationalism the state authorities
+relied on anti-Semitism, xenophobia and the scapegoating of religious
+and ethnic minorities. In this sense, rather than being a spontaneous
+expression of ‘‘age old’’ animosities and hatred, a great deal of violence
+was deliberately orchestrated from the top to engineer a sense of inter-
+ethnic fear and ultimately to provoke internal (national) cohesion. For
+example, in the run-up to the Balkan wars the Greek, Serbian and
+Bulgarian ofﬁcers and soldiers were dispatched to Macedonia to
+ferment inter-ethnic hostilities, and were dressed up as the indigenous
+brigands ‘‘in order to conceal what was essentially state-sponsored
+violence’’ (Biondich 2011,p . 71). Similarly the state intelligentsia,
+54
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressgovernment ministers and state sponsored education and mass media
+were often the principal vehicles of anti-Semitism, Islamophobia and
+hatred against other minorities in Romania, Bulgaria, Greece and
+Serbia (Case 2010;R o u d o m e t o f2001;M a z o w e r2000).
+Although by the beginning of the Balkan wars of 1912-3 and World
+War 1, nationalist ideologies had penetrated greater sectors of the
+population and wars had helped foster a degree of inter-group
+cohesion even then a majority of the population in South East Europe
+was not fully ‘nationalized’ and most peasants and urban laborers
+remained skeptical if not completely opposed to these wars. For
+example when the Greek activist persistently insisted on ﬁnding out
+whether the local peasantry of Salonika see themselves as Greeks or
+Bulgarians the peasants did not understand the question: ‘‘whenever I
+asked them what they were – Romaioi [i.e. Greeks] or Voulgaroi
+[Bulgarians], they stared at me incomprehendingly [ .] Well, we’re
+Christians – what do you mean, Romaioi or Vulgaroi?’’ (Mazower
+2000,p . 50).
+As Boindich ( 2011,p . 43) points out ‘in the period between 1878
+and 1923, when the Balkans experienced some of its worst political
+violence, the bulk of the population, the peasantry , still lacked a strong
+national consciousness’. Most peasant recruits were unwilling to ﬁght,
+were inclined to desert or avoid conscription and were not particularly
+enthusiastic about the territorial expansion of their states. As well
+documented by Leon Trotsky’s 1912-3 Balkan war correspondence,
+Serbian peasant conscripts were apathetic and inimical to war efforts
+and nationalist projects. He characterized them as ‘‘depressed and
+extremely homesick for their villages’’ (Trotsky 1980 [1913], p. 121).
+Hence South East Europe is not a blind spot for the modernist
+theories of nationalism. Not only was there no nationalism in the
+Balkans before modernization and industrialization, but nationalist
+ideology, even more so than organized violence and warfare, came very
+late to this part of the world. However, modernism requires some ﬁne
+tuning to account for the often inversely proportional relationship
+between social stratiﬁcation and nationalism. While most modernist
+theories see nationalism as the decisive social cement that binds diverse
+citizenry into stable and cohesive societies able to generate economic
+growth and social development, the Balkan experience indicates an
+alternative trajectory . The 19
+th and early 20th century history of the
+region shows how , rather than acting as a cohesive social force,
+nationalisms in South East Europe were often a source of internal
+discord: the state supported irredentism and the pursuit of territorial
+55
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressexpansion were regularly perceived as the ideological projects of the city
+elite which could only , and usually did, bring misery to the country
+side. Hence, instead of generating greater social unity and solidarity and
+thus potentially stimulating social development the state enforced
+attempts at nationalist mobilization tended to further polarize already
+extremely divided societies (Male/C20sevi/C19c 2006, 2011).
+Making Wars, States and Nations in the Balkans
+There is a widespread view of the Balkans as the region which for
+most of its history was brim-full of protracted violence and nationalist
+euphoria. From the early 19
+th century ‘national’ uprisings to the1990s
+wars of Yugoslav secession, South East Europe has been seen as
+a ‘‘powder keg of Europe’’ (Kaplan1994). Moreover, both nationalism
+and violence are regularly singled out as the most important impedi-
+ments for the social development of the region. Nevertheless, a careful
+historical sociological analysis shows that neither of these two
+common perceptions holds up well to empirical scrutiny. Instead of
+being an inherent feature of the Balkan landscape, both nationalism
+and organised violence are, historically speaking, fairly recent arrivals
+to the region. In a similar vein, it is not the abundance of nationalisms
+and wars than have stiﬂed the development of the region but in fact it
+was often the lack of their organised prevalence that hampered wider
+social advance. The fact that much of the warfare in the Balkans was
+small scale, sporadic, and disorganised meant that such wars could not
+help enhance the organisational capacities of states in the region.
+Likewise the uneven, narrow , belated, and rigid, top down spread of
+the nationalist ideology often mitigated against the development
+of internal social cohesion, thus preventing the emergence of a degree
+of social consensus necessary for economic and political development.
+Nonetheless, this is not to say that war-making by itself inevitably
+generates strong states and societies, or that the proliferation of
+nationalism automatically leads to societal wellbeing and economic
+prosperity.
+The view of conventional bellicose historical sociology that pro-
+tracted warfare is likely to eventually yield infrastructurally strong,
+centralised states capable of creating political stability, social order,
+and economic growth, requires major amending. Although the in-
+stitution of the state might have originated in warfare, its viability and
+56
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressexpansion requires much more than sustained violence. Not all wars
+make states and even those that make states do not necessarily create
+strong polities. As Tallet ( 1992,p . 198) points out, Tilly’s account
+suffers from the chicken and egg symptom. It is not clear what comes
+ﬁrst: ‘‘whether an efﬁcient and developed bureaucracy was the pre-
+condition for the growth in size and complexity of the armies [ .]o r
+whether growth in armies stimulated growth in the bureaucratic
+structures of the state’’. Thus warfare is better understood as a test
+of state strength rather than as an impetus for state formation. Balkan
+warfare clearly demonstrates the complexity of this relationship. Wars
+did not create independent polities in the early 19
+th century Balkans.
+Instead independence was a highly contingent event resulting from
+the combination of the internal organisational structures of the
+weakened Ottoman Empire and the geo-political interests of the Great
+Powers.
+10 Similarly, as they were small scale events in the mid to late
+19th century , wars did not forge strong states either. The beginning of
+the 20th century saw South East Europe becoming an epicentre of
+mass scale warfare but much of the intensive state building took place
+long before the 1912-13 Balkan wars and World War 1. While the
+mobilisation for warfare certainly played a part in the centralisation of
+state power and the expansion of the state’s infrastructural and
+bureaucratic capacities, the outcomes of these high intensity wars
+were not strong states and vibrant civil societies. Instead both the
+victorious and the defeated Balkan states shared almost an identical
+developmental trajectory in the 1920s and 1930s: authoritarian rule,
+stiﬂing of parliamentarism and civil society, huge indebtedness to
+international creditors, state monopolies in the economy, rampant
+nepotism and corruption, heightened class polarisation and perpetual
+animosity between the urban and rural population.
+To fully understand this particular outcome, which in many
+respects contradicts the central thesis of the conventional bellicose
+approach, it is crucial to focus on the role of nationalism and social
+stratiﬁcation in the Balkan societies. In contrast to normative views
+that see rampant nationalist attachments as an obstacle for social
+progress, historical and sociological reality indicates that the degree of
+national solidarity is often a precondition for effective political and
+10 As Biondich ( 2011,p . 41) puts it suc-
+cinctly: ‘‘Serbia’s autonomous status was
+achieved largely through Russian Diplomacy
+(1817, 1829), Greek independence ( 1830)
+through Anglo-French-Russian intervention,
+and Bulgarian autonomy through direct
+Russian military intervention followed by
+Great Power diplomatic ﬁat ( 1878)’’.
+57
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Presseconomic development. The modernist paradigm in the study of
+nationalism, and Gellner’s work (1997,p . 25; 1964,p . 114) especially,
+argue that not only are nationalism and economic growth fully
+compatible but, as the two are the main sources of political legitimacy
+in the modern/industrial era, they entail each other. Furthermore, and
+in contrast to the primordialist and perennialist accounts, the mod-
+ernists rightly insist on the historical novelty of this synergetic
+relationship between nationalism and socio-economic development.
+The Balkan experience fully vindicates both of these claims.
+Firstly, contrary to the primordial and perennial interpretations,
+the early 19
+th century uprisings in South East Europe had nothing to
+do with nationalism but were a direct by-product of imperial geo-
+politics and internal weaknesses of the Ottoman social order. Rather
+than being a motivational source of state-building, nationalist ideology
+was a consequence of state formation. Nevertheless, even after decades
+of intensive, state sponsored ‘‘nationalisation of the masses’’, this
+ideology remained a profoundly weak force unable to motivate the
+majority of Balkan populations until well into the 20
+th century.
+Secondly the corollary of the state’s inability to swiftly turn
+peasants into Serbs, Greeks, Bulgarians or Albanians was a lack of
+internal consensus on developmental goals and ambitions. As nation-
+alism did not penetrate most layers of Balkan societies there was no
+adequate social glue to provide a shared vision of national solidarity
+necessary for radical economic, political and social reforms. This
+Gellnerian account of the relationship between nationalism and social
+progress requires an analytical extension to capture the internal
+dynamics of South East European societies where, rather than being
+a device of social cohesion, nationalism was often a source of deep
+class friction.
+Therefore, the popular image of the Balkan Peninsula as a historical
+hub of aggressive nationalisms and perpetual violence, both of which
+allegedly thwarted its progress, is really an inverted, image of the
+historical reality. It is actually the absence of protracted organised
+violence and society-wide nationalisms that have heavily contributed
+to the often sluggish development of the region.
+58
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressBIBLIOGRAPHY
+Anderson Benedict, 1983. Imagined Commu-
+nities (London, Verso).
+Ayoob Mohammed, 1995. The Third World
+Security Predicament: State Making, Re-
+gional Politics and the International System
+(Boulder, Lynne Rienner).
+Barnett Michael N., 1992. Confronting the
+Costs of War: Military Power, State and
+Society in Egypt and Israel (Princeton,
+Princeton University Press).
+Bechev Dimitar, 2010. ‘‘The State and Local
+Authorities in the Balkans, 1804-1939’’,
+in Van Meurs Wim and Alina M ungiu-
+Pippidi,e d s . , Ottomans into Europeans
+(London, Hurst).
+Beissinger Mark, 1998. ‘‘Nationalisms that
+Bark and Nationalisms that Bite: Ernest
+Gellner and the Substantiation of Na-
+tions’’,in Hall John A., ed., The State of
+the Nation: Ernest Gellner and the Theory
+of Nationalism (Cambridge, Cambridge
+University Press).
+Berend Ivan T., 2003. History Derailed:
+Central and Eastern Europe in the Long
+Nineteenth Century (Berkley, University
+of California Press).
+Biondich Mark, 2011. The Balkans:
+Revolution, War and Political Violence since
+1878 (Oxford, Oxford University Press).
+Breuilly John, 1993. Nationalism and the
+State (Manchester, Manchester University
+Press).
+Brubaker Rogers, 2010. ‘‘Charles Tilly as
+a Theorist of Nationalism’’,The American
+Sociologist
+, 41,p p .375-381.
+Canefe Nergis, 2002. ‘‘Turkish Nationalism
+and Ethno-Symbolic Analysis: The Rules
+of Exception’’Nations and Nationalism , 8
+(2), pp. 133-155.
+Carneiro Robert, 1977. A Theory of the
+Origin of the State.Studies in Social Theory,
+3 (1), pp. 3-21.
+Case Holly, 2010. ‘‘The Media and State
+Power in South-East Europe to 1945’’,
+T ABLE
+List of 19th and early 20th century Balkan Wars and Major Uprisings
+1. First Serbian Uprising ( 1804-13)
+2. Second Serbian Uprising ( 1815-7)
+3. Greek War of Independence ( 1821-9)
+4. Wallachian Uprisings ( 1821 and 1848)
+5. Cretan Insurrections ( 1821-4)
+6. Ottoman-Montenegrin Conﬂicts (1852-3 and 1858-9)
+7. Herzegovinian Rebellion ( 1875)
+8. Bulgarian (April) Uprising ( 1876)
+9. Serbo-Ottoman War ( 1876)
+10. Serbo-Bulgarian War ( 1885)
+11. Greco-Ottoman War ( 1897)
+12. Romanian Peasants’ Revolt (1907)
+13. First Balkan War ( 1912-3)
+14. Second Balkan War ( 1913)
+15. Greco-Turkish War ( 1919-22)
+59
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Pressin Van Meurs Wim and Alina M ungiu-
+Pippidi,e d s . , Ottomans into Europeans
+(London, Hurst).
+Centeno Miguel A., 2002. Blood and Debt:
+War and the Nation-State in Latin America
+(University Park, Penn State University
+Press).
+Clodfelter Michael, 1992. Warfare and
+Armed Conflicts: A Statistical Reference ,
+Vol. I (Jefferson, McFarland and Company).
+Cviji/C19c Jovan, 1922. Balkansko poluostrvo
+i Juznoslovenske Zemlje: Osnove antropo-
+geografije (Belgrade, Zavod za izdavanje
+ud/C20zbenika).
+Djordjevi/C19c Dmitrije and Stephen F isher-
+Galati, 1981. The Balkan Revolutionary
+Tradition (New York, Columbia Univer-
+sity Press).
+Downing Brian M., 1992. The Military Rev-
+olution and Political Change (Princeton,
+Princeton University Press).
+Drakuli/C19c Slobodan, 2008. ‘‘Whence nation-
+alism?’’,Nations and Nationalism , 14 (2),
+pp. 221-239.
+Dvornikovi/C19c Vladimir, 1939. Karakterologija
+Jugoslovena (Belgrade, Kosmos).
+Eckhardt William,
+1992. Civilizations, Em-
+pires and Wars: A Quantitative History of
+War (Jefferson, McFarland).
+—, 1988. ‘‘Wars and Related Deaths, 1700-
+1987’’, in Sivarded Leger Ruth, World
+Military and Social Expenditures. 1987-88
+(Washington, World Priorities).
+Ekme/C20ci/C19c Milorad, 1991. ‘‘The Emergence of
+St. Vitus Day as the Principal National
+Holiday of the Serbs’’,in VucinichWayne S.
+and Thomas A. Emmert,e d s . ,Kosovo: Leg-
+acy of Medieval Battle (Minneapolis, Uni-
+versity of Minnesota Press).
+EP - Evening Post , LXVI (16), 18 July 1903.
+Eriksen Thomas H., 2007. ‘‘Ernest Gellner
+and the Multicultural Mess’’,in Male/C20sevi/C19c
+Sini/C20sa and Mark H augaard,e d s . ,Ernest
+Gellner and Contemporary Social Thought
+(Cambridge, Cambridge University Press).
+Ertman Thomas, 1997. Birth of the Leviathan
+(Cambridge, Cambridge University Press).
+Fine John V .A., 1994. The Late Medieval
+Balkans (Ann Arbor, University of
+Michigan Press).
+Foli/C19c Zvezdan, 2001. Vjerske zajednice u
+Crnoj Gori 1918
+-1953: Prilozi za istoriju
+(Podgorica, Istorijski institut Crne Gore).
+Gat Azar, 2006. War in Human Civilization
+(Oxford, Oxford University Press).
+Gellner Ernest, 1964. Thought and Change
+(London, Weidenfeld and Nicolson).
+—, 1983. Nations and Nationalism (Oxford,
+Blackwell).
+—, 1988. Plough, Sword and Book: The
+Structure of Human History (London,
+Collins Harvill).
+—, 1997. Nationalism (London, Phoenix).
+Gerolymatos Andre, 2002. The Balkan Wars
+(Staplehurst, Spellmount).
+Glenny Misha, 1999. The Balkans 1804-
+1999: Nationalism, War and the Great
+Powers (London, Granta).
+Gopcevic Spiridon, 1889. Makedonija: Et-
+nografski odnosi Makedonije i Stare Srbije
+(Belgrade, Parna /C20stamparija Dim).
+Gorski Philip S., 2000. ‘‘The Mosaic Mo-
+ment: An Early Modernist Critique of
+Modernist Theories of Nationalism’’,
+American Journal of Sociology , 105 (5),
+pp. 1428-1468.
+Gumplowicz Ludwig, 1899. The Outlines of
+Sociology (Philadelphia, American Acad-
+emy of Political and Social Science).
+Hall John A., 2010. Ernest Gellner: An In-
+tellectual Biography (London, Verso).
+Hall
+Richard C., 2000. The Balkan Wars
+1912-1913: Prelude to the First World War
+(London, Routledge).
+Hann Chris, 2001. ‘‘Gellner’s Structural-
+Functional-Culturalism’’,Czech Sociologi-
+cal Review, 9 (2), pp. 173-182.
+—, 1998. ‘‘Nationalism and Civil Society in
+Central Europe: From Ruritania to the
+Carpathian Euroregion’’,in Hall John A.,
+ed., The State of the Nation: Ernest
+Gellner and the Theory of Nationalism
+(Cambridge, Cambridge University
+Press).
+Herbst Jeffrey, 2000. States and Power in
+Africa: Comparative Lessons in Authority
+and Control (Princeton, Princeton Univer-
+sity Press).
+Hintze Otto, 1975 [1908]. The Historical
+Essays of Otto Hintze (New York, Oxford
+University Press).
+Hobsbawmn Eric J., 1990. Nations and
+Nationalism since 1780 (Cambridge,
+Cambridge University Press).
+Hupchick Denis P .,2002. The Balkans: From
+Constantinople to Communism (New York,
+Palgrave).
+Hutchinson John 2007. ‘‘Warfare, remem-
+brance and national identity’’, in Leoussi
+Athena S. and Steven G rosby,e d s . ,Na-
+tionalism and Ethnosymbolism: History ,
+Culture and Ethnicity in the Formation of
+Nations. (Edinburgh, Edinburgh Univer-
+sity Press).
+60
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressKakridis John Th., 1963. ‘‘The Ancient
+Greeks of the War of Independence’’,
+Journal of Balkan Studies, 4 (2), pp.251-264.
+Kaldor Mary, 2001. New and Old Wars:
+Organised Violence in a Global Era
+(Cambridge, Polity Press).
+Kaplan Robert D. 1994. The Balkan Ghosts:
+A Journey through History (New York,
+Viking).
+Kedourie Elie, 1985. Nationalism (London,
+Hutchinson).
+Keen Maurice, 1999. Medieval Warfare:
+a History (Oxford, Oxford University
+Press).
+Kennan George F .,1993. The Other Balkan
+Wars. A 1913 Endowment Inquiry in Retro-
+spect with a New Introduction and Reflections
+on the Present Conflict (Washington, Carne-
+gie Endowment for International Peace).
+Kitromilides Paschalis, 2010. ‘‘The Orthodox
+Church in Modern State Formation in
+South-East Europe’’in W. Van Meurs and
+A. M ungiu-Pippidi,e d s . , Ottomans into
+Europeans: State and Institution Building in
+South Eastern Europe (London, Hurst).
+—, 1994. Enlightenment, Nationalism,
+Orthodoxy: Studies in the Culture and
+Political Thought of South-Eastern Europe
+(Brookfield, Variorum).
+Lampe John R. and Marvin R. Jackson, 1982.
+Balkan Economic History , 1550-
+1950
+(Bloomington, University of Indiana Press).
+Leander Anna, 2004. ‘‘War and the Un-
+making of States: Taking Tilly Seriously
+in the Contemporary World’’, in Guzzini
+Stefano and Dietrich J ung,e d s . ,Contem-
+porary Security Analysis and Copenhagen
+Peace Research (London, Routledge).
+Lederer Ivo J., 1969. ‘‘Nationalism and the
+Yugoslavs’’ in Sugar Peter and Ivo J.
+Lederer,e d s . , Nationalism in Eastern
+Europe (Seattle, University of Washington
+Press).
+Lustick Ian S., 1997. ‘‘The Absence of Mid-
+dle Eastern Great Powers: ‘Backwardness’
+in Historical Perspective’’, International
+Organization, 51,p p .653-683.
+Male/C20sevi/C19c Sini/C20sa, 2006. Identity as Ideology:
+Understanding Ethnicity and Nationalism
+(New York, Palgrave).
+—, 2007. ‘‘Between the Book and the New
+Sword: Gellner, Violence and Ideology’’,
+in Male/C20sevi/C19c Sini/C20sa and Mark H augaard,
+eds., Ernest Gellner and Contemporary So-
+cial Thought (Cambridge, Cambridge Uni-
+versity Press).
+—, 2010. The Sociology of War and Violence
+(Cambridge, Cambridge University Press).
+—, 2011. ‘‘Nationalism, War and Social
+Cohesion’’, Ethnic and Racial Studies ,
+34 (1), pp. 142
+-161.
+Mann Michael, 1993. The Sources of Social
+Power II (Cambridge, Cambridge Univer-
+sity Press).
+—, 2004. Fascists (Cambridge, Cambridge
+University Press).
+Mazower Mark, 2000. The Balkans: From
+the End of Byzantium to the Present Day
+(London, Phoenix).
+Meriage Lawrence P ., 1977. ‘‘The First
+Serbian Uprising 1804-1813; National Re-
+vival or a Search for Regional Security’’,
+Canadian Review of Studies in Nationalism ,
+4 (2), pp. 187-205.
+Milojevi/C19c Milos S., 1871. Putopis dela
+(prave) Stare Srbije (Belgrade, Dr /C20zavna
+/C20stamparija).
+Milosavljevi/C19c Olivera, 2003. ‘‘Elitizam u
+narodnom ruhu’’,in Perovi/C19c Latinka, ed.,
+Srbija u modernizacijskim procesima 19.i
+20. Veka: Uloga elita (Belgrade, Cigoj
+/C20stampa).
+Minogue Kenneth, 1996. ‘‘Ernest Gellner
+and the dangers of theorising nationalism’’,
+in Hall John A. and lan J arvie, The Social
+Philosophy of Ernest Gellner (Amsterdam,
+Rodopi).
+Mosse George L., 1991. The Nationalization
+of the Masses: Political Symbolism and
+Mass Movements in Germany from the
+Napoleonic Wars through the Third Reich
+(Ithaca, Cornell University Press).
+Mouzelis Nicos, 1978. Modern Greece: Facets
+of Underdevelopment (London, Mcmillan).
+—, 1998. ‘‘Ernest Gellner’s Theory of Na-
+tionalism: Some Definitional and Method-
+ological Issues’’, in Hall J.A., ed., The
+State of the Nation: Ernest Gellner and
+the Theory of Nationalism (Cambridge,
+Cambridge University Press).
+—, 2007. ‘‘Nationalism: Reconstructing
+Gellner’s Theory’’, in Male/C20sevi/C19c Sini/C20sa
+and Mark H augaard,e d s . , Ernest
+Gellner and Contemporary Social Thought
+(Cambridge, Cambridge University
+Press).
+Mungiu-Pippidi Alina, 2010. ‘‘Failed Institu-
+tional Transfer? Constraints on the Polit-
+ical Modernization of the Balkans’’,in Van
+Meurs Wim and Alina M ungiu-Pippidi,
+eds., Ottomans into Europeans (London,
+Hurst).
+61
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressNicholson Helen, 2004. Medieval warfare:
+theory and practice of war in Europe, 300-
+1500 (New York, Plagrave).
+O’Leary Brendan, 1998. ‘‘Ernest Gellner’s
+Diagnoses of Nationalism’’,in Hall John A.,
+ed., The State of the Nation: Ernest Gellner
+and the Theory of Nationalism (Cambridge,
+Cambridge University Press).
+Oppenheimer Franz, 2007 [1926]. The State
+(Montreal, Black Rose Books).
+Orridge Andrew, 1981. ‘‘Uneven Develop-
+ment and Nationalism II’’,Political Stud-
+ies 29 (2), pp. 181-90.
+Pavlowitch Stevan K., 1981. ‘‘Society in
+Serbia 1791-1830’’, in Clogg Richard,
+ed., Balkan Society in the Age of Greek
+Independence (London, Macmillan).
+—, 1999. A History of the Balkans 1804-1945
+(London, Longman).
+Paxton Roger V ., 1972. ‘‘Nationalism and
+Revolution: A Re-examination of the Ori-
+gins of the First Serbian Insurrection,
+1804-1807’’,East European Quarterly , 6
+(3), pp. 337-362.
+Pearton
+Maurice 1971 Oil and the Romanian
+state (Oxford, Clarendon Press).
+Pelt Mogens, 2010. ‘‘Organised Violence in
+the Service of Nation Building’’, in Van
+Meurs Wim and Alina M ungiu-Pippidi,
+eds., Ottomans into Europeans (London,
+Hurst).
+Petkovi/C19c Zˇivko D., 1926. Prve pojave srpskog
+imena (Belgrade, Izdanje Vladimira
+Markovi/C19ca).
+Pippidi Alina, 2010. ‘‘The Development of an
+Administrative Class in South-East Europe’’,
+in Van Meurs Wim and Alina M ungiu-
+Pippidi,e d s . , Ottomans into Europeans
+(London, Hurst).
+Radi/C19c Radmila, 2003. ‘‘Verska elita i mod-
+ernizacija: Teskoce pronalazenja odgo-
+vora’’in Perovi/C19c Latinka, ed., Srbija u
+modernizacijskim procesima 19.i 20. Veka:
+Uloga elita (Belgrade, Cigoj /C20stampa).
+Ratzenhofer Gustav , 1881. Die Staatswehr
+(Stuttgart, Cottasche Buchhandlung).
+Reno William, 2003. ‘‘The Changing Nature
+of Warfare and Absence of State Building
+in West Africa’’, in Davis Diane E. and
+Anthony W . Pereira,e d s . ,Irregular Armed
+Forces and Their Role in Politics and State
+Formation (Cambridge, Cambridge Uni-
+versity Press).
+Roshwald Aviel, 2006. The Endurance of
+Nationalism (Cambridge, Cambridge Uni-
+versity Press).
+Roudometof Victor, 2001. Nationalism,
+Globalization and Orthodoxy: The Social
+Origins of Ethnic Conflict in the Balkans
+(Westport, Greenwood Press).
+R€ustow Alexander, 1980 [1950]. Freedom and
+Domination (Princeton, Princeton Univer-
+sity Press).
+Singer Joel D., 1972. The Wages of War.
+1816-1965 (Stockholm, Stockholm Inter-
+national Peace Research Institute).
+Schurman Jacob G., 1914. The Balkan Wars
+1912-1913 (Princeton, Princeton Univer-
+sity Press).
+Smith Anthony D., 2009. Ethno-Symbolism
+and Nationalism: A Cultural Approach
+(London, Routledge).
+Stoianovich Traian, 1994. Balkan Worlds:
+The First and Last Europe (New York,
+M.E. Sharpe).
+Stojanovi/C19c D. 2003. Percepcija ideala slo-
+bode, jednakosti I bratstva kod srpske elite
+pocetkom 20. veka’’, in Perovi/C19c Latinka,
+ed., Srbija u modernizacijskim procesima 19.
+i 20. Veka: Uloga elita (Belgrade, Cigoj
+/C20stampa).
+Stokes Gale, 1976. ‘‘The Absence of Nation-
+alism in Serbian Politics before 1840’’,
+Canadian Review of Studies in Nationalism ,
+4 (1), pp. 77-90.
+Tallett Frank, 1992. War and Society in
+Early Modern Europe, 1495-1715
+(New York, Routledge).
+Taylor Brian D. and Roxana B otea, 2008.
+‘‘Tilly Tally: War-Making and State-
+Making in the Contemporary Third
+World’’,International Studies Review , 10,
+pp. 27-56.
+Taylor Charles, 1998. ‘‘Nationalism and
+Modernity’’,in Hall John A., ed., The
+State of the Nation: Ernest Gellner and
+the Theory of Nationalism (Cambridge,
+Cambridge University Press).
+Thies Cameron G., 2007. ‘‘The Political
+Economy of State Building in Sub-
+Saharan Africa’’, Journal of Politics , 69,
+pp. 716-731.
+Tilly Charles, ed., 1975. The Formation
+of National States in Western Europe
+(Princeton, Princeton University Press).
+—, 1985. ‘‘War Making and State making as
+Organized Crime’’ in Evans Peter B.,
+Dietrich R ueschemeyer and Theda S koc-
+pol
+,e d s . , Bringing the State Back In
+(Cambridge, Cambridge University Press).
+—, 1992. Coercion, Capital and European
+States (Oxford, Blackwell).
+62
+sini/C20sa male /C20sevi/C19c
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University PressTin-Bor Hui Victoria, 2005. War and State
+Formation in Ancient China and Early
+Modern Europe (Cambridge, Cambridge
+University Press).
+Todorova Maria N., 1997. Imagining the
+Balkans (Oxford, Oxford University Press).
+Trotsky Leon, 1980 [1913] The war corre-
+spondence of Leon Trotsky , the Balkan wars
+1912-13 (New York, Pathfinder Press).
+Vucinich Wayne S., 1968. Serbia between
+East and West: The Events of 1903-1908
+(New York, AMS Press).
+Ward Lester F ., 1913. Dynamic Sociology
+(New York, Appleton).
+Wilson Duncan, 1970. The Life and Times
+of Vuk Stefanovi /C19c Karadzi /C19c, 1787-1864;
+Literacy , Literature and National Indepen-
+dence in Serbia (Oxford, Clarendon Press).
+Woodhouse Christopher M. 1969. The Phil-
+hellens (London, Hodder and Stoughton).
+Zarinebaf Fariba, John B ennet and Jack L.
+Davies, 2005. A Historical and Economic
+Geography of Ottoman Greece (Princeton,
+American School of Classical Studies).
+R/C19esum/C19e
+Depuis le d/C19ebut du XIXe si/C18ecle, dire ‘‘Balkans’’
+renvoie /C18a nationalisme agressif et violence
+debrid/C19ee, deux ph/C19enom/C18enes traditionnellement
+t e n u sp o u ro b s t a c l e sm a j e u r sa ud/C19eveloppement
+social. Tout/C18a l’oppos/C19e, l’argument pr/C19esent/C19ei c i
+veut que l’absence de conflit arm/C19ep r o l o n g/C19ee t
+de doctrines nationalistes charpent /C19ees mar-
+quent la particularit/C19ed el ’ h i s t o i r ed el ’ E u r o p e
+du Sud. L’article offre un examen critique
+de la sociologie historique des guerres et des
+th/C19eories modernes du nationalisme telles que
+d/C19evelopp/C19ees notamment par Charles Tilly et
+Ernst Gellner. Critique envers la sociologie
+historique de la guerre et les th/C19eories modernes
+du nationalisme, la lec¸on s’impose : ce n’est pas
+l’exacerbation du nationalisme et de la violence
+organis/C19ee mais bien plut^ot leur d/C19eficience his-
+torique qui se r /C19ev/C18ele d /C19ecisive pour rendre
+compte de la lenteur du d /C19eveloppement des
+soci/C19et/C19es balkaniques.
+Mots cl /C19es: Nation ; Nationalisme ; /C19Etats ;
+Guerre ; Balkans.
+Zusammenfassung
+Seit Beginn des 19. Jahrhunderts steht der
+Balkan Pate f€ur einen agressiven Nationalismus
+und z €ugellose Gewalt, zwei Ph €anomene, die
+traditionnell zu den Haupthinderungsgr€unden
+f€ur eine soziale Entwicklung gez €ahlt werden.
+Der vorliegende Beitrag widerspricht dieser
+Auffassung, mit Hinweis auf die Abwesenheit
+eines langen bewaffneten Konflikts und ko-
+herenter nationaler Doktrinen, ein Spezifikum
+der Geschichte S€ud-Ost-Europas. Die kritische
+Hinterfragung der historischen Kriegssoziolo-
+gie und der modernen Nationalismustheorien
+erfolgt unter Einbeziehung der Arbeiten von
+Charles Tilly und Ernst Gellner. Der Artikel
+n i m m tk r i t i s c hB e z u ga u fA n s€atze der histor-
+ischen Kriegssoziologie sowie auf modernisti-
+sche Nationalismustheorien um zu zeigen, dass
+nicht ein €Ubermaß an Nationalismus und
+organisierter Gewalt sondern deren historischer
+Mangel entscheidend war f €ur das verz €ogerte
+Tempo der gesellschaftlichen Entwicklung in
+den Balkanstaaten.
+Schlagw€orter: Nation; Nationalismus; Staaten;
+Krieg; Balkan.
+63
+wars, states, nations
+https://doi.org/10.1017/S0003975612000021 Published online by Cambridge University Press
