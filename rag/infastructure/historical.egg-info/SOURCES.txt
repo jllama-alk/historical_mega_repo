@@ -1,0 +1,7 @@
+pyproject.toml
+historical.egg-info/PKG-INFO
+historical.egg-info/SOURCES.txt
+historical.egg-info/dependency_links.txt
+historical.egg-info/top_level.txt
+vectordb/__init__.py
+vectordb/vector.py

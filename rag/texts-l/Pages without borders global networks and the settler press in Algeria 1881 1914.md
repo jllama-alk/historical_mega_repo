@@ -1,96 +1,25 @@
-Settler Colonial Studies journal cover
-
-# Settler Colonial Studies
-
-Routledge Taylor & Francis Group logo
-
-ISSN: 2201-473X (Print) 1838-0743 (Online) Journal homepage: www.tandfonline.com/journals/rset20
-
-# Pages without borders: global networks and the settler press in Algeria, 1881–1914
-
-**Charlotte Ann Chopin**
-
-**To cite this article:** Charlotte Ann Chopin (2018) Pages without borders: global networks and the settler press in Algeria, 1881–1914, Settler Colonial Studies, 8:2, 152-174, DOI: 10.1080/2201473X.2016.1273868
-
-**To link to this article:** [https://doi.org/10.1080/2201473X.2016.1273868](https://doi.org/10.1080/2201473X.2016.1273868)
-
-* 
-
- calendar icon Published online: 16 Jan 2017.
-* 
-
- edit icon Submit your article to this journal
-* 
-
- bar chart icon Article views: 727
-* 
-
- search icon View related articles
-* 
-
- Crossmark logo View Crossmark data
-
-Full Terms & Conditions of access and use can be found at
-[https://www.tandfonline.com/action/journalInformation?journalCode=rset20](https://www.tandfonline.com/action/journalInformation?journalCode=rset20)
-
-SETTLER COLONIAL STUDIES, 2018
-VOL. 8, NO. 2, 152–174
-https://doi.org/10.1080/2201473X.2016.1273868
-
-Routledge Taylor & Francis Group logo
-
-Check for updates
-
-# Pages without borders: global networks and the settler press in Algeria, 1881–1914
-
-Charlotte Ann Chopin
-
-University of London Institute in Paris, University of London, Paris, France
-
-### ABSTRACT
-
-### KEYWORDS
-
 This article traces processes of political and cultural identification in the settler press in Algeria at the turn of the twentieth century. These processes, the article argues, extended beyond the triangular dynamics of the settler colonial situation, to be shaped by the wider global networks which sustained the rapid growth of the settler press in this period. Press networks created inter-imperial connections which allowed Europeans in Algeria to compare themselves to other settler societies across the world, providing points of reference for their own debates about sovereignty. If historic and contemporary examples of rebellion set by Europeans in the USA, the Transvaal, and Cuba proved attractive to journalists who resented the political authority and cultural influence of the French state, they were also perceived as risky in a demographic context of settler diversity and minority. Instead, journalists drew upon their global networks to imagine a transnational model of ‘Latin’ community. Their claims to ‘Latin’ identity expressed a profound ambivalence towards French authority, allowing them to seek protection from the French state without abandoning their mixed European heritage to the assimilative projects of the ‘one and indivisible’ republican regime. While journalists’ promotion of an internally differentiated ‘Latin’ cultural and racial community may have disrupted the ‘register of sameness’ amongst settlers, it ultimately reinforced the exclusion of Algerian Muslims and Jews as agents and subjects of news.
 
-Algeria; journalism; press; networks; settler community; Latin
 
-‘The local crowd’, bragged a journalist for Algiers-based daily, *Algérie*, in 1895, ‘is not the same crowd that one encounters elsewhere’.<sup>1</sup> This crowd, which the journalist presented as a reflection of the newspaper’s reading community of European settlers, was distinguished by its internal diversity. ‘The mix of [European] races is one of the principal attractions of our land’, the journalist boasted, ‘so many brightly-coloured outfits gleam beneath our sun, so many sonorous and diverse languages ring out joyfully in our limpid air’.<sup>2</sup> This representation of the European population in Algeria certainly downplayed some of the more fractious consequences of ethnic, cultural and linguistic diversity in a context of colonial inequality and international political rivalry. Tension and conflict between groups of Europeans was recurrent, and sometimes even fuelled by journalists themselves.<sup>3</sup> Nevertheless, *Algérie*’s expression of confidence in an internally differentiated settler community
-
-**CONTACT** Charlotte Ann Chopin email icon charlotte.chopin@ulip.lon.ac.uk
-© 2017 Informa UK Limited, trading as Taylor & Francis Group
-
-SETTLER COLONIAL STUDIES 153
-
-was often repeated in local publications at the turn of the twentieth century. While such representations clearly served to distinguish settlers from the Arabs, Berbers and Jews of Algeria, as well as from Europeans on the other side of the Mediterranean, they did so without effacing cultural differences amongst settlers themselves. Indeed, it was the energy and tension engendered by these differences, many journalists suggested, which gave the Algerian settler crowd its distinctive dynamism. ‘What appeals to me about our people,’ affirmed the journalist at *Algérie*, ‘is that we have our own free way of doing things’.<sup>4</sup>
+‘The local crowd’, bragged a journalist for Algiers-based daily, *Algérie*, in 1895, ‘is not the same crowd that one encounters elsewhere’.<sup>1</sup> This crowd, which the journalist presented as a reflection of the newspaper’s reading community of European settlers, was distinguished by its internal diversity. ‘The mix of [European] races is one of the principal attractions of our land’, the journalist boasted, ‘so many brightly-coloured outfits gleam beneath our sun, so many sonorous and diverse languages ring out joyfully in our limpid air’.<sup>2</sup> This representation of the European population in Algeria certainly downplayed some of the more fractious consequences of ethnic, cultural and linguistic diversity in a context of colonial inequality and international political rivalry. Tension and conflict between groups of Europeans was recurrent, and sometimes even fuelled by journalists themselves.<sup>3</sup> Nevertheless, *Algérie*’s expression of confidence in an internally differentiated settler community was often repeated in local publications at the turn of the twentieth century. While such representations clearly served to distinguish settlers from the Arabs, Berbers and Jews of Algeria, as well as from Europeans on the other side of the Mediterranean, they did so without effacing cultural differences amongst settlers themselves. Indeed, it was the energy and tension engendered by these differences, many journalists suggested, which gave the Algerian settler crowd its distinctive dynamism. ‘What appeals to me about our people,’ affirmed the journalist at *Algérie*, ‘is that we have our own free way of doing things’.<sup>4</sup>
 
 The prevalence of such depictions of the settler community in Algeria invites further reflection on the ways in which the particular demographic composition of the European population in the North African territory modified the processes of identification which characterise ‘the settler colonial situation’ described by Lorenzo Veracini.<sup>5</sup> These processes of identification, as Veracini observes, take place within a triangular system of relationships between settlers, ‘indigenous Others’ and ‘exogenous Others’.<sup>6</sup> In distinguishing themselves from these Others, Veracini explains, settlers maintain their sovereignty by rejecting or exterminating the groups they perceive to be inassimilable, and subsuming elements they perceive to be assimilable to the settler community’s ‘register of sameness’.<sup>7</sup> By marking and celebrating difference within the settler community, however, European journalists in Algeria disrupted this ‘register of sameness’, proposing alternative forms of interaction between French settlers and certain exogenous Others.
 
 This article examines the role of the settler press in Algeria in the imagination of a settler community which united Europeans of French, Spanish and Italian origin, whilst accommodating real differences of cultural practice and patriotic sentiment, and perceived differences of race. This imagined community, the article argues, was sustained by the network of global press connections within which settler journalistic activity took place following the liberalisation of the press across French territory in 1881.<sup>8</sup> In situating the triangular relationships of the settler colonial situation within the wider global networks of the press, this article responds to Antoinette Burton’s call for historians of empire to think ‘beyond the nation’ by considering inter-imperial as well as intra-imperial connections.<sup>9</sup> The latter, as Alan Lester, John Lambert and Simon Potter have demonstrated in their respective studies of the press in the British Dominions, often structured processes of identification in such a way as to promote imperial communities which united inhabitants of the metropole and settlers across the empire, including them, for example, in an imagined ‘British World’.<sup>10</sup> Connections between empires, however, could challenge the neat correlation of national and imperial communities, extending and transforming the dynamics of identification for all sectors of colonial society.
 
-Such connections were prevalent in Algeria in this period due to the diverse origins of Europeans living in the French territory and, after 1889, the effects of the French nationality law.<sup>11</sup> By 1906, French citizens of French origin constituted 45% of the European population.<sup>12</sup> The majority of the settler population was composed of Europeans of non-French origin, including Spanish nationals (20%), Italian nationals (5%), Anglo-Maltese nationals (1%), Swiss, German and other national groups (1%) and a large number of Europeans who had been naturalised as French citizens as a result of the 1889 legislation (28%).<sup>13</sup> Although French citizens of French origin enjoyed social and economic privilege in a territory which had been integrated into the French nation since 1848, they remained a minority amongst Europeans in Algeria. Relationships to
-
- journal icon C. A. CHOPIN
-
-the French metropole amongst members of this group, moreover, were becoming increasingly indirect throughout the period as French settlers born on Algerian soil began to outnumber those who had migrated from the other side of the Mediterranean.<sup>14</sup> The cultural identification of many of the French citizens native to Algeria was further nuanced by their birth into mixed households comprising French fathers and Spanish or Italian mothers.<sup>15</sup>
+Such connections were prevalent in Algeria in this period due to the diverse origins of Europeans living in the French territory and, after 1889, the effects of the French nationality law.<sup>11</sup> By 1906, French citizens of French origin constituted 45% of the European population.<sup>12</sup> The majority of the settler population was composed of Europeans of non-French origin, including Spanish nationals (20%), Italian nationals (5%), Anglo-Maltese nationals (1%), Swiss, German and other national groups (1%) and a large number of Europeans who had been naturalised as French citizens as a result of the 1889 legislation (28%).<sup>13</sup> Although French citizens of French origin enjoyed social and economic privilege in a territory which had been integrated into the French nation since 1848, they remained a minority amongst Europeans in Algeria. Relationships to the French metropole amongst members of this group, moreover, were becoming increasingly indirect throughout the period as French settlers born on Algerian soil began to outnumber those who had migrated from the other side of the Mediterranean.<sup>14</sup> The cultural identification of many of the French citizens native to Algeria was further nuanced by their birth into mixed households comprising French fathers and Spanish or Italian mothers.<sup>15</sup>
 
 The diverse origins of Europeans in Algeria were reflected in the expanding field of the mass press. While the conditions of French rule favoured the development of a Francophone press dedicated to defending the social privilege and cultural specificity of French citizens of French origin, many journalists – faced with a mixed European readership of low socioeconomic status – were more malleable in the terms of cultural identification which they encouraged. The recognition and celebration of settlers’ multiple cultural perspectives and political allegiances was most explicit in the small number of Hispanophone, Italophone and multilingual publications in the colonial territory.<sup>16</sup> Yet journalists at Francophone publications also regularly acknowledged the diversity of the settler community, through the occasional use of Spanish or Italian expression, the promotion of certain Spanish or Italian traditions, or reference to settlers’ shared ‘Algerian’ or ‘Latin’ identity. This dimension of the settler press, which conforms neither to a binary historical model of relations between French ‘colonisers’ and Muslim ‘colonised’, nor to the subtending French political model of cultural assimilation, has attracted little interest amongst scholars.<sup>17</sup> Yet many settler journalists were themselves drawn from this mixed population, and did not only cultivate contacts in the French metropole and French empire, but around the Mediterranean and in the territories of the Spanish empire, past and present. As settlers, moreover, journalists maintained a special interest in developments in other settler colonies around the world. These connections and comparisons, instead of producing a ‘French world’ to rival that of the British imperial domain, were interpreted by settler journalists as the framework of a transnational ‘Latin’ community. It was the supposed unity in diversity of this Latin community which journalists presented as a model for settler interaction in Algeria.
 
 Studies of appeals to Latin identity amongst Europeans in Algeria have focused on how settlers of French origin worked alongside metropolitan proponents of colonial expansion to imagine the regeneration of the French nation.<sup>18</sup> By demonstrating the ways in which colonial actors influenced processes of identification in the metropole, these studies have challenged the dominant French historiography of settlement in Algeria, which insists upon the complete ‘francisation’ of the settler community in the decades before the First World War.<sup>19</sup> Alongside recognition of the ways in which settlers contributed to the definition of a French national community, however, it is important to recognise the ways in which settlers used claims to Latin identity as a way of thinking beyond the nation – French or otherwise. More than part of a commercial strategy to attract readership in a diverse market, representations of a Latin settler community in Algeria constituted an evolving cultural response to a geopolitical climate which privileged national unity and national identity. Not only did the mobilisation of Latin unity in diversity constitute a form of cultural resistance against the assimilative projects of the French state, but it reflected a profound ambivalence towards sovereignty. By using their Latin identity to underline, at once, their similarity to and their difference from the French of the Metropole, settlers sought to defend their cultural and administrative autonomy without ultimately renouncing French political authority and the protection it afforded them as a demographic minority.
 
-SETTLER COLONIAL STUDIES Settler Colonial Studies logo 155
 
 Feelings of insecurity ran high amongst settlers in this era. In 1871, Cheikh El Mokrani led an important uprising by Muslims in Constantine and Kabylia.<sup>20</sup> Although the uprising was repressed by the French Army, and severely punished by the General Government, the fear it generated amongst settlers echoed through the press into the early twentieth century, amplified by subsequent isolated incidents, such as the tribal attack on the village of Margueritte in 1901.<sup>21</sup> In the context of these fears, the construction of a Latin community in the settler press served as an attempt at ‘perception transfer’, disavowing the presence of Muslims within colonial society by excluding them as both agents and subjects of colonial news.<sup>22</sup> The increasing definition of the Latin community in terms of race also served as a particular form of ‘transfer by racialisation’, creating an unstable unity amongst settlers to reinforce the social exclusion of the so-called ‘Semitic’ races.<sup>23</sup> These processes of transfer contributed to the marginalisation of Algerian Jews and Muslims within the professional structures of the colonial press. Caricatured and derided by settler journalists, Muslim and Jewish journalists initially participated in Franco-Arabic and Franco-Hebraic publications alongside writers of French origin, promoting respect for metropolitan authority as a safeguard against settler violence.<sup>24</sup> Persistent exclusion by settlers, and disillusionment with metropolitan reactions, as Peter Dunwoodie notes, mobilised the first generation of Algerian Muslim journalists who, from the end of the nineteenth century, fought to ensure that the ‘indigenous question’ received the attention of colonial and metropolitan authorities.<sup>25</sup>
 
 The first section of this article traces the global connections of the settler press in Algeria. Such connections proliferated during these decades as a result of the expanding network of sub-marine cables which enabled the rapid transfer of information around the globe.<sup>26</sup> These advances in telecommunications contributed to what Idir Bouaboud and Louis Pierre Montoy have identified as a major transformation in the character of the settler press in the early years of the twentieth century: the transition from polemicist and factional publications to newspapers dedicated to the standardised dissemination of information<sup>27</sup>. Integration into a global network of information, however, did not prevent settler journalists in Algeria from using the press to imagine a local community or defend its interests. It instead provided new referents and points of comparison for this community. Subsequent sections of the article examine some of the most frequent points of comparison established by the contemporary network of journalistic communications: the political and cultural community of the French Republic, the independent settler society of the United States, and the creole and settler communities of Cuba and the Transvaal who were, at this time, engaged in violent struggles for independence. Although the examples of settler nationalism set by their counterparts elsewhere in the world proved attractive to a mixed Algerian settler population keen to resist the assimilative drive of the ‘one and indivisible’ French Republic, the promotion of a ‘Latin’ community in the press reflected settler journalists’ profound ambivalence to the pursuit of sovereignty.
 
-## Global connections and the development of the settler press
 
-The rapid growth of the settler press in Algeria was initiated by the French legislation of 1881, which established the broad freedom of the press and defined the rights and obligations of publishers.<sup>28</sup> The explosion of press activity in Algeria following this law was not
-
- C. A. CHOPIN
-
-captured in the statistics compiled by contemporary observers in the French metropole, which reflect neither the upsurge in the number of publications, nor the ephemeral nature of many titles, nor the diversification of the field.<sup>29</sup> The relative lack of awareness on the part of metropolitan observers suggests the incomplete nature of French authority in Algeria, despite the colonial regime’s avowed interest in monitoring the public expression of European settlers and Muslim *indigènes* alike.<sup>30</sup> Montoy’s study of the development of the press in the administrative department of Constantine gives a more accurate picture of the growth of the field, indicating the creation of 89 new titles between 1881 and 1889 in Constantine alone, and a further 238 titles between 1889 and 1902.<sup>31</sup> The editor of an Algiers-based publication established in 1909 was no doubt correct when he surmised in the first edition that ‘many people, upon learning of the appearance of *L’Algérie française*, must have said to themselves “Another newspaper? Aren’t there enough already?”’<sup>32</sup>
+The rapid growth of the settler press in Algeria was initiated by the French legislation of 1881, which established the broad freedom of the press and defined the rights and obligations of publishers.<sup>28</sup> The explosion of press activity in Algeria following this law was not captured in the statistics compiled by contemporary observers in the French metropole, which reflect neither the upsurge in the number of publications, nor the ephemeral nature of many titles, nor the diversification of the field.<sup>29</sup> The relative lack of awareness on the part of metropolitan observers suggests the incomplete nature of French authority in Algeria, despite the colonial regime’s avowed interest in monitoring the public expression of European settlers and Muslim *indigènes* alike.<sup>30</sup> Montoy’s study of the development of the press in the administrative department of Constantine gives a more accurate picture of the growth of the field, indicating the creation of 89 new titles between 1881 and 1889 in Constantine alone, and a further 238 titles between 1889 and 1902.<sup>31</sup> The editor of an Algiers-based publication established in 1909 was no doubt correct when he surmised in the first edition that ‘many people, upon learning of the appearance of *L’Algérie française*, must have said to themselves “Another newspaper? Aren’t there enough already?”’<sup>32</sup>
 
 In addition to the Francophone and Franco-Arabic publications examined by Montoy, the era also witnessed the appearance of a number of Hispanophone, Italophone and multilingual titles. Although the 1881 law required editors of newspapers published on French territory to be French nationals, it did not restrict the language of expression or the collaboration of journalists of other nationalities. These conditions allowed both naturalised and non-naturalised Europeans in Algeria to participate in the expanding field of journalistic production. While some of these journalists became involved in French-language publications, during the 1880s and 1890s many concentrated their efforts on the production of newspapers in their native languages, dedicated to the defence of the interests of settlers of Spanish or Italian origin. The differentiation of communities of readers according to language and national origin continued into the late 1930s.<sup>33</sup>
 
@@ -100,19 +29,11 @@ These distinct communities of readers, however, were imagined within a wider set
 
 Despite his impassioned plea against the use of this term, Zavala was unable to prevent journalists at either of his Franco-Spanish publications, *Fraternidad obrera* and *El Patuet*, from employing it.<sup>36</sup>
 
-The interaction of journalists of different origins in the settler press in Algeria created a situation markedly different to that found in many British settler colonies, where, as Simon Potter explains, ‘migrating journalists carried with them their experiences of newspaper work in Britain, and imposed metropolitan models on the colonial press’.<sup>37</sup> In Algeria,
-
-SETTLER COLONIAL STUDIES Settler Colonial Studies logo 157
-
-settlers with previous journalistic experience brought with them a variety of possible models, drawn from the different professional contexts of their ‘diasporic homes’.<sup>38</sup> The imposition of any one coherent journalistic model in Algeria was further complicated by the relative lack of professional infrastructure. Until the early years of the twentieth century the settler press was characterised by local production and distribution.<sup>39</sup> Although a small number of major titles – such as the *Dépêche algérienne*, established in 1884, and the *Echo d’Oran*, established in 1844 – benefited from close ties with large news agencies and commercial organisations,<sup>40</sup> most settler publications which appeared in the 1880s and 1890s were launched with limited means and untrained, if enthusiastic, personnel. Contributors to these papers often had no experience in newspaper work prior to settling in North Africa.
+The interaction of journalists of different origins in the settler press in Algeria created a situation markedly different to that found in many British settler colonies, where, as Simon Potter explains, ‘migrating journalists carried with them their experiences of newspaper work in Britain, and imposed metropolitan models on the colonial press’.<sup>37</sup> In Algeria, settlers with previous journalistic experience brought with them a variety of possible models, drawn from the different professional contexts of their ‘diasporic homes’.<sup>38</sup> The imposition of any one coherent journalistic model in Algeria was further complicated by the relative lack of professional infrastructure. Until the early years of the twentieth century the settler press was characterised by local production and distribution.<sup>39</sup> Although a small number of major titles – such as the *Dépêche algérienne*, established in 1884, and the *Echo d’Oran*, established in 1844 – benefited from close ties with large news agencies and commercial organisations,<sup>40</sup> most settler publications which appeared in the 1880s and 1890s were launched with limited means and untrained, if enthusiastic, personnel. Contributors to these papers often had no experience in newspaper work prior to settling in North Africa.
 
 Many, like Ernest Mallebay, who wrote for a number of publications before launching the long-running *Revue algérienne* in 1888, were drawn into journalism by the experience of settlement itself and a desire to defend the particular interests of a settler community.<sup>41</sup> Mallebay, a history teacher who settled in Blida in 1880, felt compelled to give up the relative security of a job in state education to take up journalism – a profession which, as one contemporary biographer explained, he ‘always viewed as a kind of apostolate’.<sup>42</sup> Like many other journalists contributing to local and regional publications, Mallebay denounced the complexities of the administrative apparatus in the colony, and underlined the precarity of the settlers’ existence. He supplemented this political mission with a cultural quest for ‘a literature that was truly Algerian, and not simply a reflection of that of the metropole’.<sup>43</sup> Mallebay’s memoirs – a nostalgic ode to a form of journalism transformed by the technological and commercial developments of the early twentieth century – reveal a world of informal social connections and improvised production practices. Daniel Nadeau has identified similar conditions of production within the ethnically and culturally diverse settler population of Sherbrooke, Quebec.<sup>44</sup> The contrast with the more organised production models of culturally and linguistically homogenous settler societies suggests the importance of examining the relations between European groups in discerning the wider power dynamics of a given settler colonial situation.<sup>45</sup>
 
-The widespread desire to use journalism in the defence of settler interests generated mixed feelings amongst settler journalists towards French news agencies such as the *Agence Havas*. On the one hand, the overseas expansion of these agencies corresponded well to the international perspectives of local journalists. It was no coincidence that Muston, the director of the *Agence Havas* in Algiers at the end of the nineteenth century, was viewed by journalists such as Mallebay as ‘one of the most influential people in the colony [...] the most renowned perhaps, after the General Governor and Senator Mauguin’.<sup>46</sup> On the other hand, however, French news agencies’ ties to both the French state and a metropolitan journalistic field alternately regarded as indifferent or hostile to the interests of settlers led local journalists to view their activities with suspicion. The ‘loyalty of the information’ provided by such agencies, the *Petit fanal* suggested, was ‘rarely perfect’, and could mislead settler journalists into destructive quarrels instigated by the metropolitan press.<sup>47</sup> It was surely due to the fact that the *Agence Havas* was ‘in vassalage to’ former General Governor Cambon, the paper insisted, that it had failed to disseminate the results of the 1897 elections – ‘an Algerian plebiscite’ revealing a lack of public confidence in the allies of Cambon, and a rejection of the former Governor’s close ties with the metropole.<sup>48</sup> Although these suspicions did not prevent settler
-
-158 icon C. A. CHOPIN
-
-journalists from making increased use of the telegraphic services provided by the *Agence Havas* or, later, the *Agence Africaine*, they did lead them to establish alternative informal contacts overseas and rely on their own interpretation of news published outside of the settler colony.
+The widespread desire to use journalism in the defence of settler interests generated mixed feelings amongst settler journalists towards French news agencies such as the *Agence Havas*. On the one hand, the overseas expansion of these agencies corresponded well to the international perspectives of local journalists. It was no coincidence that Muston, the director of the *Agence Havas* in Algiers at the end of the nineteenth century, was viewed by journalists such as Mallebay as ‘one of the most influential people in the colony [...] the most renowned perhaps, after the General Governor and Senator Mauguin’.<sup>46</sup> On the other hand, however, French news agencies’ ties to both the French state and a metropolitan journalistic field alternately regarded as indifferent or hostile to the interests of settlers led local journalists to view their activities with suspicion. The ‘loyalty of the information’ provided by such agencies, the *Petit fanal* suggested, was ‘rarely perfect’, and could mislead settler journalists into destructive quarrels instigated by the metropolitan press.<sup>47</sup> It was surely due to the fact that the *Agence Havas* was ‘in vassalage to’ former General Governor Cambon, the paper insisted, that it had failed to disseminate the results of the 1897 elections – ‘an Algerian plebiscite’ revealing a lack of public confidence in the allies of Cambon, and a rejection of the former Governor’s close ties with the metropole.<sup>48</sup> Although these suspicions did not prevent settler journalists from making increased use of the telegraphic services provided by the *Agence Havas* or, later, the *Agence Africaine*, they did lead them to establish alternative informal contacts overseas and rely on their own interpretation of news published outside of the settler colony.
 
 In addition to these local factors, the failure of the French government in this era to create an independent network of submarine cables worked against the creation of a French ‘imperial press system’ equivalent to that which connected the colonies of the British Empire.<sup>49</sup> While circuits of information in the settler press in Algeria were transformed by the increasing availability of telegraphic technology they were not aligned with French imperial space or tied to the interests of a single national group within the settler population. They were instead shaped by the mixed origins of settlers and the desire of Europeans in Algeria to compare their conditions with those experienced by their counterparts in other settler colonies.
 
@@ -120,59 +41,27 @@ Figure 1 shows some of the principal networks of information transfer within whi
 
 The overwhelming majority of externally sourced news came from the French metropole, Spain or Italy, replicating the migratory trajectories of settlers themselves. The prevalence of news from these countries reflects both the demands of settler readers, and the relative ease of obtaining information from destinations which enjoyed direct telegraphic connections or transport links with Algeria. Settler publications could be more or less selective in their treatment of French, Spanish and Italian national news, depending on their target readership. If some papers, such as the aptly titled *Trait d’union* (Hyphen), awaited the arrival of postal steamers from France in order to focus on the dissemination of extracts from the major French dailies, others, such as the equally well-named *Union*
 
-World map showing global connections of the settler press in Algeria with lines radiating from Algeria to various locations in Europe, the Americas, and Africa.
-
-Figure 1. Global connections of the settler press in Algeria.
-
-SETTLER COLONIAL STUDIES Settler Colonial Studies logo 159
-
-*latine* (Latin Union), informed their readers of the latest decisions of the French parliament alongside accounts of the earthquakes in Calabria and the expansion of the railways in Spain.<sup>52</sup> By the late 1890s, the *Depêche algérienne* – the best-selling Francophone title in the territory at that time<sup>53</sup> – regularly included sections devoted to Italian and Spanish news in addition to more general coverage of international affairs.<sup>54</sup> While the emergence of a press focused primarily on the dissemination of information did not eliminate publications which favoured a selective, national treatment of news from France, Spain or Italy, it multiplied the trans-Mediterranean connections of many newspapers and exposed the wider community of settler readers to a range of perspectives.
+World map showing global connections of the settler press in Algeria with lines radiating from Algeria to various locations in Europe, the Americas, and Africa. *latine* (Latin Union), informed their readers of the latest decisions of the French parliament alongside accounts of the earthquakes in Calabria and the expansion of the railways in Spain.<sup>52</sup> By the late 1890s, the *Depêche algérienne* – the best-selling Francophone title in the territory at that time<sup>53</sup> – regularly included sections devoted to Italian and Spanish news in addition to more general coverage of international affairs.<sup>54</sup> While the emergence of a press focused primarily on the dissemination of information did not eliminate publications which favoured a selective, national treatment of news from France, Spain or Italy, it multiplied the trans-Mediterranean connections of many newspapers and exposed the wider community of settler readers to a range of perspectives.
 
 This range of perspectives was further broadened by the frequent reproduction or summary of news from the neighbouring territories of Tunisia and Morocco. Following the establishment of the French protectorate in Tunisia in 1881, a number of editors of Francophone and Italophone newspapers in Algeria set preferential rates for French and Italian subscribers residing on the other side of the eastern border. Some papers, including the *Revue algérienne et tunisienne* and the *Lega franco-italiana*, also hired correspondents from amongst the Tunisian settler population.<sup>55</sup> News also flowed into Algeria from French and Spanish settlements in Morocco, both before and after Franco-Spanish military intervention supported the creation of protectorate governments in the territory.<sup>56</sup> These connections simultaneously reinforced French, Spanish and Italian national communities across North Africa, and created the conditions for the mutual recognition of these distinct communities at a local level. Hence, although newspapers in Algeria echoed French national anxieties surrounding the numbers of Italians in Tunisia, or Spanish national anxieties concerning French influence in Morocco, they also sought to avoid conflict between groups of settlers by referring to their shared ‘Latin’ interests.<sup>57</sup> ‘The common enterprise of civilisation in North Africa’, Franco-Spanish publication *Africa* insisted, ‘will become the most glorious achievement of France and her Latin sisters, Spain and Italy’.<sup>58</sup> Spanish-language newspapers in particular extended the ‘Latin’ connections of the local press by diffusing news from the former and remaining colonies of the Spanish empire in Central and South America, and in the Caribbean. These regular connections were supplemented in settler publications in Algeria by more irregular news of scientific discoveries, diplomatic crises and military conflicts around the world.
 
-Although some newspapers’ horizons were broader than others, they found common ground in the systematic publication of Algerian colonial news alongside information from elsewhere in the world. The rubric ‘Algerian Questions’ was common to many Francophone, Hispanophone, Italophone and multilingual publications, reflecting a widespread recognition of a local community which united the disparate national groups which composed the settler population. In many newspapers, external news was selected to correspond to the particular interests of ‘Algerian’ readers. Even the *Trait d’union*, for all its dedication to the much-anticipated missives from the French metropole, only reproduced extracts from metropolitan titles ‘when the subject under discussion is of particular or general interest to Algeria’.<sup>59</sup> Whether this ‘Algerian’ community was based solely on the diverse migrant groups’ mutual recognition of a common Muslim enemy or also reflected their shared tastes and sensibilities, remained a matter of debate amongst journalists. Although few papers were as explicit as the *Union latine* in insisting upon compatible tastes and mentalities as the basis of distinctive ‘neo-Latin race’ in the colony, many
+Although some newspapers’ horizons were broader than others, they found common ground in the systematic publication of Algerian colonial news alongside information from elsewhere in the world. The rubric ‘Algerian Questions’ was common to many Francophone, Hispanophone, Italophone and multilingual publications, reflecting a widespread recognition of a local community which united the disparate national groups which composed the settler population. In many newspapers, external news was selected to correspond to the particular interests of ‘Algerian’ readers. Even the *Trait d’union*, for all its dedication to the much-anticipated missives from the French metropole, only reproduced extracts from metropolitan titles ‘when the subject under discussion is of particular or general interest to Algeria’.<sup>59</sup> Whether this ‘Algerian’ community was based solely on the diverse migrant groups’ mutual recognition of a common Muslim enemy or also reflected their shared tastes and sensibilities, remained a matter of debate amongst journalists. Although few papers were as explicit as the *Union latine* in insisting upon compatible tastes and mentalities as the basis of distinctive ‘neo-Latin race’ in the colony, many acknowledged the existence of an ‘Algerian’ community based on shared experiences, fears and aspirations.<sup>60</sup> Frequent journalistic references to a common struggle to render the land productive, to overcome the dangers of the North African environment and its inhabitants, formed the basis of an enduring pioneer myth. Such experiences, journalists habitually claimed, had shaped settler sensibilities, meaning that there was a difference between ‘understanding Algeria’, and ‘feeling Algeria’.<sup>61</sup> Metropolitan claims that Algeria was simply ‘an extension of French territory’ were thus routinely dismissed by settler journalists, who recognised ‘Algerian’ cultural specificity even when they supported French cultural influence.<sup>62</sup>
 
-160 icon C. A. CHOPIN
+The expansion of the circuits of information in which the settler press was integrated, therefore, was accompanied by a renewed focus on local specificity. Indeed, according to the journalist Ernest Mallebay it was the continued attention to ‘Algerian’ issues which later allowed a press based on the dissemination of international news to flourish. ‘People would read those papers,’ Mallebay reminisced, referring to the Algiers-based titles which first experimented with a new, informative, style of journalism, > not for their meagre information transmitted down a telegraph cable at a cost of three centimes per word, occupying barely half a column, but for the articles of [local journalists] Allan, Marchal, Arthur de Fonvielle, Narcisse Faucon, Tillier, Vaille Marial, Marteau [ ... ] As those newspapers spoke so much of Algeria and so little of the metropole, we felt as if France was far – very far – away.<sup>63</sup>
 
-acknowledged the existence of an ‘Algerian’ community based on shared experiences, fears and aspirations.<sup>60</sup> Frequent journalistic references to a common struggle to render the land productive, to overcome the dangers of the North African environment and its inhabitants, formed the basis of an enduring pioneer myth. Such experiences, journalists habitually claimed, had shaped settler sensibilities, meaning that there was a difference between ‘understanding Algeria’, and ‘feeling Algeria’.<sup>61</sup> Metropolitan claims that Algeria was simply ‘an extension of French territory’ were thus routinely dismissed by settler journalists, who recognised ‘Algerian’ cultural specificity even when they supported French cultural influence.<sup>62</sup>
+As the space afforded to international news grew, local news and opinions were not effaced – rather the simultaneous appearance of these perspectives in the press produced an imagined community of settlers whose internal diversity was marked and not masked. The unity in diversity of this community, however, was not easy to maintain in the contemporary political context. If unity amongst settlers of different backgrounds was threatened by tensions in Franco-Spanish and Franco-Italian relations, diversity of settler cultural practice was under pressure from the assimilative apparatus of the French state. Assimilation was not only an ideological principle of a republican regime which declared itself to be ‘one and indivisible’, it was also a policy specifically directed towards settlers in Algeria by this regime, whose representatives feared that the settler ‘mentality’ was ‘strange’ and ‘not very French’.<sup>64</sup> Such fears, which had persisted since the collective naturalisation of 1889, were heightened at the end of the 1890s when the growth of ‘Anti-Jewish’<sup>65</sup> sentiment amongst settlers precipitated levels of popular violence which far surpassed those seen in the metropole, even at the height of the Dreyfus Affair, and provoked a small but militant separatist movement.<sup>66</sup> As French political commentators discussed how best to transform settlers into Frenchmen – including proposals to transfer French citizens from Algeria to the metropole for higher education or military service – settler journalists mobilised their global perspectives to reflect on their relationship with the French Republic. At once attracted by the protection offered by French authority, and frustrated by their administrative ties with the metropole, journalists expressed a clear sense of ambivalence.
 
-The expansion of the circuits of information in which the settler press was integrated, therefore, was accompanied by a renewed focus on local specificity. Indeed, according to the journalist Ernest Mallebay it was the continued attention to ‘Algerian’ issues which later allowed a press based on the dissemination of international news to flourish. ‘People would read those papers,’ Mallebay reminisced, referring to the Algiers-based titles which first experimented with a new, informative, style of journalism,
-
-> not for their meagre information transmitted down a telegraph cable at a cost of three centimes per word, occupying barely half a column, but for the articles of [local journalists] Allan, Marchal, Arthur de Fonvielle, Narcisse Faucon, Tillier, Vaille Marial, Marteau [ ... ] As those newspapers spoke so much of Algeria and so little of the metropole, we felt as if France was far – very far – away.<sup>63</sup>
-
-As the space afforded to international news grew, local news and opinions were not effaced – rather the simultaneous appearance of these perspectives in the press produced an imagined community of settlers whose internal diversity was marked and not masked.
-
-## Republicanism beyond the ‘one and indivisible’ French Republic
-
-The unity in diversity of this community, however, was not easy to maintain in the contemporary political context. If unity amongst settlers of different backgrounds was threatened by tensions in Franco-Spanish and Franco-Italian relations, diversity of settler cultural practice was under pressure from the assimilative apparatus of the French state. Assimilation was not only an ideological principle of a republican regime which declared itself to be ‘one and indivisible’, it was also a policy specifically directed towards settlers in Algeria by this regime, whose representatives feared that the settler ‘mentality’ was ‘strange’ and ‘not very French’.<sup>64</sup> Such fears, which had persisted since the collective naturalisation of 1889, were heightened at the end of the 1890s when the growth of ‘Anti-Jewish’<sup>65</sup> sentiment amongst settlers precipitated levels of popular violence which far surpassed those seen in the metropole, even at the height of the Dreyfus Affair, and provoked a small but militant separatist movement.<sup>66</sup> As French political commentators discussed how best to transform settlers into Frenchmen – including proposals to transfer French citizens from Algeria to the metropole for higher education or military service – settler journalists mobilised their global perspectives to reflect on their relationship with the French Republic. At once attracted by the protection offered by French authority, and frustrated by their administrative ties with the metropole, journalists expressed a clear sense of ambivalence.
-
-The advent of the French Third Republic in 1870 had precipitated a transfer of authority in Algeria from military to civil structures. Many settlers welcomed this transition, believing
-
-SETTLER COLONIAL STUDIES 
-
-that it signalled the beginning of sustained economic development and growth in the colonial territory.<sup>67</sup> As journalists at *France algérienne* explained in 1871, in the wake of the revolutionary Algiers Commune, ‘the colony can only be saved and regenerated by a totally different form of organisation – or rather disorganisation – than the one which has prevented growth up to this point’.<sup>68</sup> ‘The Republic, and only the Republic’, they insisted, could safeguard the future of the settler colony.<sup>69</sup> Enthusiasm for the new regime was not only confined to settlers with French citizenship, who acquired greater political representation and access to land requisitioned from the Muslim population, but was also expressed by many settlers of Spanish origin who hoped that the victory of the Republic in France would precipitate a similar victory in the peninsula. A shared belief in the regenerative power of republicanism helped bring settlers of French and Spanish origin together within an imagined Latin community that superseded national boundaries. ‘Long live the French Republic and long live the Latin Republic!’ proclaimed Zavala in *El patuet*, intimating that the former was but one iteration of the latter.<sup>70</sup>
+The advent of the French Third Republic in 1870 had precipitated a transfer of authority in Algeria from military to civil structures. Many settlers welcomed this transition, believing that it signalled the beginning of sustained economic development and growth in the colonial territory.<sup>67</sup> As journalists at *France algérienne* explained in 1871, in the wake of the revolutionary Algiers Commune, ‘the colony can only be saved and regenerated by a totally different form of organisation – or rather disorganisation – than the one which has prevented growth up to this point’.<sup>68</sup> ‘The Republic, and only the Republic’, they insisted, could safeguard the future of the settler colony.<sup>69</sup> Enthusiasm for the new regime was not only confined to settlers with French citizenship, who acquired greater political representation and access to land requisitioned from the Muslim population, but was also expressed by many settlers of Spanish origin who hoped that the victory of the Republic in France would precipitate a similar victory in the peninsula. A shared belief in the regenerative power of republicanism helped bring settlers of French and Spanish origin together within an imagined Latin community that superseded national boundaries. ‘Long live the French Republic and long live the Latin Republic!’ proclaimed Zavala in *El patuet*, intimating that the former was but one iteration of the latter.<sup>70</sup>
 
 Settlers’ appreciation of the French Republic, however, was tempered in the 1880s and 1890s by their frustration with the inefficiency of the colonial administration and their sense of neglect at the hands of a privileged and distant metropolitan authority.<sup>71</sup> In these conditions, a more general enthusiasm for republicanism – and revolution – threatened to outweigh any commitment to the particular republican regime in place. References to the French Revolution, as Jan Jansen demonstrates in his examination of celebrations of Bastille Day in Algeria, could be mobilised by different groups of settlers in strategic ways to express different relationships with the French nation.<sup>72</sup> In the settler press of the 1880s and 1890s, references to the Revolution of 1789 no longer served as straightforward affirmations of French sovereignty, but as calls to arms for settlers eager to seize control of their own fate. According to French settler journalist, E. Niçaise, writing amidst the political disorder of the late 1890s, ‘the administration is a new Bastille against which an assault must be launched’.<sup>73</sup> The excessively centralised system, a journalist at *Algérie* agreed, meant that ‘today, under a republic, France has the same administrative machinery as at the time of the monarchy’.<sup>74</sup> This system, already deleterious in the metropole, was even more harmful in the colony where, journalists argued, it was fundamentally unsuited to the needs and character of the ‘Algerian’ people. ‘It is even worse in Algeria’, explained E. Niçaise, ‘as our old legislation ... is ill-suited to the needs of a new land and the needs of a people who came to this colony seeking a form of liberty which is incompatible with our outdated procedures’.<sup>75</sup> As a politically mature people, journalists insisted, settlers should be entrusted with their own decisions. ‘Arrived at adulthood’, affirmed another journalist, ‘Algeria would like to be freed from her reins, which – instead of helping her walk – today hold her back and force her to march on the spot.’<sup>76</sup>
 
-For all their references to revolution, however, settler journalists rarely advocated the rebellion of settlers against French authority.<sup>77</sup> Indeed, even the most radical publications – such as the Jacobin newspapers *Le Sans-culotte* and *Le Bonnet phrygien* – explicitly sought to reinforce French authority by regenerating the nation from the colonial periphery.<sup>78</sup> The question remained, however, of how to organise the relationship between colony and metropole in a way that accounted for the specificity of the settler community. In order to answer such questions about the social composition and political development
-
-162 icon C. A. CHOPIN
-
-of their community, journalists reflected on the news brought to them from other settler colonies around the world.
+For all their references to revolution, however, settler journalists rarely advocated the rebellion of settlers against French authority.<sup>77</sup> Indeed, even the most radical publications – such as the Jacobin newspapers *Le Sans-culotte* and *Le Bonnet phrygien* – explicitly sought to reinforce French authority by regenerating the nation from the colonial periphery.<sup>78</sup> The question remained, however, of how to organise the relationship between colony and metropole in a way that accounted for the specificity of the settler community. In order to answer such questions about the social composition and political development of their community, journalists reflected on the news brought to them from other settler colonies around the world.
 
 The imagination of settler journalists in Algeria was especially captured by the USA, which was widely considered to have set the standard for what could be achieved by a settler society of mixed origin. Journalists regularly reported on the economic, technological and scientific progress of the USA, and attributed this success to the ‘particular qualities of the American citizen, who raises himself up through his energy, his virtues and his labour, becoming *somebody* and *something* after enduring many years of struggle without faltering or becoming discouraged’.<sup>79</sup> These qualities, *France africaine* suggested, were to be emulated by those who sought to lead settlers in Algeria to a brighter future.<sup>80</sup> Although politicians in Europe might try to explain away American progress by referring to the many resources of the ‘virgin lands’ of North America, *Fraternidad obrera* noted, this was only because ‘their pride would not allow them to admit that this young people owes so much to the institutions that they [Europeans] had never imagined and are incapable of understanding’.<sup>81</sup> Acutely aware, and proud, of their own status as a ‘young people’, settlers in Algeria pondered the applicability of such institutions to their own society.
 
-In particular, the American experience provided one possible model for managing the interaction of settlers of diverse national origins, and journalists in Algeria readily referred to this model in their debates surrounding the naturalisation of Europeans in the colony. A number of journalists pointed to the positive effect that the legal equality of diverse migrant groups had produced in the USA.<sup>82</sup> In emulating this policy and creating new French citizens in Algeria, some journalists suggested, the French nation would similarly gain in strength and prosperity.<sup>83</sup> For others, however, an accurate application of the American model required first creating an independent Algerian nation, and then welcoming migrants as ‘Algerian’ citizens.<sup>84</sup> Although most journalists rejected this course of action in the present, the common belief that the ‘Algerian’ people was progressing towards cultural specificity and political maturity allowed some to envisage this as a possibility in the future. The settler community’s arrival at political maturity was expressed in the Francophone daily *Algérie* in an imagined conversation between ‘France’, the imperial mother, and her children, ‘The Algerians’.<sup>85</sup> Despite their efforts to pacify the anxious mother-country, ‘The Algerians’, multiple yet united, could not deny the attractive precedent set by the USA:
-
-> France. – Ungrateful children! [ ... ] You dream of treating me in the same way as the USA once treated their mother, England [ ... ]
-
-> The Algerians. – Far from it. We have our affection, a strong bond which will always link us to you. But *if* we wanted to renounce you as our mother – which would never happen – wouldn’t we have the right? Is not a state, according to modern ideas, formed of the voluntary union of citizens?<sup>86</sup>
+In particular, the American experience provided one possible model for managing the interaction of settlers of diverse national origins, and journalists in Algeria readily referred to this model in their debates surrounding the naturalisation of Europeans in the colony. A number of journalists pointed to the positive effect that the legal equality of diverse migrant groups had produced in the USA.<sup>82</sup> In emulating this policy and creating new French citizens in Algeria, some journalists suggested, the French nation would similarly gain in strength and prosperity.<sup>83</sup> For others, however, an accurate application of the American model required first creating an independent Algerian nation, and then welcoming migrants as ‘Algerian’ citizens.<sup>84</sup> Although most journalists rejected this course of action in the present, the common belief that the ‘Algerian’ people was progressing towards cultural specificity and political maturity allowed some to envisage this as a possibility in the future. The settler community’s arrival at political maturity was expressed in the Francophone daily *Algérie* in an imagined conversation between ‘France’, the imperial mother, and her children, ‘The Algerians’.<sup>85</sup> Despite their efforts to pacify the anxious mother-country, ‘The Algerians’, multiple yet united, could not deny the attractive precedent set by the USA: > France. – Ungrateful children! [ ... ] You dream of treating me in the same way as the USA once treated their mother, England [ ... ] > The Algerians. – Far from it. We have our affection, a strong bond which will always link us to you. But *if* we wanted to renounce you as our mother – which would never happen – wouldn’t we have the right? Is not a state, according to modern ideas, formed of the voluntary union of citizens?<sup>86</sup>
 
 Other journalists were less guarded in their warnings to the French state. One dissatisfied writer at *France africaine* simply declared, ‘if there is a general feeling of hostility to the metropolitan government, then the Algerian provinces will rebel and a new, robust and young republic will be born under the name of the United States of Africa’.<sup>87</sup> Such warnings presaged those given by settlers almost 60 years later, on the eve of a very different form of Algerian independence, as settlers once again threatened rebellion in their efforts to persuade the French government to accede to their demands.<sup>88</sup>
-
-SETTLER COLONIAL STUDIES Settler Colonial Studies logo 163
-
-# Reactions to settler rebellion in Cuba and the Transvaal
 
 If the USA provided an historic model of settler rebellion, the expanding communications networks of the late nineteenth century brought news of more contemporary examples. Journalists and readers in Algeria avidly followed the growing unrest in Cuba in the 1880s and 1890s, and the conflict in the Transvaal at the turn of the century. The impact of these events on local debates about social and political development was noted by former Governor-General, Cambon, in his memoirs of his period in office.<sup>89</sup> While Cambon, as a representative of French authority, sought to learn from these events in order to strengthen French rule in Algeria, journalists of the colonial press reflected on the inherent lessons in settler uprising and political independence. Settler journalists showed widespread support for their contemporaries in the Transvaal, but their attitudes towards the Cuban insurgency were more cautious. The comparison of press reactions to these two examples of settler rebellion reveals the imagination of a transnational Latin community by local journalists, and their attempts to situate ‘Algerians’ at the heart of this internally differentiated community.
 
@@ -180,392 +69,37 @@ The South African War of 1899–1902, as historians have demonstrated, attracted
 
 The high public demand for news of the war enhanced the status of journalists, whose access to information transformed them into experts and public advisors. Following the alliance of the governments of the Transvaal and the Orange Free State in February 1900, a public lecture on the war, given by Viator of the *Dépêche algérienne*, was attended, the paper claimed, by more than a thousand listeners, 200 of whom were obliged to stand at the back of the Algiers Velodrome for want of seating.<sup>92</sup> The audience, boasted the paper, was ‘the most select, including several well-known personalities of Algiers, many ladies and a great number of officers’.<sup>93</sup> The opinion expressed by Viator at this lecture aligned with that regularly expounded by the metropolitan journalists whose views on the war were reproduced in the *Dépêche algérienne*: support for the Boers and opposition to the ‘greedy Englishman’.<sup>94</sup>
 
-Anti-British sentiment had been a standard refrain of French journalists since the Anglo-French stand-off at Fashoda in 1898. This sentiment was fuelled by news of atrocities in the Transvaal, which journalists in France mobilised to defend their own ideal of beneficent imperialism in opposition to the violence and egotism of their imperial rivals. While the
-
-164 C. A. CHOPIN logo C. A. CHOPIN
-
-*Petit Journal* of 28 January 1900 dedicated its front-page illustration to a celebration of the French occupation of In Salah – depicting Muslim soliders rallying to the French flag – the back page illustration showed the death and destruction caused by the British imperial conflict in the Transvaal.<sup>95</sup> The Boers, the newspaper’s editorial confirmed, ‘are the object of the heartfelt admiration of all humanity, whilst the indignation of the civilised universe against odious and extravagant British jingoism increases evermore day by day’.<sup>96</sup> The idea that the British Empire could be shaken by a small and poorly equipped colonial population appealed to French journalists in the metropole, as it did to the more privileged sectors of settler society in Algeria, who often identified with metropolitan opinion. Viator’s comments in January 1900 barely concealed his excitement at the successive defeats suffered by the British in the preceding month: ‘A humble people, too few in number to populate a city, has broken the legs of the colossus and the colossus is left staggering. England no longer has an army, England no longer has any gold.’<sup>97</sup>
+Anti-British sentiment had been a standard refrain of French journalists since the Anglo-French stand-off at Fashoda in 1898. This sentiment was fuelled by news of atrocities in the Transvaal, which journalists in France mobilised to defend their own ideal of beneficent imperialism in opposition to the violence and egotism of their imperial rivals. While the *Petit Journal* of 28 January 1900 dedicated its front-page illustration to a celebration of the French occupation of In Salah – depicting Muslim soliders rallying to the French flag – the back page illustration showed the death and destruction caused by the British imperial conflict in the Transvaal.<sup>95</sup> The Boers, the newspaper’s editorial confirmed, ‘are the object of the heartfelt admiration of all humanity, whilst the indignation of the civilised universe against odious and extravagant British jingoism increases evermore day by day’.<sup>96</sup> The idea that the British Empire could be shaken by a small and poorly equipped colonial population appealed to French journalists in the metropole, as it did to the more privileged sectors of settler society in Algeria, who often identified with metropolitan opinion. Viator’s comments in January 1900 barely concealed his excitement at the successive defeats suffered by the British in the preceding month: ‘A humble people, too few in number to populate a city, has broken the legs of the colossus and the colossus is left staggering. England no longer has an army, England no longer has any gold.’<sup>97</sup>
 
 Like a number of right-wing militants from the French metropole, some settlers in Algeria saw the conflict in the Transvaal as an opportunity to capitalise on British failures, and regenerate a French nation rendered weak by ineffectual republicanism. The missives of Action Française founder and volunteer in the Boer army Colonel Villebois-Mareuil were reprinted and commented upon in the settler press, inciting young men to engage in combat alongside the Boers.<sup>98</sup> The presentation of these letters foregrounded the strength and resolution of frontier masculinity: ‘The Boers are soldiers of an extraordinary temperament’, insisted one extract of correspondence in the *Dépêche algérienne*, ‘men from one hundred years in the past, fighting with modern weaponry’.<sup>99</sup> The struggle of the Boers also garnered the support of republicans in both metropole and colonial territory, who depicted the Boers as defenders of liberty against tyranny. As the *Bulletin municipal officiel* reported in December 1899, ‘the municipal council of Algiers expresses it greatest sympathy for the republicans in the Transvaal and the Orange Free State, who, in this time of cowardice and platitude, are fighting so heroically for their independence and their freedom’.<sup>100</sup>
 
 While many Europeans in Algeria shared the various motivations of the metropolitan French to support the Boers, they also had had reasons of their own, based on their identification with a fellow settler community. Hence even Viator, who ultimately sought to use the example of the conflict in the Transvaal to bind settlers in Algeria closer to the French nation, could not complete his public lecture without evoking for his listeners, ‘the tribulations which the first Dutch and French settlers were forced to endure’.<sup>101</sup> According to many settler journalists, these tribulations – which commonly included the experiences of migration, working the land, fighting against disease and indigenous enemies – had laid the foundations for the qualities of honesty, perseverance and simplicity which formed the basis of the ‘Algerian’ character. These distinctive qualities, E. Cat of *Algérie* explained, were also the result of, ‘living in a new country where everything is yet to be created, everything yet to be imagined, and being in contact with diverse races’.<sup>102</sup>
 
-Settler journalists in Algeria recognised themselves in the Boer people, and empathised with their plight. As leader of the South African Republic, President Paul Kruger was particularly admired for being ‘exactly the type of hero of the land and of independence which seemed to have disappeared from the [European] race’.<sup>103</sup> ‘In this age of corruption and spinelessness,’ continued the *Croix de l’Algérie et de la Tunisie*, ‘he shows us what can be achieved with simple values and an energetic character. Never is man better able to
-
-SETTLER COLONIAL STUDIES Settler Colonial Studies logo 165
-
-defend his home than when he is not encumbered by the mollifying luxury of excessive civilisation’.<sup>104</sup> The difference in character between settlers and the residents of Europe, journalists in Algeria argued, was made all the more evident by the failure of any European government to take decisive action in support of the Boers.<sup>105</sup> The ‘Algerian’ people, by contrast, would prove more hospitable: the *Petit fanal* reported with approval that the new Governor-General, Jonnart, had requested that land be made available, ‘to encourage the immigration of the Boers, should they be defeated by the English’.<sup>106</sup>
+Settler journalists in Algeria recognised themselves in the Boer people, and empathised with their plight. As leader of the South African Republic, President Paul Kruger was particularly admired for being ‘exactly the type of hero of the land and of independence which seemed to have disappeared from the [European] race’.<sup>103</sup> ‘In this age of corruption and spinelessness,’ continued the *Croix de l’Algérie et de la Tunisie*, ‘he shows us what can be achieved with simple values and an energetic character. Never is man better able to defend his home than when he is not encumbered by the mollifying luxury of excessive civilisation’.<sup>104</sup> The difference in character between settlers and the residents of Europe, journalists in Algeria argued, was made all the more evident by the failure of any European government to take decisive action in support of the Boers.<sup>105</sup> The ‘Algerian’ people, by contrast, would prove more hospitable: the *Petit fanal* reported with approval that the new Governor-General, Jonnart, had requested that land be made available, ‘to encourage the immigration of the Boers, should they be defeated by the English’.<sup>106</sup>
 
 Support for the Boers, as settlers engaged in a struggle against an oppressive imperial power, inspired some Europeans in Algeria to promote the independence of their own settler community. For Anti-Jewish militants in Algeria, who felt that colonial growth had been stunted by the actions of a weak French government corrupted by Jewish influence, the Boers had provided an example to be followed. Having been accused by a fellow journalist of espousing the same politics as the Boers, the Anti-Jewish writers of autonomist publication *Le Républicain* revelled in the comparison: ‘the likeness is striking’, they confirmed.<sup>107</sup> As for their ‘Jewified’ French political opponents, these journalists declared with disdain, ‘they quite deserve the title of Englishmen’.<sup>108</sup> Max Régis himself, foremost Anti-Jewish publicist and proponent of ‘Algerian’ settler independence, expressed his intention to join the Boer struggle, hoping, perhaps, to gain insight on how to achieve his political objectives in Algeria.<sup>109</sup> The tendency of the separatists to use the experience of the Boers as a template was later denounced by some of their fellow militants, like Augustin Castéran, who came to believe that the ‘foreign danger’ posed by settlers of non-French origin was greater than the ‘Jewish danger’ – or even the ‘Arab danger’ – in Algeria, and rallied to support French authority.<sup>110</sup>
 
 Other journalists, however, drew different conclusions from the South African War and the public interest it had solicited amongst settlers in Algeria. The horrors of the conflict, Jules Aime of the *Union latine* suggested, served not as an incitement to nationalism, but as a clear warning against it.<sup>111</sup> While he readily joined his colleagues in condemning the inaction of ‘civilised and civilising nations who have impassively allowed the massacre of these unhappy settlers’, he could not agree that his readers’ best interests would be served by emulating such egotism.<sup>112</sup> Instead, Aime exhorted, settlers should become ‘men who know how to reach out across borders, because fraternity cannot be contained by mountains and rivers’.<sup>113</sup> It was the fraternity of ‘Latin’ peoples, in particular, Aime suggested, which would not only ensure prosperity at a local level, but safeguard against ‘Germano-Saxon’ aggression in Europe, and lay a strong foundation for ‘universal peace’.<sup>114</sup> Rather than pursue a violent struggle for independence from France, settlers were encouraged to see themselves as part of a wider Latin community of which the French nation was already a part.
 
-This emphasis on Latin fraternity had been similarly reinforced by local press reactions to the ongoing struggle between the Spanish government and independence fighters in Cuba in the 1880s and 1890s. The conflict was covered in detail in a number of Francophone, Hispanophone and bilingual publications. Coverage was based on the retransmission of news featured in overseas publications, and the additional commentary or analysis of local settler journalists. As the conflict assumed increasingly international dimensions in the 1890s, with the diplomatic and then military involvement of the USA, the circuits of information which sustained local reporting similarly expanded. Whereas, during the early 1880s, small bilingual newspapers such as *El patuet* and *Fraternidad obrera* had
-
- Baloise Insurance logo C. A. CHOPIN
-
-primarily relied on the information of colleagues in Spain and Cuba<sup>115</sup>, by the late 1890s, more widely circulating papers such as *El correo español* and *La Dépêche algérienne* were also referring to the publications and opinions of fellow journalists in France, Italy, Austria and the USA.<sup>116</sup>
+This emphasis on Latin fraternity had been similarly reinforced by local press reactions to the ongoing struggle between the Spanish government and independence fighters in Cuba in the 1880s and 1890s. The conflict was covered in detail in a number of Francophone, Hispanophone and bilingual publications. Coverage was based on the retransmission of news featured in overseas publications, and the additional commentary or analysis of local settler journalists. As the conflict assumed increasingly international dimensions in the 1890s, with the diplomatic and then military involvement of the USA, the circuits of information which sustained local reporting similarly expanded. Whereas, during the early 1880s, small bilingual newspapers such as *El patuet* and *Fraternidad obrera* had primarily relied on the information of colleagues in Spain and Cuba<sup>115</sup>, by the late 1890s, more widely circulating papers such as *El correo español* and *La Dépêche algérienne* were also referring to the publications and opinions of fellow journalists in France, Italy, Austria and the USA.<sup>116</sup>
 
 Despite the extensive coverage of the events in Cuba, the insurgency of the mixed Cuban population failed to garner the same level of popular support in Algeria as the struggle of the Boers. Although some journalists of Spanish origin expressed admiration for the Cuban rebels, based on their shared republicanism, most opposed the rebellion as a threat to Spanish national strength. Hence, while journalists at *El mosquito español* declared their support for ‘the aspirations of the Cuban leader and ardent republican, Don Jose Maceo’<sup>117</sup>, their colleagues at another republican newspaper, *El patuet*, denounced the conflict as a ‘political cancer’ which depleted Spanish resources.<sup>118</sup> This latter interpretation was shared by journalists at the more conservative Hispanophone paper, *El correo español*, who encouraged Spanish nationals to enlist through the Spanish consulate in Algeria, following the official outbreak of war in 1895.<sup>119</sup> The widespread opposition to the Cuban rebellion expressed by journalists of Spanish origin in Algeria echoed that of their colleagues in the peninsula where, as Christopher Schmidt-Nowara explains, the common defence of the empire encouraged Spaniards to overcome the fractures and tensions of domestic politics.<sup>120</sup>
 
 The Cuban rebellion, as some Francophone journalists in Algeria pointed out, also ran counter to the interests of the French nation. Not only did French authority over its possessions in the Caribbean depend on stability in the region, insisted French journalist A. Bloeme in the Franco-Spanish newspaper *Fraternidad obrera*, but French security in Europe depended on promoting good relations with their Spanish neighbours.<sup>121</sup> This opinion was reiterated in the extracts of the French metropolitan papers which were widely diffused in *El correo español* and *La Dépêche algérienne*.<sup>122</sup> *El correo español* was particularly pleased to relay an article entitled ‘Viva España!’ from the Parisian daily, *Le Gaulois*, which attempted to dissuade French journalists from showing support for the Cuban insurgents: ‘what would these supporters say, writes the journalist, if Spaniards made the same arguments in relation to Tunisia, Algeria or Madagascar!’<sup>123</sup> Local reporting of the events in Cuba thus encouraged settlers of French and Spanish origin in Algeria to recognise the distinct interests of their separate national communities, and also to acknowledge the mutual benefit of supporting each other’s claims to sovereignty across their respective empires.
 
-This mutual recognition of sovereignty, some journalists suggested, was the natural result of the wider Latin community of which each national group was a part. As well as encouraging readers to identify as Spaniards or Frenchmen, therefore, reactions to the events in Cuba encouraged them to see themselves as Latin. In addition to the particular threats posed to Spain and France, warned journalist A. Bloeme, the uprising in Cuba would be ‘the curse […] of the entire Latin race’.<sup>124</sup> Instability in the Caribbean, Bloeme explained, would enable the intervention of ‘the Yankees’, who would not only extend their political influence, but exert cultural domination, imposing the English language on a Latin population.<sup>125</sup> Hostility to ‘Yankee jingoism’ increased in the 1890s, particularly in the Spanish-language press, as reports of American political and media hyperbole reached settler journalists in Algeria.<sup>126</sup> Antipathy towards American actions strengthened settler journalists’ suspicion of ‘Germano-Saxon’ aggression, which had been similarly
-
-SETTLER COLONIAL STUDIES 167
-
-identified in British and German foreign policies.<sup>127</sup> As journalists reacted to these shifts in geopolitics, and demographic developments within Algeria, the Latin community which they imagined was increasingly articulated in terms of race, rather than republicanism.
+This mutual recognition of sovereignty, some journalists suggested, was the natural result of the wider Latin community of which each national group was a part. As well as encouraging readers to identify as Spaniards or Frenchmen, therefore, reactions to the events in Cuba encouraged them to see themselves as Latin. In addition to the particular threats posed to Spain and France, warned journalist A. Bloeme, the uprising in Cuba would be ‘the curse […] of the entire Latin race’.<sup>124</sup> Instability in the Caribbean, Bloeme explained, would enable the intervention of ‘the Yankees’, who would not only extend their political influence, but exert cultural domination, imposing the English language on a Latin population.<sup>125</sup> Hostility to ‘Yankee jingoism’ increased in the 1890s, particularly in the Spanish-language press, as reports of American political and media hyperbole reached settler journalists in Algeria.<sup>126</sup> Antipathy towards American actions strengthened settler journalists’ suspicion of ‘Germano-Saxon’ aggression, which had been similarly identified in British and German foreign policies.<sup>127</sup> As journalists reacted to these shifts in geopolitics, and demographic developments within Algeria, the Latin community which they imagined was increasingly articulated in terms of race, rather than republicanism.
 
 Although references to racial community were not absent from the calls for Latin solidarity emitted by sectors of the French metropolitan press in the tense decades preceding the First World War, they held particular salience in Algeria, where demographers, scientists and journalists believed that a ‘new white race’ was already in the making.<sup>128</sup> ‘It is certain that in Algeria’, explained the *Union latine*, referring to the opinion of Gaston Laforêt of the *Bulletin des renseignements coloniaux*, ‘the various peoples of Latin civilisation have found the crucible in which to effect their intimate fusion’.<sup>129</sup> The local ‘fusion of races’, the *Union latine* asserted in another article on the topic, would produce ‘the neo-Latin race, composed of diverse elements each attenuated by their union’.<sup>130</sup> This new racial community, the paper insisted, would not efface the specificity of each national group of settlers, but would ensure their harmonious interaction for the benefit of the colony, their nations of origin, and indeed, the whole world. ‘In maintaining our own originality let us each use our particular qualities for the benefit of all’, the paper exhorted its mixed readership.<sup>131</sup> The format of the paper itself echoed this advice, designating separate French, Spanish and Italian sections, yet featuring local news in each. If the *Union latine* was the most determined of settler publications to pursue the creation of the Latin race, it was not alone in recognising its development in Algeria. Even the *Dépêche algérienne*, which remained unambiguously loyal to French authority in the North African territory, could not deny the findings of the official demographic statistics: ‘a slow but sure fusion of races is taking place in Algeria’, reported journalist Eugene Lagadec, ‘which, over a period of time as yet unknown, will lead to the formation of a distinct new race’.<sup>132</sup> It was only to be hoped, he added from the French perspective, that the French racial contribution would continue to predominate.<sup>133</sup>
 
 In portraying the ‘Algerian’ settler colony as the crucible of a ‘neo-Latin race’, journalists helped shift the focus from the question of independence to the goal of greater autonomy within the French empire. If settlers could ensure that France remained connected to a global community in which degrees of Latin difference were recognised, then they had no urgent need to break from the French nation. Instead, they could use their status as gatekeepers to a wider Latin world to renegotiate their relationship with the metropole. Press campaigns for greater autonomy had begun in the 1890s, as some journalists began to suggest that the example follow was not, after all, that of the USA, but of the British dominions of Canada or Australia.<sup>134</sup> In these territories, a journalist from the *Progrès algérien* explained to his readers, settlers had their own parliaments and armed forces, and could decide for themselves when cooperation with the metropolitan government was advisable.<sup>135</sup> Though settlers in Algeria may not seek such extensive liberties, the journalist added, ‘it is the desire and expectation of each of us that, financially and politically, we will be endowed with bodies which allow us to develop our wealth and make use of the resources of this land whilst taking account of its needs’.<sup>136</sup>
 
-These expectations were only partially met by the creation, in 1901, of the *Délégations financières*, an elected colonial assembly with a measure of responsibility for the distribution of the colonial budget.<sup>137</sup> For many journalists and their readers, the autonomy provided by this institution was both illusory and costly. As one angry reader of *Le Tell* resumed in a letter to the editors, ‘it is said that they [the Délégations financières] are
-
- Baloise logo C. A. CHOPIN
-
-left to foot the bill, without having a say in how to spend the money!’<sup>138</sup> In order to reinforce the political authority of settlers, some journalists suggested a process of devolution which would end settler representation in the French parliament and replace it with the settler government of ‘French Africa’ – a space including both Algeria and Tunisia, and opening onto the rest of the continent.<sup>139</sup> ‘With the adoption of financial autonomy and North African colonial unity, there is no more need for [settler] parliamentary representation’, explained a journalist from the *Petit Oranais*, ‘it is not in Paris but in Algiers – the capital and heart of French Africa – that the representatives of Algeria must be based: it’s a matter of logic’.<sup>140</sup>
+These expectations were only partially met by the creation, in 1901, of the *Délégations financières*, an elected colonial assembly with a measure of responsibility for the distribution of the colonial budget.<sup>137</sup> For many journalists and their readers, the autonomy provided by this institution was both illusory and costly. As one angry reader of *Le Tell* resumed in a letter to the editors, ‘it is said that they [the Délégations financières] are left to foot the bill, without having a say in how to spend the money!’<sup>138</sup> In order to reinforce the political authority of settlers, some journalists suggested a process of devolution which would end settler representation in the French parliament and replace it with the settler government of ‘French Africa’ – a space including both Algeria and Tunisia, and opening onto the rest of the continent.<sup>139</sup> ‘With the adoption of financial autonomy and North African colonial unity, there is no more need for [settler] parliamentary representation’, explained a journalist from the *Petit Oranais*, ‘it is not in Paris but in Algiers – the capital and heart of French Africa – that the representatives of Algeria must be based: it’s a matter of logic’.<sup>140</sup>
 
 The results of devolution, warned Felix Dessoliers in evening publication *Algérie*, could not be predicted.<sup>141</sup> Although it was possible, he supposed, that the process might ultimately lead to settler independence, it was certain that in the interim a productive relationship between metropole and colony could be achieved – such was the lesson he took from observing the development of the British Dominions.<sup>142</sup> In creating a system in which separate states were united within the same community, however, the British Empire had also provided a model for those journalists who sought to place the settler community in Algeria at the centre of an alliance of Latin peoples. In strengthening the bonds of Latin fraternity between France, Spain and Italy, a journalist at *Oran journal* explained, settlers in Algeria were helping to form ‘the basis of a Latin Confederation intended to protect humanity, maintain peace and illuminate and beautify the world’.<sup>143</sup>
 
 Notably absent from settler journalists’ discussions of the new Latin racial formation were the Algerian Jews and Muslim *indigènes* of the colony. Their absence from both the local ‘Algerian’ community and the global ‘Latin’ community imagined by settler journalists was justified in terms which increasingly combined the language of race with that of cultural or religious difference. When referred to at all by settler journalists, Algerian Jews and Muslims usually appeared as menacing figures who threatened European security, or, conversely, as figures of fun whose threat to settlers could be easily disavowed.<sup>144</sup> Hence, publications of the ‘Anti-Jewish’ movement were almost entirely composed of alternate representations of Algerian Jews as physical threats to settlers and their property – in the guise of monsters, insects, vultures and greedy money-lenders – and jokes deriding their supposed cowardice, deviant behaviour or lack of hygiene.<sup>145</sup> The image reproduced in Figure 2, which contrasts the well-nourished and racialised body of a Jewish money-lender with the suffering bodies of a settler family, appeared in the same issue of the *Antijuif algérien* with a bawdy song casting aspersions on the sexual orientation of Jews.<sup>146</sup> These militant publications merely amplified the expressions of prejudice common to many newspapers outside of the ‘Anti-Jewish’ movement.
 
-Latent stereotypes about Muslims were even more ubiquitous. Settler journalists frequently worried about the security of Europeans faced with ‘hordes of half-savage’ Muslims and their misguided metropolitan champions.<sup>147</sup> Such fears were heightened in this era by the demographic recovery of the Arabo-Berber population, prompting concerns that the ‘Algerian’ settler race would be ‘absorbed’, if it was not first to be massacred.<sup>148</sup> Journalists attempted to quell these fears with jokes about Muslim ignorance and superstition. E. Niçaise, a writer of French origin, went so far as to imagine the character ‘Mohamed Biskri’, and create a twice-weekly publication in his name.<sup>149</sup> Settler readers were encouraged to laugh at the very notion of a Muslim journalist, whose superficial understanding of colonial politics was compounded by his failure to master the
+Latent stereotypes about Muslims were even more ubiquitous. Settler journalists frequently worried about the security of Europeans faced with ‘hordes of half-savage’ Muslims and their misguided metropolitan champions.<sup>147</sup> Such fears were heightened in this era by the demographic recovery of the Arabo-Berber population, prompting concerns that the ‘Algerian’ settler race would be ‘absorbed’, if it was not first to be massacred.<sup>148</sup> Journalists attempted to quell these fears with jokes about Muslim ignorance and superstition. E. Niçaise, a writer of French origin, went so far as to imagine the character ‘Mohamed Biskri’, and create a twice-weekly publication in his name.<sup>149</sup> Settler readers were encouraged to laugh at the very notion of a Muslim journalist, whose superficial understanding of colonial politics was compounded by his failure to master the French language. In acting as ventriloquist to Biskri, Niçaise not only aimed to affirm the civilisational inferiority of Algerian Muslims, but to render their difference unthreatening to a settler readership. Although Niçaise himself bitterly regretted the influence of Spanish and Italian settlers on colonial society, his reliance on Orientalist stereotypes of Muslim intellectual inferiority contributed to a wider process of racialisation in the press which was similarly upheld by references to an ‘Algerian’ or ‘Latin’ settler community. Settlers’ attempts to laugh off the prospect of Muslim journalism were increasingly undermined in the last years of the nineteenth century as a first generation of *indigènes* turned to the press to contest colonial inequalities.<sup>150</sup> These journalists cultivated their own contacts around the Mediterranean and further afield, imagining communities as diverse as a reformed French Empire, and a federation of Islamic states.<sup>151</sup>
 
-SETTLER COLONIAL STUDIES icon 
 
-Illustration from Supplément illustré de l’Antijuif algérien showing a wealthy couple in a carriage passing a poor man with a shovel. The caption in the image reads: "A quoi doivent songer nos conseillers généraux."
-
-**Figure 2.** ‘What our General Counsellors should reflect on’, *Supplément illustré de l’Antijuif algérien*, September 18, 1898 (Bibliothèque nationale de France).
-
-French language. In acting as ventriloquist to Biskri, Niçaise not only aimed to affirm the civilisational inferiority of Algerian Muslims, but to render their difference unthreatening to a settler readership. Although Niçaise himself bitterly regretted the influence of Spanish and Italian settlers on colonial society, his reliance on Orientalist stereotypes of Muslim intellectual inferiority contributed to a wider process of racialisation in the press which was similarly upheld by references to an ‘Algerian’ or ‘Latin’ settler community. Settlers’ attempts to laugh off the prospect of Muslim journalism were increasingly undermined in the last years of the nineteenth century as a first generation of *indigènes* turned to the press to contest colonial inequalities.<sup>150</sup> These journalists cultivated their own contacts around the Mediterranean and further afield, imagining communities as diverse as a reformed French Empire, and a federation of Islamic states.<sup>151</sup>
-
-## Conclusion
-
-The activities of European journalists in Algeria were not confined to the triangular system of relationships which characterises the settler colonial situation. Certainly, settler journalists imagined a culturally and racially distinct ‘Algerian’ people which allowed them to differentiate the settler community from the French of the metropole and from groups of ‘indigenous Others’. Yet the process of imagination called upon a wider set of referents provided by the expanding telecommunications networks of the era. In the absence of an effective ‘French imperial press system’, journalists in Algeria made personal and
-
-170 icon C. A. CHOPIN
-
-professional connections around the Mediterranean and with the colonies and former colonies of the Spanish empire. These connections influenced journalists’ reactions to global events, and framed their comparisons between ‘Algerian’ society and settler communities around the world. Settler journalists’ attitudes to sovereignty in Algeria were significantly affected by these comparisons. Conscious of the effects of violent rebellion upon contemporary creole and settler communities in Cuba and South Africa, the ‘Algerian’ people, many journalists decided, was not a national community, but the central point of a transnational community of Latin peoples. As ‘Latins’, settlers could invoke the protection of the French state without sacrificing their cultural and linguistic differences or committing to a restrictive ‘register of sameness’.<sup>152</sup> Settler recognition of cultural difference, however, did not extend to the Jewish and Muslim populations of Algeria, whose exclusion from professional structures and – in the latter case – political rights, was further reinforced by the increasingly racial articulation of Latin identity.
-
-## Notes
-
-1. *L’Algérie. Journal du Soir* (Algiers), January 24, 1895.
-
-2. Ibid.
-
-3. Juan Bautista Vilar, ‘Argelia en las relaciones hispano-francesas (1898–1914)’, in *Españoles y franceses en la primera mitad del siglo XX*, ed. Consejo superior de investigaciones científicas, Centro de estudios históricos, Departamento de historia contemporánea (Madrid: 1986), 323–43, 334; Andrea Smith, *Colonial Memory and Postcolonial Europe: Maltese Settlers in Algeria and France* (Bloomington: Indiana University Press, 2006).
-
-4. *L’Algérie. Journal du Soir*, January 24, 1895.
-
-5. Lorenzo Veracini, *Settler Colonialism: A Theoretical Overview* (Basingstoke: Palgrave Macmillan, 2010).
-
-6. Ibid.
-
-7. Ibid., 4.
-
-8. The notion of an ‘imagined community’, and the role of the press in the formulation of such communities, are explained in Benedict Anderson, *Imagined Communities: Reflections on the Origin and Spread of Nationalism* (New York: Verso, 1991); *Loi sur la liberté de la presse du 29 juillet 1881* (Paris: Imprimerie de Dubuisson, 1881).
-
-9. Antoinette Burton, ‘Getting Outside the Global: Re-positioning British Imperialism in World History’, in *Race, Nation and Empire: Making Histories, 1750 to the Present*, ed. Catherine Hall and Keith McClelland (Manchester: Manchester University Press, 2010), 199–216.
-
-10. Alan Lester, ‘British Settler Discourse and the Circuits of Empire’, *History Workshop Journal* 54 (2002): 24–48; John Lambert, ‘“The Thinking Is Done in London”: South Africa’s English Language Press and Imperialism’, in *Media and the British Empire, 2013*, ed. Chandrika Kaul (Basingstoke: Palgrave Macmillan, 2006), 37–54; Simon J. Potter, *News and the British World. The Emergence of an Imperial Press System, 1876–1922* (Oxford: Oxford University Press, 2003).
-
-11. Law of June 26, 1889. This law automatically bestowed French citizenship upon any child born on French soil whose parents had themselves been born on French soil. Those born on French soil to parents born outside of France were conferred citizenship at the age of majority, unless they explicitly rejected naturalisation in the preceding year. In Algeria, this law did not apply to Muslims, who – designated as ‘*indigènes*’ – were subject to particular legislation.
-
-12. Figures calculated from data given in Augustin Bernard, ‘Le Recensement de 1906 en Algérie et en Tunisie’, *Annales de géographie* 91 (1908): 24–33.
-
-13. Ibid.
-
-14. Ibid.; René Ricoux, *Contribution à l’étude de l’acclimatement des Français en Algérie* (Paris: G. Masson, 1874), 26.
-
-SETTLER COLONIAL STUDIES 171
-
-15. Dr René Ricoux, *La Population européenne en Algérie (1873–1881)* (Algiers: Imprimerie administrative Gojosso et cie., 1883), 25; Bernard, ‘Le Recensement de 1906’.
-
-16. It is impossible to establish exact proportions in the absence of complete archives, but newspapers in languages other than French were a small minority.
-
-17. Exceptions include Juan Bta. Vilar, *Los españoles en la Argelia francesa* (Madrid: Centro de Estudios Históricos, 1989); Jonathan K. Gosnell, *The Politics of Frenchness in Colonial Algeria 1930–1954* (Rochester: University of Rochester Press, 2002).
-
-18. Patricia M. E. Lorcin, ‘Rome and France in Africa: Recovering Colonial Algeria’s Latin Past’, *French Historical Studies* 25, no. 2 (2002): 295–329.
-
-19. Charles-Robert Ageron, *Histoire de l’Algérie contemporaine (1830–1964)* (Paris: Presses universitaires de France, 1964); Gérard Crespo and Jean-Jacques Jordi, *Les espagnols dans l’algérois 1830–1914: histoire d’une immigration* (Versailles: Editions de l’Atlanthrope, 1991); Pierre Darmon, *Un siècle de passions algériennes : une histoire de l’Algérie coloniale 1830–1940* (Paris: Fayard, 2009).
-
-20. Darmon, *Un siècle de passions algériennes*, 266–81.
-
-21. Jennifer Sessions, ‘Légitimer les violences? Colonisation et insurrection au XIXe siècle’ (paper presented at the Atelier de recherche, L’Algérie française en perspective, IEA, Paris, June 10, 2016).
-
-22. Veracini, *Settler Colonialism*, 37.
-
-23. Ibid., 48.
-
-24. Charlotte Ann Legg, ‘Imagining *le peuple nouveau*: Medicine and the Press in French Algeria 1870–1914’ (PhD diss., New York University, 2013), 60–70.
-
-25. Peter Dunwoodie, ‘Assimilation, Cultural Identity, and Permissible Deviance in Francophone Algerian Writing of the Interwar Years’, in *Algeria & France 1800–2000: Identity, Memory, Nostalgia*, ed. Patricia M.E. Lorcin (New York: Syracruse University Press, 2006), 63–83.
-
-26. Potter, *News and the British World*; Duncan S. A. Bell, ‘Dissolving Distance: Technology, Space and Empire in British Political Thought, 1770–1900’, *The Journal of Modern History* 77, no. 3 (2005): 523–62; Pascal Griset, *Entreprise, technologie et souveraineté : les télécommunications transatlantiques de la France (XIXe-XXe siècles)* (Paris: Editions rive droite, 1996).
-
-27. Idir Bouaboud, ‘L’Echo d’Alger, cinquante ans de vie politique française en Algérie, 1912–1961’ (PhD diss., Université Paris XII, 1998); Louis Pierre Montoy, ‘La presse dans le département de Constantine (1870–1918)’ (PhD diss., Université de Provence, 1982).
-
-28. *Loi sur la liberté de la presse du 29 juillet 1881*.
-
-29. *Annuaire de la presse française*, 1880, 1901.
-
-30. Arthur Asseraf, ‘La société coloniale face à l’actualité internationale, 1881–1899: diffusion, contrôle, usages’, *Revue d’histoire moderne et contemporaine* (forthcoming).
-
-31. Montoy, ‘La presse’, 117, 287.
-
-32. *L’Algérie française* (Algiers), February 21, 1909.
-
-33. Gosnell, *The Politics of Frenchness*, 165.
-
-34. Lizabeth Zack, ‘Who fought the Algerian War? Political Identity and Conflict in French-Ruled Algeria’, *International Journal of Politics, Culture, and Society* 16, no. 1 (2002): 55–97, 63.
-
-35. *Fraternidad obrera* (Oran), October 9, 1884.
-
-36. *Fraternidad obrera*, from November 1, 1883; *El patuet* (Algiers), from July 14, 1883.
-
-37. Potter, *News and the British World*, 13.
-
-38. Veracini, *Settler Colonialism*, 29.
-
-39. Bouaboud, ‘L’Echo d’Alger’; Montoy, ‘La presse dans le département de Constantine’.
-
-40. Bouaboud, ‘L’Echo d’Alger’, 30.
-
-41. Ernest Mallebay, *Cinquante ans de journalisme* (Algiers: Edition F. Fontana, 1937).
-
-42. Ibid., 14.
-
-43. Ibid., 303; see also *Les Clochettes bônoises* (Bône), from May 5, 1894.
-
-44. Daniel Nadeau, ‘Identité nationale ou identités nationales : L’opinion publique canadienne tronquée’, in *Presse, nations et mondialisation au XIXe siècle*, ed. Marie-Eve Thérenty and Alain Vaillant (Paris: Nouveau Monde Editions, 2010), 307–319.
-
-45. Lester, ‘British Settler Discourse’; Lambert, ‘“The thinking is done in London”’.
-
-172 C. A. CHOPIN logo C. A. CHOPIN
-
-46. Mallebay, *Cinquante ans de journalisme*, 313.
-
-47. *Le Petit fanal oranais* (Oran), January 5, 1900.
-
-48. *Le Petit fanal oranais*, October 1, 1897.
-
-49. Griset, *Entreprise, technologie et souveraineté*; Potter, *News and the British World*.
-
-50. Based on the analysis of 58 Francophone, Hispanophone, italophone and multilingual titles written and published by settlers in Algeria.
-
-51. For other forms of information transfer see Asseraf, ‘La société coloniale face à l’actualité internationale’.
-
-52. *Le Trait d’union* (Agha-Mustapha), May 17, 1903; *L’Union latine* (Algiers), November 14, 1907. *L’Union latine* was a multilingual paper but did not adhere to a strict correspondence of national language and national news. The three articles referred to from the edition of 14 November 1907 were all printed in French.
-
-53. Bouaboud, ‘L’Echo d’Alger’, 33.
-
-54. *La Dépêche algérienne* (Algiers). The column ‘Spanish Affairs’ appeared regularly from January 1, 1898, and the column ‘Italian News’ featured regularly from March 25, 1898.
-
-55. *La Revue algérienne et tunisienne* (Algiers), January 31, 1891; *La Lega franco-italiana* (Bône), from December 10, 1896.
-
-56. *Fraternidad obrera*, January 6, 24, 1884; *L’Union latine*, August 24, 1907; *Pro Patria* (Algiers), June 23, 1910.
-
-57. *Fraternidad obrera*, January 24, 1884.
-
-58. *Africa* (Algiers), May 21, 1911.
-
-59. *Le Trait d’union*, May 17, 1903.
-
-60. *L’Union latine*, April 5, 1903.
-
-61. *Le Trait d’union*, May 17, 1903.
-
-62. Ibid.; *Journal général de l’Algérie et de la Tunisie* (Algiers), September 12, 1909.
-
-63. Mallebay, *Cinquante ans de journalisme*, 219.
-
-64. Louis Durieu, *Les Juifs Algériens (1870–1901): études de démographie algérienne* (Paris: Cerf, 1902), 41.
-
-65. Militants in Algeria preferred this term to the term ‘anti-Semitic’ in order to maintain a politically useful distinction between Jews and Arabs or Berbers, all of whom they perceived as belonging to the ‘Semitic’ race. See Augustin Castéran, *L’Algérie française. De 1884 à nos jours. Péril juif, péril étranger, péril arabe* (Paris: Ernest Flammarion, 1900), 69.
-
-66. Stephen Wilson, ‘The Anti-Semitic Riots of 1898 in France’, *Comparative Studies in Society and History*, 16, no. 4 (1973): 789–806, 803.
-
-67. Darmon, *Un siècle de passions algériennes*, 256–62.
-
-68. *La France algérienne* (Oran), October 29, 1871.
-
-69. Ibid.
-
-70. *El patuet*, September 23, 1883.
-
-71. *Le Sans-culotte* (Oran), April 22, 1888.
-
-72. Jan C. Jansen, ‘Celebrating the “Nation” in a Colonial Context: “Bastille Day” and the Contested Public Space in Algeria, 1880–1939’, *The Journal of Modern History* 85, no. 1 (2013): 36–68.
-
-73. *La Lanterne de Mohamed Biskri* (Algiers), May 26, 1898.
-
-74. *L’Algérie. Journal du Soir*, February 6, 1895.
-
-75. Ibid.
-
-76. *L’Algérie. Journal du Soir*, January 2–3, 1895.
-
-77. A striking exception is found in the group of journalists surrounding Max Régis, editor of *L’Antijuif Algérien* and Mayor of Algiers in 1898–1899 and 1901.
-
-78. *Le Sans-culotte*, 1887–1891; *Le Bonnet phrygien* (Oran), 1901–1908.
-
-79. *La France africaine* (Oran), November 11, 1892 (emphasis in original); see also *La Nouvelle France* (Algiers), September 18, 1886; *Fraternidad obrera*, January 24, 1884; *La France algérienne*, October 31, 1871; *L’Union latine*, April 5, 1903.
-
-80. *La France africaine*, November 11, 1892.
-
-81. *Fraternidad obrera*, January 24, 1884.
-
-SETTLER COLONIAL STUDIES 
-
-82. *La France africaine*, November 11, 1892; *La Nouvelle France*, September 18, 1886; *La France algérienne*, October 31, 1871; *Fraternidad obrera*, January 24 and 31, 1884.
-
-83. *Fraternidad obrera*, April 6, 1884; *L’Union latine*, April 5, 1903.
-
-84. *La France africaine*, April 10, 1892; *L’Union latine*, May 24, 1903.
-
-85. *L’Algérie. Journal du soir*, March 16, 1895.
-
-86. Ibid. (emphasis in original).
-
-87. *La France africaine*, April 10, 1892.
-
-88. Martin Evans, *Algeria: France’s Undeclared War* (Oxford: Oxford University Press, 2012), 291.
-
-89. Jules Cambon, *Le gouvernement général de l’Algérie (1891–1897)* (Paris: E. Champion, 1918), xv.
-
-90. Jacqueline Beaumont, ‘The Making of a War Correspondent: Lionel James of *The Times*’, in *The Impact of the South African War*, ed. David E. Omissi and Andrew S. Thompson (Basingstoke: Palgrave Macmillan, 2002), 124–37; Kenneth O. Morgan, ‘The Boer War and the Media (1899–1902)’, *Twentieth Century British History* 13, no. 1 (2002): 1–16.
-
-91. *La Dépêche algérienne*, January 1–June 12, 1900.
-
-92. *La Dépêche algérienne*, February 25, 1900. ‘Viator’ was the pseudonym of M. Meton-Cressent.
-
-93. Ibid.
-
-94. Ibid.
-
-95. *Le Petit Journal* (Paris), January 28, 1900.
-
-96. Ibid.
-
-97. *La Dépêche algérienne*, January 2, 1900.
-
-98. *La Dépêche algérienne*, January 2, 12, 17, 1900; *Progrès de Bel-Abbès* (Bel-Abbès), May 16, 1900.
-
-99. *La Dépêche algérienne*, 12 January 1900.
-
-100. *Le Bulletin municipal officiel de la ville d’Alger* (Algiers), December 20, 1899.
-
-101. *La Dépêche algérienne* (Algiers), February 25, 1900.
-
-102. *L’Algérie. Journal du Soir*, December 16, 1894.
-
-103. *La Croix de l’Algérie et de la Tunisie* (Algiers), November 4, 1900.
-
-104. Ibid.
-
-105. *L’Union latine*, May 3, 1903.
-
-106. *Le Petit fanal* (Oran), October 10, 1900. This rumour appears to have been unfounded.
-
-107. *Le Républicain* (Mascara), December 26 and 29, 1901.
-
-108. Ibid.
-
-109. Castéran, *L’Algérie française*, 255.
-
-110. Ibid., 133.
-
-111. *L’Union latine*, May 3, 1903.
-
-112. Ibid.
-
-113. Ibid.
-
-114. Ibid.; *L’Union latine*, April 5, 1903.
-
-115. *El patuet*, July 29, 1883; *Fraternidad obrera*, May 4, 1884.
-
-116. *El correo español* (Oran), January 5, 12, 16, 30, 1897; *La Dépêche algérienne*, January 30, 1898, March 4, 1898.
-
-117. *El mosquito español* (Oran), November 30, 1884.
-
-118. *El patuet*, July 29, 1883.
-
-119. *El correo español*, January 5, 1897.
-
-120. Christopher Schmidt-Nowara, *The Conquest of History: Spanish Colonialism and National Histories in the Nineteenth Century* (Pittsburgh: University of Pittsburgh Press, 2006).
-
-121. *Fraternidad obrera*, April 20, November 6, 1884.
-
-122. *La Dépêche algérienne*, January 30, 1898; *El correo español*, January 12, 16, 1897.
-
-123. *El correo español*, January 16, 1897.
-
-124. *Fraternidad obrera*, April 20, 1884 (emphasis in original).
-
-125. Ibid.
-
-126. *El correo español*, January 30, 1897.
-
-127. *L’Union latine*, May 3, 1903.
-
-128. Ricoux, *Contribution à l’étude de l’acclimatement*, 105.
-
-129. *L’Union latine*, May 17, 1903.
-
-174 logo C. A. CHOPIN
-
-130. *L’Union latine*, April 5, 1903.
-
-131. Ibid.
-
-132. *La Dépêche algérienne*, March 3, 1898.
-
-133. Ibid.
-
-134. *Le Progrès algérien* (Algiers), March 18, 1900; *L’Algérie. Journal du soir*, March 12, 1895.
-
-135. *Le Progrès algérien*, March 18, 1900.
-
-136. Ibid.
-
-137. Jacques Bouveresse, *Un parlement colonial: Les délégations financières algériennes 1898–1945* (Publications des Universités du Rouen et du Havre, 2008 and 2010).
-
-138. *Le Tell* (Blida), March 14, 1903; *Le Tell*, March 8, 1903.
-
-139. *Le Petit Oranais* (Oran), December 1, 1902.
-
-140. Ibid.; see also *Le Républicain*, December 22, 1901; *Le Réveil de Bougie* (Bougie), April 30, 1903.
-
-141. *L’Algérie. Journal du soir*, March 12, 1895.
-
-142. Ibid.
-
-143. *Oran journal* (Oran), December 2, 1900.
-
-144. Exceptions identified by Louis Pierre Montoy include *El Montakheb* and *El Mobacher*, which instead served to promote the notion of a French ‘civilising mission’ amongst Algerian Muslims, see Montoy, ‘La presse’, 251–62.
-
-145. Legg, ‘Imagining le peuple nouveau’, 71–113.
-
-146. *Supplément illustré de l’Antijuif algérien* (Algiers), September 18, 1898.
-
-147. *Le Réveil de Bougie*, March 26, 1903.
-
-148. *Le Réveil de Bougie*, March 29, 1903.
-
-149. *La Lanterne de Mohamed Biskri*, from April 28, 1898.
-
-150. Dunwoodie, ‘Assimilation, Cultural Identity, and Permissible Deviance’; Philipp Zessin, ‘Presse et journalistes ‘indigènes’ en Algérie coloniale (années 1890–années 1950)’, *Le mouvement social*, 236 (2011): 35–46.
-
-151. *El Hack* (Algiers), from July 30, 1893; *Tout ou Rien* (Oran), from June 1912, see especially October 4, 1912.
-
-152. Veracini, *Settler Colonialism*, 4.
-
-## Disclosure statement
-
-No potential conflict of interest was reported by the author.
-
-## Notes on contributor
-
-**Charlotte Ann Chopin** is a Lecturer in French Studies at the University of London Institute in Paris. She is currently writing a book about settler colonialism and the press in French Algeria.
+The activities of European journalists in Algeria were not confined to the triangular system of relationships which characterises the settler colonial situation. Certainly, settler journalists imagined a culturally and racially distinct ‘Algerian’ people which allowed them to differentiate the settler community from the French of the metropole and from groups of ‘indigenous Others’. Yet the process of imagination called upon a wider set of referents provided by the expanding telecommunications networks of the era. In the absence of an effective ‘French imperial press system’, journalists in Algeria made personal and professional connections around the Mediterranean and with the colonies and former colonies of the Spanish empire. These connections influenced journalists’ reactions to global events, and framed their comparisons between ‘Algerian’ society and settler communities around the world. Settler journalists’ attitudes to sovereignty in Algeria were significantly affected by these comparisons. Conscious of the effects of violent rebellion upon contemporary creole and settler communities in Cuba and South Africa, the ‘Algerian’ people, many journalists decided, was not a national community, but the central point of a transnational community of Latin peoples. As ‘Latins’, settlers could invoke the protection of the French state without sacrificing their cultural and linguistic differences or committing to a restrictive ‘register of sameness’.<sup>152</sup> Settler recognition of cultural difference, however, did not extend to the Jewish and Muslim populations of Algeria, whose exclusion from professional structures and – in the latter case – political rights, was further reinforced by the increasingly racial articulation of Latin identity.

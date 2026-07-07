@@ -1,7 +1,0 @@
-# Notes for Haiku's next games
-
-From reviewing the 10 "good" transcripts against a casual/high-schooler player style (2026-07-01 batch):
-
-- The model tends toward repetitive rhetorical patterns under real pressure ("That is not X, it is Y" chained 2-3 times per turn, or a punchy closing line repeated near-verbatim later in the same conversation). This isn't quite the "repetition/looping" failure that got other games marked bad, but it's adjacent — watch for a turn that recycles an earlier line's structure just enough to sound like it's dodging rather than answering.
-- A few "good" calls had one confusing self-referential line buried in an otherwise fine turn (e.g. "You're not the one who'll stand in the way... I'm not the one who'll let your silence be the reason... it's you who's complicit" — genuinely hard to parse on first read, only resolved because the player called it out and the model recovered). If the player doesn't happen to call out a confusing line like that, it can slide through as "good" when it's really a near-miss. Worth reading model turns twice for parseability, not just for contradiction/looping/anachronism.
-- Minor: watch for overuse of em dashes and repeated three-part sentence rhythm ("It is not X. It is Y.") — not a bad-verdict trigger on its own, but it's the main thing the humanize pass ends up rewriting, so flagging it earlier saves a rewrite pass later.
