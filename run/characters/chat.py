@@ -31,11 +31,15 @@ try:
 except Exception:
     pass
 
-# Nemotron: _init_weights does p /= sqrt(n_layers) which errors on bnb quantized tensors
+# Nemotron: _init_weights does p /= sqrt(n_layers) which errors on bnb quantized tensors.
+# Scoped to Nemotron only — blanket-skipping this for every quantized model corrupts
+# weight init on other architectures (e.g. silently produced garbage output on Gemma4).
 _orig_init_missing = _PTM._initialize_missing_keys
-_PTM._initialize_missing_keys = lambda self, is_quantized, *a, **kw: (
-    None if is_quantized else _orig_init_missing(self, is_quantized, *a, **kw)
-)
+def _patched_init_missing(self, is_quantized, *a, **kw):
+    if is_quantized and "nemotron" in type(self).__module__:
+        return None
+    return _orig_init_missing(self, is_quantized, *a, **kw)
+_PTM._initialize_missing_keys = _patched_init_missing
 
 # Nemotron: mamba_ssm Triton kernel passes out_proj.weight directly to F.linear
 try:

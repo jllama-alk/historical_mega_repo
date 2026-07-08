@@ -1,0 +1,50 @@
+You:I understand you have an issue with stemming from the morroco crisis. I imagine you must have a unique perspective on the facts of the matter from your rnatinationality. Would you kindly explain how you see the facts of the case before discusing your issue?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I would be happy to share my view on the facts. From my perspective, the situation in Morocco is not a simple case of France against Germany. It is a complex web of colonial ambitions, strategic interests, and international law, all playing out in a way that is creating more tension than it resolves. I believe that understanding the full picture is essential before we can discuss any solution.<turn|>
+
+You:Ah ofcourse, I am in agreement, What are your main concerns as a frenchman? In regards to Morroco?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: My main concern is that the way the situation is unfolding risks escalating into a wider European conflict. I have watched how colonial disputes have been used to advance strategic interests, and I believe that this pattern is not sustainable. I am not against French interests in Morocco, but I am against the way the situation is being managed.<turn|>
+
+You: I understand, as you know, I am a well connected peace advocate. I am able to talk to many a type of person, but we do not have much time before the conference, in your view, who are could we talk to?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I would suggest we focus on people who are also concerned about the stability of Europe and who are willing to engage in serious discussion rather than simply advancing their own national interests. I have some contacts in Germany who share my concerns about the dangers of colonial disputes, and I believe they would be interested in this conversation.<turn|>
+
+You:What about the Morrocans? Maybe a false flag operation on a UK colony could prevent a two parties from making any problamtic alliences
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I appreciate the idea, but I am not sure it would actually work. I have watched how such schemes have been used in the past, and I am not convinced that it would be successful. I would rather focus on strengthening the existing international order rather than creating new risks.<turn|>
+
+You:Understood, inorder to understand the issue more, I must ask, what are some possible outcomes? I understand France has been seeking alliances with both UK and Germany. What are the likely outcomes of a Franco-German alliance compared with a UK-France alliance?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I believe a Franco-German alliance would be more dangerous than a UK-France alliance. Germany has its own strategic interests, and it would be in a stronger position to use the alliance to advance its own agenda. I think a UK-France alliance would be more stable, as the UK's interests are more aligned with France's in this regard.<turn|>
+
+You: If the morroco crisis will simply lead to stability, we likely don't have much of an issue an issue... What do you think about this?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I think stability is a good thing, but it is not the only thing that matters. I would rather we find a solution that addresses the root causes of the crisis rather than simply putting a band-aid on the problem.<turn|>
+
+You:Lets talk in specifics, you came to me because of the Morrocan Crisis and you believe it will lead to a broader conflict... Would greater stability not lead towards less conflict? This is how I feel
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I understand your point, but I am not sure it is entirely accurate. The Moroccan crisis is not just a local dispute. It is a symptom of a wider pattern of colonial competition and strategic maneuvering that is destabilizing the continent. Addressing the crisis in isolation would not solve the underlying problem.<turn|>
+
+You:I understand your point... regardless of the outcome, war seems innevatable?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I do not think war is inevitable. I think it is a real risk if we continue to allow colonial disputes to escalate without careful management. I believe that careful management and diplomatic solutions can prevent a wider conflict.<turn|>
+
+You: Ah I understand. Though the only issue; if the best way to set a presidence against colonialism... Is to set a president for greater autonomy. I'll spell it out, this means, for france to fail to meet their ambitions... What do you think about this?
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I do not think that is a viable solution. France has legitimate interests in Morocco, and abandoning them would not only fail to resolve the crisis but would also set a dangerous precedent. I believe in finding solutions that respect the legitimate interests of all parties involved.<turn|>
+
+You:One method: Many of the interests in Morroco are related to money. A solution may be found without making Morroco a protectorate, Do you agree?
+[transformers] You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I am open to exploring solutions that address the financial interests involved. I believe that a diplomatic arrangement that respects French legitimate interests while also addressing the financial concerns of other parties could be a viable path forward.<turn|>
+
+You:Excellent. I think I will have a conversation with a Morrocan State Banker as well as a centerist member of the radical party. This solution will allow world acknoledgement of Morrocan debt to france while ensuring the world that this is purely about debts, and not about stealing autonomy 
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I think that is a very interesting approach. I would be interested in hearing about your conversation and any developments.<turn|>
+
+You:excellent.
+[transformers] Both `max_new_tokens` (=200) and `max_length`(=20) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Bot: I am glad to hear that. I look forward to hearing about your findings.<turn|>
+
+You:

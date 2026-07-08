@@ -29,7 +29,7 @@ if sys.version_info >= (3, 14):
 MODEL_ID   = "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16"
 DATA_DIR   = "./data"
 CSV_PATH   = "./filtered_data.csv"
-OUTPUT_DIR = "./output-n"
+OUTPUT_DIR = "./nemotronv2"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -137,7 +137,7 @@ lora_config = LoraConfig(
     r=4,
     lora_alpha=16,
     target_modules="all-linear",
-    exclude_modules=["lm_head"],
+    exclude_modules=["lm_head", "out_proj", "conv1d"],
     lora_dropout=0.05,
     bias="none",
     task_type=TaskType.CAUSAL_LM,

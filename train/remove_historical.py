@@ -13,5 +13,13 @@ for word in banned_words:
     df = df[~df['input'].str.contains(word, case=False)]
     df = df[~df['output'].str.contains(word, case=False)]
 
-df = df.iloc[:400]
+df = df.iloc[:425]
 df.to_csv("filtered_data.csv", index=False)
+
+#df = pd.read_parquet("hf://datasets/allenai/soda/")
+#df = df['dialogue'] + df['speakers']
+
+
+#for word in banned_words:
+#    df = df[~df['dialogue'].str.contains(word, case=False)]
+#    df = df[~df['speakers'].str.contains(word, case=False)]
