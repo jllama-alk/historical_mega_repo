@@ -19,7 +19,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from transformers.modeling_utils import PreTrainedModel as _PTM
 from peft import PeftModel
 
-ADAPTER = Path(__file__).parent.parent.parent / "train" / "output-n"
+ADAPTER = Path(__file__).parent.parent.parent / "train" / "nemotronv3"
 
 # ── patches ──────────────────────────────────────────────────────────────────
 
@@ -101,7 +101,28 @@ def load_model(adapter_path: Path):
 
 # ── generation ────────────────────────────────────────────────────────────────
 
-def generate(tokenizer, model, messages, max_new_tokens=512, temperature=0.7):
+def _sample_next(logits, generated_ids, temperature, top_p, repetition_penalty):
+    if repetition_penalty != 1.0 and generated_ids:
+        for tok_id in set(generated_ids):
+            logits[0, tok_id] = (
+                logits[0, tok_id] / repetition_penalty if logits[0, tok_id] > 0
+                else logits[0, tok_id] * repetition_penalty
+            )
+
+    probs = torch.softmax(logits / temperature, dim=-1)
+    if top_p >= 1.0:
+        return torch.multinomial(probs, num_samples=1)
+
+    sorted_probs, sorted_idx = torch.sort(probs, descending=True, dim=-1)
+    cutoff = torch.cumsum(sorted_probs, dim=-1) > top_p
+    cutoff[..., 1:] = cutoff[..., :-1].clone()
+    cutoff[..., 0] = False
+    sorted_probs[cutoff] = 0.0
+    sorted_probs /= sorted_probs.sum(dim=-1, keepdim=True)
+    return sorted_idx.gather(-1, torch.multinomial(sorted_probs, num_samples=1))
+
+
+def generate(tokenizer, model, messages, max_new_tokens=512, temperature=0.7, top_p=0.9, repetition_penalty=1.15):
     """
     Prefill + cached decode loop.
     - Prefill: one forward pass on the full prompt, initialises HybridMambaAttentionDynamicCache
@@ -173,8 +194,7 @@ def generate(tokenizer, model, messages, max_new_tokens=512, temperature=0.7):
         cache = out.cache_params
 
         logits = out.logits[:, -1, :]
-        probs = torch.softmax(logits / temperature, dim=-1)
-        next_tok = torch.multinomial(probs, num_samples=1)  # [1, 1]
+        next_tok = _sample_next(logits, generated, temperature, top_p, repetition_penalty)  # [1, 1]
         generated.append(next_tok.item())
 
         # Decode: single token per step
@@ -186,8 +206,7 @@ def generate(tokenizer, model, messages, max_new_tokens=512, temperature=0.7):
                         cache_position=cache_pos, return_dict=True)
             cache = out.cache_params
             logits = out.logits[:, -1, :]
-            probs = torch.softmax(logits / temperature, dim=-1)
-            next_tok = torch.multinomial(probs, num_samples=1)
+            next_tok = _sample_next(logits, generated, temperature, top_p, repetition_penalty)
             generated.append(next_tok.item())
 
     if generated and generated[-1] == eos:

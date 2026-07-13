@@ -3,7 +3,6 @@
 *The Historical Journal*, 26, 2 (1983), pp. 403—411
 Printed in Great Britain
 
-# THE FOREIGN OFFICE AND THE 'EDUCATION' OF PUBLIC OPINION BEFORE THE FIRST WORLD WAR
 
 ### KEITH WILSON
 

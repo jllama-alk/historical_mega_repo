@@ -69,7 +69,7 @@ try:
 except ImportError:
     pass
 
-ADAPTER = Path(__file__).parent.parent / "train" / "output-n"
+ADAPTER = Path(__file__).parent.parent.parent / "train" / "output-gemmav2"
 SAVE_DIR = Path(__file__).parent
 
 console = Console()

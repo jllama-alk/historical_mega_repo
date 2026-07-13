@@ -23,7 +23,9 @@ def _to_role_dicts(messages: list[BaseMessage]) -> list[dict]:
 class NemotronChatModel(BaseChatModel):
     adapter_path: Path = ADAPTER
     max_new_tokens: int = 624
-    temperature: float = 0.7
+    temperature: float = 0.6
+    top_p: float = 0.9
+    repetition_penalty: float = 1.15
 
     def __init__(self, **kwargs: Any):
         super().__init__(**kwargs)
@@ -37,6 +39,7 @@ class NemotronChatModel(BaseChatModel):
         reply = generate(
             self._tokenizer, self._model, _to_role_dicts(messages),
             max_new_tokens=self.max_new_tokens, temperature=self.temperature,
+            top_p=self.top_p, repetition_penalty=self.repetition_penalty,
         )
         return ChatResult(generations=[ChatGeneration(message=AIMessage(content=reply))])
 
@@ -67,17 +70,24 @@ class GemmaChatModel(BaseChatModel):
     just wrapped as a BaseChatModel instead of going through HuggingFacePipeline.
     """
     base_model_id: str = "google/gemma-4-E2B-it"
-    adapter_path: str = "/mnt/linux_storage/projects/Historical_AI/train/output-gemmav2-plain"
-    max_new_tokens: int = 200
-    temperature: float = 0.3
+    adapter_path: str = "/mnt/linux_storage/projects/Historical_AI/train/output-gemma-plainV3"
+    max_new_tokens: int = 400
+    temperature: float = 0.6
+    top_p: float = 0.9
+    repetition_penalty: float = 1.15
 
     def __init__(self, **kwargs: Any):
         super().__init__(**kwargs)
-        self._tokenizer = AutoTokenizer.from_pretrained(self.base_model_id)
+        self._tokenizer = AutoTokenizer.from_pretrained(
+            self.base_model_id, clean_up_tokenization_spaces=False,
+        )
         model = load_inference_model(self.adapter_path)
+        model.generation_config.max_length = None
         self._pipe = pipeline(
             "text-generation", model=model, tokenizer=self._tokenizer,
-            max_new_tokens=self.max_new_tokens, temperature=self.temperature,
+            max_new_tokens=self.max_new_tokens, do_sample=True,
+            temperature=self.temperature, top_p=self.top_p,
+            repetition_penalty=self.repetition_penalty,
         )
 
     @property

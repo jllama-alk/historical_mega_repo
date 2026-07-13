@@ -29,7 +29,7 @@ if sys.version_info >= (3, 14):
 MODEL_ID   = "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16"
 DATA_DIR   = "./data"
 CSV_PATH   = "./filtered_data.csv"
-OUTPUT_DIR = "./nemotronv2"
+OUTPUT_DIR = "./nemotronv3"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -184,7 +184,7 @@ print(f"Dataset: {len(dataset)} examples")
 
 training_args = SFTConfig(
     output_dir=OUTPUT_DIR,
-    num_train_epochs=3,
+    num_train_epochs=2,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=8,
     gradient_checkpointing=True,
