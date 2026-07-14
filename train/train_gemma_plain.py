@@ -28,7 +28,7 @@ if sys.version_info >= (3, 14):
 MODEL_ID   = "google/gemma-4-E2B-it"
 DATA_DIR   = "./data"
 CSV_PATH   = "./filtered_data.csv"
-OUTPUT_DIR = "./output-gemma-plainV3"
+OUTPUT_DIR = "./output-gemma-plainV4"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,

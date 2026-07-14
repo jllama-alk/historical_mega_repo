@@ -71,8 +71,8 @@ class GemmaChatModel(BaseChatModel):
     """
     base_model_id: str = "google/gemma-4-E2B-it"
     adapter_path: str = "/mnt/linux_storage/projects/Historical_AI/train/output-gemma-plainV3"
-    max_new_tokens: int = 400
-    temperature: float = 0.6
+    max_new_tokens: int = 700
+    temperature: float = 0.3
     top_p: float = 0.9
     repetition_penalty: float = 1.15
 

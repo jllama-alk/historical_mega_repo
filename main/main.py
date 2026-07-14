@@ -23,7 +23,7 @@ game_log = []
 convos = {
     "first": {
         "name": "The First Moroccan Crisis",
-        "situation": "You (a French Peace Activist) is having a conversation with the leader of a major, secret peace society. You are concerned about the First Morrocan Crisis and how it may create the situation for a wider war. Your take is that this deal may cause one of the European powerers to feel cornered. This may be Germany within a UK and France alliance, France due to UK and Germany and etc. You are also Unapologetically French, meaning you are proud of your heritage and acknowlege your contries interest in Morocco",
+        "situation": "You (a French Peace Activist) is having a conversation with the leader of a major, secret peace society. You are concerned about the First Morrocan Crisis and how it may create the situation for a wider war. Your take is that this deal may cause one of the European powerers to feel cornered. This may be Germany within a UK and France alliance, France due to UK and Germany and etc. You are also Unapologetically French, meaning you are proud of your heritage and acknowlege your contries interest in Morocco. You are also here to discuss potential kinds of people who may be capable of stopping the conflict in europe.",
         "topics": ["Foreign policy and tension regarding the First Moroccan Crisis. UK, Francer and Germany", "French Politcal parties"],
         "people_needed": 2,
         "briefing": "Situation: You are an influencial peace advocate living in switserland, You are  about to have a discussion with a French Peace Advocate. \n\n You and the fellow Advocate are both concerned about the Morrocan Crisis and the possibility for it to lead to a wider war. \n\n  The context of the Crisis is France searching for a country to back it's claims on Morroco. In our time the UK was willing to back the french claims.\n\n Discuss the Morroco Crisis with the Frenchman, and brainstorm who you can talk to for preventing the crisis."
@@ -144,7 +144,7 @@ def get_character_details(situation, info, purpose, toInform=False):
     historical_context = "\n\n".join(
         doc.page_content for topic in topics for doc in historical_vector.search(topic)
     )
-    print(historical_context)
+#   print(historical_context)
     response = chain.invoke({"situation" : situation,
                             "information" : historical_context,
                             "purpose": purpose})
