@@ -70,13 +70,11 @@ def final_debrief(trial_results):
     )
 
     template = f"""
-    You are a historical fiction author. A student roleplayed as a peace activist in the years before World War One, trying to convince a series of historical figures to act.
-
-    Below are the characters they spoke to (each one's system prompt, describing who the character was and what the player wanted from them) and whether the player succeeded in convincing them. You are not given the actual conversations, only these outcomes.
+    You are a historical analyst. A peace activist in early-1900s Europe attempted to win support from a series of influential figures. Below are the outcomes of those attempts.
 
     {trials}
 
-    Write a short historical fiction narrative — in the style of a historical novel, not a summary — dramatizing how this player's campaign actually unfolded: the people they won over, the ones who refused them, and what that meant for the wider crisis. Stay grounded in the real early-1900s European setting implied by the characters. Do not describe it as a game or mention "the player" or "trials" — narrate it as history.
+    The player already knows what happened in their campaign. Do not recap it. Instead, focus entirely on consequences: given who was convinced and who was not, what does this mean for Europe going forward? What political doors opened or closed? What alliances became more or less likely? What risks increased? Be specific to the historical context implied by each character. Write in plain, direct prose — no literary flourishes, no dramatic framing. Two to three short paragraphs.
     """
 
     return model_orchestrator.invoke(template)
@@ -200,7 +198,8 @@ def run_conversation(messages):
         console.print(f"[bold green]Bot[/bold green]: {response.content}\n")
         messages.append({"role": "assistant", "content": response.content})
         current_convo.append((user_message, response.content))
-        if "bye" in response.content.lower():
+        if any(phrase in response.content.lower() for phrase in ("bye", "goodnight", "good day", "good morning")):
+            print("Ending Conversation")
             break
 
     return current_convo
