@@ -1,4 +1,5 @@
 """LangChain-compatible wrapper around the Nemotron-H LoRA adapter, for use in RAG chains."""
+import gc
 import sys
 from pathlib import Path
 from typing import Any
@@ -13,7 +14,10 @@ from langchain_core.outputs import ChatResult, ChatGeneration
 
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, pipeline
+from transformers.utils import logging as hf_logging
 from peft import PeftModel
+
+hf_logging.set_verbosity_error()
 
 def _to_role_dicts(messages: list[BaseMessage]) -> list[dict]:
     role_map = {"human": "user", "ai": "assistant", "system": "system"}
@@ -70,9 +74,9 @@ class GemmaChatModel(BaseChatModel):
     just wrapped as a BaseChatModel instead of going through HuggingFacePipeline.
     """
     base_model_id: str = "google/gemma-4-E2B-it"
-    adapter_path: str = "/mnt/linux_storage/projects/Historical_AI/train/output-gemma-plainV3"
-    max_new_tokens: int = 700
-    temperature: float = 0.3
+    adapter_path: str = "output-gemma-plainV7"
+    max_new_tokens: int = 200
+    temperature: float = 0.45
     top_p: float = 0.9
     repetition_penalty: float = 1.15
 
@@ -81,14 +85,29 @@ class GemmaChatModel(BaseChatModel):
         self._tokenizer = AutoTokenizer.from_pretrained(
             self.base_model_id, clean_up_tokenization_spaces=False,
         )
+        self._load()
+
+    def _load(self):
         model = load_inference_model(self.adapter_path)
         model.generation_config.max_length = None
+        self._model = model
         self._pipe = pipeline(
             "text-generation", model=model, tokenizer=self._tokenizer,
             max_new_tokens=self.max_new_tokens, do_sample=True,
             temperature=self.temperature, top_p=self.top_p,
             repetition_penalty=self.repetition_penalty,
         )
+
+    def unload(self):
+        """Free GPU VRAM so another process (e.g. Ollama) has room. Reload() brings it back."""
+        self._pipe = None
+        self._model = None
+        gc.collect()
+        torch.cuda.empty_cache()
+
+    def reload(self):
+        if self._pipe is None:
+            self._load()
 
     @property
     def _llm_type(self) -> str:

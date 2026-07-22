@@ -28,7 +28,7 @@ if sys.version_info >= (3, 14):
 MODEL_ID   = "google/gemma-4-E2B-it"
 DATA_DIR   = "./data"
 CSV_PATH   = "./filtered_data.csv"
-OUTPUT_DIR = "./output-gemma-plainV4"
+OUTPUT_DIR = "./output-gemma-plainV6"
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -106,7 +106,7 @@ print(f"Dataset: {len(dataset)} examples")
 
 training_args = SFTConfig(
     output_dir=OUTPUT_DIR,
-    num_train_epochs=2,
+    num_train_epochs=3,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=8,
     gradient_checkpointing=True,

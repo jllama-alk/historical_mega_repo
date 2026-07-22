@@ -1,13 +1,5 @@
 
 
-*The Historical Journal*, 26, 2 (1983), pp. 403—411
-Printed in Great Britain
-
-
-### KEITH WILSON
-
-*University of Leeds*
-
 On 30 November 1912 Sir Arthur Nicolson, permanent under-secretary at the Foreign Office, wrote a letter concerning Austro-Russian rivalry in the Balkans which had it been undated might well have been assigned to the month of July 1914:
 
 > If Austria attempts any coercive measures of any kind against Serbia I am quite convinced... that Russia would immediately take action herself. The question then arises as to what part Germany would play in the event of Austria and Russia coming to blows... and ... I myself have little doubt that Germany would stand by the side of Austria. I am informed by military experts that the Austrian Army could not really cope successfully with the Russian, and it is perfectly evident that Germany would not stand idly by and see her Ally defeated.
@@ -54,7 +46,6 @@ In November 1911 Grey had agreed with Cambon's picture: 'British public opinion.
 One of the areas where the attitude of the public could be forecast with some confidence concerned a Russian descent upon Constantinople. Another area, where the public's attitude could be both forecast and approved of by the advisers, concerned the independence and integrity of Belgium. In the scenarios envisaged in 1908/9 and in 1912/13 it was clear that any war that began in the east would work its way west. As it was acknowledged that Belgium was the 'highway to France' it was only a matter of time before Belgium became involved. A war over Serbia, as Cartwright realized, would be unpopular in England. A war over Belgium would not be. Clemenceau in August 1908 recalled a conversation in which Grey had said that if the Germans entered and overran Belgium 'it would make a great stir in England'. Hence Grey's assurances, according to Paul Cambon, that whilst the attitude of the cabinet could not be guaranteed, public opinion would pronounce itself in favour of France and would determine the direction taken by the British Government. And hence Nicolson's readiness to tell the French ambassador in December 1912 that, if all the continental powers were involved with one another, was provided by Hardinge in November 1908: In the event of Germany provoking hostilities with France, the question of armed intervention by Great Britain is one which would have to be decided by the Cabinet; but the decision would be more easily arrived at if German aggression had entailed a violation of the neutrality of Belgium which Great Britain has guaranteed to maintain.
 
 
----
 
 
 
@@ -62,7 +53,6 @@ One of the areas where the attitude of the public could be forecast with some co
 In the event, these forecasts proved accurate, this confidence not misplaced. Just as the German chancellor waited upon the declaration of Russian general mobilization in order to take advantage of its impact upon a public which had been prepared to regard Russia in the worst possible light, so Sir Edward Grey, whose initial response, according to his parliamentary private secretary, was that 'we cannot possibly afford to see the position of France weakened', and who at the same time appreciated that public opinion would not sanction going to war in the Serbian quarrel, waited upon a German invasion of Belgium in order to benefit from the predictable but untutored reaction of the British. C. P. Scott observed in the *Manchester Guardian* on 30 July 1914 that Grey 'walks deliberately past opportunities of saying that we are and will be neutral in the quarrels of Europe'. Though Grey hinted to the German ambassador as early as 27 July that Britain would not remain neutral if France and Russia became involved in the war, matters had not then progressed far enough for this to be announced publicly. Four days later Grey explained, according to Paul Cambon, what was still missing: Among the things necessary to bring about 'une modification dans la situation'; among the 'other issues' which Grey had told Lichnowsky 'would supersede the dispute between Austria and Serbia' was — the question of Belgian neutrality. Grey told Lichnowsky on 1 August that 'the neutrality of Belgium would appeal very strongly to public opinion here', and it is difficult not to agree with Outhwaite M.P., that the appeal made to the house of commons on 3 August on behalf of Belgium was 'an appeal that Grey knew would carry weight in this country'.Belgium was being used as a *locus standi*, whose value was, as Grey had said of a proposed exchange of assurances between England and France concerning their possessions in the
 
 
----
 
 
 

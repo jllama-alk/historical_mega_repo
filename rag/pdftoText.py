@@ -4,6 +4,9 @@ import os
 
 from llama_cloud import AsyncLlamaCloud
 
+PDF_FOLDER = "pdfs-back"
+TEXT_OUTPUT_FOLDER = "texts-l"
+
 async def process_pdf(file_path):
     client = AsyncLlamaCloud(api_key="llx-BRg54Rz6hpadc3mD0GYVZgYeH1dDhwT9sPm68MXPoVwIVry5")
 
@@ -27,20 +30,20 @@ def pdf_to_text(pdf_path):
     return text
 
 def convention_run():
-    for pdf in os.listdir("pdfs"):
+    for pdf in os.listdir(PDF_FOLDER):
         if pdf.endswith(".pdf"):
-            pdf_path = os.path.join("pdfs", pdf)
+            pdf_path = os.path.join(PDF_FOLDER, pdf)
             text = pdf_to_text(pdf_path)
             txt_path = os.path.join("texts", pdf.replace(".pdf", ".txt"))
             with open(txt_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
 async def run_all():
-    for pdf in os.listdir("pdfs"):
+    for pdf in os.listdir(PDF_FOLDER):
         if pdf.endswith(".pdf"):
-            pdf_path = os.path.join("pdfs", pdf)
+            pdf_path = os.path.join(PDF_FOLDER, pdf)
             text = await process_pdf(pdf_path)
-            txt_path = os.path.join("texts-l", pdf.replace(".pdf", ".txt"))
+            txt_path = os.path.join(TEXT_OUTPUT_FOLDER, pdf.replace(".pdf", ".md"))
             with open(txt_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
