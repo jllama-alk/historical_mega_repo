@@ -8,7 +8,7 @@ PDF_FOLDER = "pdfs-back"
 TEXT_OUTPUT_FOLDER = "texts-l"
 
 async def process_pdf(file_path):
-    client = AsyncLlamaCloud(api_key="llx-BRg54Rz6hpadc3mD0GYVZgYeH1dDhwT9sPm68MXPoVwIVry5")
+    client = AsyncLlamaCloud(api_key="llx-REDACTED")
 
     file_obj = await client.files.create(file=file_path, purpose="parse")
 
